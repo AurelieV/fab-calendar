@@ -15,14 +15,19 @@
                     Filter by countries
                 </div>
                 <Pf_ExpandTransition>
-                    <ul v-if="isFiltersOpen" class="grid grid-cols-2 gap-2 md:grid-cols-4">
-                        <li v-for="country of countries" :key="country">
-                            <label class="flex items-center cursor-pointer">
-                                <input v-model="filteredCountries[country]" type="checkbox" class="mr-2" />
-                                {{ country }}
-                            </label>
-                        </li>
-                    </ul>
+                    <div v-if="isFiltersOpen">
+                        <div class="flex flex-col my-2 md:flex-row md:justify-end">
+                            <button class="pf-btn -secondary" @click="uncheckAll">Uncheck all</button>
+                        </div>
+                        <ul class="grid grid-cols-2 gap-2 md:grid-cols-4">
+                            <li v-for="country of countries" :key="country">
+                                <label class="flex items-center cursor-pointer">
+                                    <input v-model="filteredCountries[country]" type="checkbox" class="mr-2" />
+                                    {{ country }}
+                                </label>
+                            </li>
+                        </ul>
+                    </div>
                 </Pf_ExpandTransition>
             </section>
             <section class="flex flex-col gap-2 mt-4 md:grid md:grid-cols-2">
@@ -43,6 +48,9 @@
                     </div>
                 </article>
             </section>
+            <p v-if="filteredTournaments.length === 0" class="mt-4">
+                If you do not see any data, please check your filters
+            </p>
         </main>
         <Pf_Footer></Pf_Footer>
     </div>
@@ -98,7 +106,11 @@ export default {
             { deep: true }
         );
 
-        return { months, countries, filteredCountries, isFiltersOpen: ref(false) };
+        function uncheckAll() {
+            Object.keys(filteredCountries).forEach((country) => (filteredCountries[country] = false));
+        }
+
+        return { months, countries, filteredCountries, isFiltersOpen: ref(false), uncheckAll, filteredTournaments };
     },
 };
 </script>
