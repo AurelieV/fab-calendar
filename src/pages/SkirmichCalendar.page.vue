@@ -5,7 +5,7 @@
     </main>
     <nav class="mt-6 mb-2">
       <ul>
-        <li class="text-center"><a class="pf-link" href="/">Skirmich Calendar</a></li>
+        <li class="text-center"><a class="pf-link" href="/proquest">ProQuest Calendar</a></li>
       </ul>
     </nav>
     <Pf_Footer></Pf_Footer>
@@ -16,9 +16,9 @@
 import { Pf_Footer } from 'purplefox-tools'
 
 import TournamentCalendar from '/src/components/TournamentCalendar.vue'
-import tournaments from '/src/assets/data/tournaments.json'
+import tournaments from '/src/assets/data/skirmich-4.json'
 
-const title = 'Flesh and Blood ProQuest Calendar'
+const title = 'Flesh and Blood Skirmich Calendar'
 
 export const documentProps = {
   title,

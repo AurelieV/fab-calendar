@@ -4,8 +4,9 @@ const parseDate = require('date-fns/parse')
 const formatDate = require('date-fns/format')
 const fs = require('fs')
 
-const nbPage = 18
+const nbPage = 37
 const PQ_TYPE = 18
+const SKIRMIRCH_TYPE = 40
 
 function getOptions(page, type = '') {
   return {
@@ -22,7 +23,7 @@ async function scrapPage(page, type) {
   try {
     const $ = await rp(getOptions(page, type))
     $('.event').each(function () {
-      const name = $(this).find('h2').text().replace('Pro Quest', '').trim()
+      const name = $(this).find('h2').text().replace('Skirmish season 4 Blitz', '').trim()
       const country = $(this).find('i.flag').attr('title')
       const link = $(this).find('a').attr('href')
 
@@ -54,4 +55,4 @@ async function scrap(type) {
   fs.writeFileSync('all-tournaments.json', JSON.stringify(result, null, 4))
 }
 
-scrap(PQ_TYPE)
+scrap(SKIRMIRCH_TYPE)
