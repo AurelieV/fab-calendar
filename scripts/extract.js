@@ -4,9 +4,8 @@ const parseDate = require('date-fns/parse')
 const formatDate = require('date-fns/format')
 const fs = require('fs')
 
-const nbPage = 37
-const PQ_TYPE = 18
-const SKIRMIRCH_TYPE = 40
+const nbPage = 21
+const TYPE = 42
 
 function getOptions(page, type = '') {
   return {
@@ -55,4 +54,4 @@ async function scrap(type) {
   fs.writeFileSync('all-tournaments.json', JSON.stringify(result, null, 4))
 }
 
-scrap(SKIRMIRCH_TYPE)
+scrap(TYPE)
