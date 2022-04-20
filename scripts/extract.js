@@ -4,7 +4,7 @@ const parseDate = require('date-fns/parse')
 const formatDate = require('date-fns/format')
 const fs = require('fs')
 
-const nbPage = 21
+const nbPage = 22
 const TYPE = 42
 
 function getOptions(page, type = '') {
