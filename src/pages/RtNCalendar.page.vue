@@ -22,7 +22,7 @@ import tournaments_draft from '/src/assets/data/rtn-draft-2022.json'
 
 const tournaments = [...tournaments_cc, tournaments_draft]
 
-const title = 'Flesh and Blood Road to National Calendar Q2'
+const title = 'Flesh and Blood Road to National Calendar'
 
 export const documentProps = {
   title,
