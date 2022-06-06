@@ -1,1502 +1,1432 @@
 [
     {
-        "name": "Classic Constructed CUBE",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/cube/#event70658",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "47 Aleje Solidarności, Stare Miasto, Poznań, Wielkopolskie, Poland"
-    },
-    {
-        "name": "Classic Constructed Red Dragon Comics, Cards and Games",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/red-dragon-ccg/#event69707",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "6008 Voyageur Drive, Gloucester, Ottawa Division, ON, Canada"
-    },
-    {
-        "name": "Classic Constructed De Dobbelsteen Den Bosch",
-        "country": "Netherlands",
-        "link": "https://www.dedobbelsteen.com/service/agenda-den-bosch/",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "56 Vughterstraat, 's-Hertogenbosch, NB, Netherlands"
-    },
-    {
-        "name": "Classic Constructed The Side Deck Gaming Cafe",
+        "name": "Uprising Draft MinMaxGames",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-side-deck-gaming-cafe-2/#event71073",
+        "link": "https://www.minmaxgames.com/products/flesh-and-blood-road-to-nationals",
         "date": {
             "day": 2,
             "month": 7
         },
-        "address": "5060 Sunset Boulevard, Lexington County, SC, United States"
+        "address": "2111 Butterfield Road, DuPage County, IL, United States"
     },
     {
-        "name": "Classic Constructed Card Merchant Nelson",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/card-merchant-nelson/#event69477",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "129 Hardy Street, Nelson, Nelson, New Zealand"
-    },
-    {
-        "name": "Classic Constructed The Bearded Card Trader",
-        "country": "United Kingdom",
-        "link": "https://www.thebeardedcardtrader.com/store/p7650/Flesh_and_Blood_Road_to_Nationals_2022_Saturday_July_2nd_12%3A00.html#/",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "Front Street, County Durham, England, United Kingdom"
-    },
-    {
-        "name": "Classic Constructed Kingdom Gaming Ltd",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/kingdom-gaming-ltd/#event69526",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "Freehold Street, Northamptonshire, England, United Kingdom"
-    },
-    {
-        "name": "Classic Constructed The Connection Games & Hobbies",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/the-connection-games-hobbies/#event70601",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "2945 Renfrew Street, Metro Vancouver, BC, Canada"
-    },
-    {
-        "name": "Classic Constructed Gamer's Lair",
-        "country": "Canada",
-        "link": "https://glspecialevents.eventcalendarapp.com/u/36146/167891",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "274 Burton Avenue, Simcoe County, ON, Canada"
-    },
-    {
-        "name": "Classic Constructed Kitchen Table Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/kitchen-table-games/#event69523",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "9600 66th Street North, Pinellas County, FL, United States"
-    },
-    {
-        "name": "Classic Constructed Gamestower",
-        "country": "Luxembourg",
-        "link": "https://fabtcg.com/locator/gamestower/#event71344",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "33 Rue de la Gare, Mersch, District de Luxembourg, Luxembourg"
-    },
-    {
-        "name": "Classic Constructed Le Temple du Jeu Nantes - Boutique Cartes",
-        "country": "France",
-        "link": "https://fabtcg.com/locator/le-temple-du-jeu-nantes/#event70666",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "23 Quai de la Fosse, Loire-Atlantique, Pays de la Loire, France"
-    },
-    {
-        "name": "Classic Constructed The Game Center - Campbelltown",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/the-game-center-campbelltown/#event71271",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "42-44 Queen Street, City of Campbelltown, NSW, Australia"
-    },
-    {
-        "name": "Classic Constructed Fantasy Shop",
-        "country": "Greece",
-        "link": "https://fabtcg.com/locator/fantasy-shop/#event69625",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "65 3is Septemvriou, Greece"
-    },
-    {
-        "name": "Classic Constructed Sushi Knight Gaming",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/sushi-knight/#event71019",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "47 Dudley Street, Hutt Central, Wellington, New Zealand"
-    },
-    {
-        "name": "Classic Constructed Monster Comic Lounge",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/monster-comic-lounge/#event69696",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "2089 Gottingen Street, Halifax Regional Municipality, NS, Canada"
-    },
-    {
-        "name": "Classic Constructed P-Games",
-        "country": "Slovakia",
-        "link": "https://fabtcg.com/locator/p-games/#event69680",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "Námestie Ľudovíta Štúra, Banská Bystrica, Banská Bystrica, Banskobystrický kraj, Slovakia"
-    },
-    {
-        "name": "Classic Constructed ChannelFireball Game Center",
-        "country": "United States of America",
-        "link": "https://channelfireball-game-center.myshopify.com/",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "1171 Homestead Road, Santa Clara County, CA, United States"
-    },
-    {
-        "name": "Classic Constructed Dice Saloon",
-        "country": "United Kingdom",
-        "link": "https://www.dicesaloonsingles.com/events/fab-road-to-nationals-2022-classic-constructed-2022-03-07-22",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "88 London Road, Brighton and Hove, England, United Kingdom"
-    },
-    {
-        "name": "Classic Constructed 貓腳印士林店",
-        "country": "Taiwan",
-        "link": "https://fabtcg.com/locator/cat-footprints-shilin/#event69873",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "Taoyuan City, Taiwan"
-    },
-    {
-        "name": "Classic Constructed Sapphire-Cards",
-        "country": "Germany",
-        "link": "https://sapphire-cards.de/flesh-and-blood-tcg/turniertickets/",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "7 Maler-Bürkel-Straße, Pirmasens, Germany"
-    },
-    {
-        "name": "Classic Constructed Titan Games",
-        "country": "Netherlands",
-        "link": "https://fabtcg.com/locator/titan-games/#event71632",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "3 Kruisstraat, Boxtel, NB, Netherlands"
-    },
-    {
-        "name": "Classic Constructed ReRoll Games",
-        "country": "Ireland",
-        "link": "https://fabtcg.com/locator/reroll-games/#event70932",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "44 Flower Hill, MH, Ireland"
-    },
-    {
-        "name": "Classic Constructed JWW Sports Cards & Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/jww-sports-cards-gaming/#event69700",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "3902 13th Avenue South, Cass County, ND, United States"
-    },
-    {
-        "name": "Classic Constructed Carta Magica",
-        "country": "Croatia",
-        "link": "https://fabtcg.com/locator/carta-magica/#event69561",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "20 Frankopanska ulica, Croatia"
-    },
-    {
-        "name": "Classic Constructed BattlegroundHK",
-        "country": "Hong Kong",
-        "link": "https://fabtcg.com/locator/battlegroundhk/#event69886",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "11 Cheung Shun Street, Kowloon, Hong Kong"
-    },
-    {
-        "name": "Classic Constructed Advantage Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/advantage-games/#event70633",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "1010 West 104th Avenue, Adams County, CO, United States"
-    },
-    {
-        "name": "Classic Constructed Outpost Brussels",
+        "name": "Uprising Draft GameVault",
         "country": "Belgium",
-        "link": "https://www.facebook/outpostbrussels",
+        "link": "https://fabtcg.com/locator/gamevault/#event69549",
         "date": {
-            "day": 3,
+            "day": 2,
             "month": 7
         },
-        "address": "8 Kanselstraat, Brussel, Belgium"
+        "address": "36 Hofstraat, Oost-Vlaanderen, Vlaanderen, Belgium"
     },
     {
-        "name": "Classic Constructed Shenanigans Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/shenanigans-gaming/#event69626",
+        "name": "Uprising Draft BLOODRUSH Gaming",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/mtg-card-sales/#event71229",
         "date": {
-            "day": 3,
+            "day": 2,
             "month": 7
         },
-        "address": "5251 Timberhill, Bexar County, TX, United States"
+        "address": "69 Webb Street, Central Coast Council, NSW, Australia"
     },
     {
-        "name": "Classic Constructed Checkpoint",
-        "country": "Romania",
-        "link": "https://fabtcg.com/locator/checkpoint/#event69610",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "20 Strada Milton Lehrer, Municipiul Cluj - Napoca, CJ, Romania"
-    },
-    {
-        "name": "Classic Constructed Ludiworld",
-        "country": "France",
-        "link": "https://fabtcg.com/locator/ludiworld/#event69533",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "9 Boulevard Pierre Mendès France, Seine-et-Marne, IDF, France"
-    },
-    {
-        "name": "Classic Constructed White Rabbit Community Game Store",
-        "country": "Germany",
-        "link": "https://www.whiterabbit-cgs.de/wp/events/fab-rtn-e-220709/",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "79 Segerothstraße, Stadtbezirke I, Essen, Germany"
-    },
-    {
-        "name": "Classic Constructed Alara Games",
-        "country": "Sweden",
-        "link": "https://www.alaragames.se/",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "16 Föreningsgatan, Centrala Staden-Tingvalla, Västra Götalands län, Sweden"
-    },
-    {
-        "name": "Classic Constructed 401 Games Toronto",
-        "country": "Canada",
-        "link": "http://www.401games.ca/events/fleshandbloodtcg/1443",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "750 Yonge Street, Old Toronto, Toronto Division, ON, Canada"
-    },
-    {
-        "name": "Classic Constructed The Adventurer's Guild",
-        "country": "United States of America",
-        "link": "https://advguild.eventcalendarapp.com/u/31554/evt_external_6296b70da936017a01673c2f?repeatId=evt_external_6296b70da936017a01673c2f",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "3846a Union Deposit Road, Dauphin County, PA, United States"
-    },
-    {
-        "name": "Classic Constructed Nerd Rage Gaming",
-        "country": "United States of America",
-        "link": "https://www.nerdragegaming.com/",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "1361 West Dundee Road, Cook County, IL, United States"
-    },
-    {
-        "name": "Classic Constructed Family Time Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/family-time-games/#event71286",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "8796 Michigan Road, Marion County, IN, United States"
-    },
-    {
-        "name": "Classic Constructed Strefa MTG",
+        "name": "Uprising Draft Feniks",
         "country": "Poland",
-        "link": "https://www.facebook.com/events/687854965612125",
+        "link": "https://fabtcg.com/locator/feniks/#event70784",
         "date": {
-            "day": 9,
+            "day": 2,
             "month": 7
         },
-        "address": "30a Polna, Śródmieście, Warszawa, Mazowieckie, Poland"
+        "address": "32 Kołłątaja, Stare Miasto, Wrocław, Dolnośląskie, Poland"
     },
     {
-        "name": "Classic Constructed 217 Comics, Cards & Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/217-comics-cards-games/#event71051",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "1820 Adlai Stevenson Drive, Sangamon County, IL, United States"
-    },
-    {
-        "name": "Classic Constructed Lucky Dice Cafe",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/lucky-dice-cafe/#event70969",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "7914 Memorial Parkway Southwest, Madison County, AL, United States"
-    },
-    {
-        "name": "Classic Constructed SpielRaum GmbH",
-        "country": "Austria",
-        "link": "https://www.spielraum.co.at/de/turniere/road-to-nationals-flesh-and-blood.aspx",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "17 Otto-Bauer-Gasse, Mariahilf, Wien, Austria"
-    },
-    {
-        "name": "Classic Constructed Out of the Box Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/out-of-the-box-gaming/#event70237",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "36 West Main Street, Davidson County, NC, United States"
-    },
-    {
-        "name": "Classic Constructed ShoeBox Games & Cafe",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/shoebox-games-cafe/#event71211",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "509 McKnight Boulevard Northeast, Division No. 6, AB, Canada"
-    },
-    {
-        "name": "Classic Constructed Game Kastle Sacramento",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/game-kastle-sacramento/#event69839",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "5522 Garfield Avenue, Sacramento County, CA, United States"
-    },
-    {
-        "name": "Classic Constructed 貓腳印新莊店",
-        "country": "Taiwan",
-        "link": "https://fabtcg.com/locator/catfootxinzhuang/#event70707",
-        "date": {
-            "day": 9,
-            "month": 7
-        },
-        "address": "100 Fuguo Road, New Taipei City, Taiwan"
-    },
-    {
-        "name": "Classic Constructed shuffle “n\" cut hobbies and games",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/shuffle-n-cut-hobbies-and-games/#event71580",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "240a Broadway, Newmarket, Auckland, New Zealand"
-    },
-    {
-        "name": "Classic Constructed Midian Gaming",
-        "country": "Australia",
-        "link": "https://fb.me/e/4xLFzXeU6",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "16 Fuller Road, Melton City, VIC, Australia"
-    },
-    {
-        "name": "Classic Constructed RELIC",
-        "country": "France",
-        "link": "https://event.relictcg.com/",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "32 Grande Rue Saint-Michel, Haute-Garonne, Occitanie, France"
-    },
-    {
-        "name": "Classic Constructed Epic Panda Aarhus",
-        "country": "Denmark",
-        "link": "https://fabtcg.com/locator/epic-panda-aarhus/#event71015",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "Frederiksgade, Aarhus C, Denmark"
-    },
-    {
-        "name": "Classic Constructed The Coliseum Cards & Collectibles",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-coliseum-cards-collectibles/#event69986",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "345 South Main Street, Androscoggin County, ME, United States"
-    },
-    {
-        "name": "Classic Constructed Mox Boarding House",
-        "country": "United States of America",
-        "link": "https://app.getoccasion.com/xp/lDzhQjwZ",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "13310 Bel-Red Road, King County, WA, United States"
-    },
-    {
-        "name": "Classic Constructed Kingslayer Games (Fountain Valley, CA)",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/kingslayer-games/#event69809",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "11213 Slater Avenue, Orange County, CA, United States"
-    },
-    {
-        "name": "Classic Constructed One Drop Game Shop",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/one-drop-game-shop/#event70616",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "2724 North Amidon Avenue, Sedgwick County, KS, United States"
-    },
-    {
-        "name": "Classic Constructed Manascrew",
+        "name": "Uprising Draft JustPlay",
         "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/manascrew/#event69525",
+        "link": "https://fabtcg.com/locator/justplay/#event69951",
         "date": {
-            "day": 10,
+            "day": 2,
             "month": 7
         },
-        "address": "52 Sheep Street, Northamptonshire, England, United Kingdom"
+        "address": "61 Tithebarn Street, Merseyside, England, United Kingdom"
     },
     {
-        "name": "Classic Constructed Pinnacle Cards and Games LLC",
+        "name": "Uprising Draft A Hidden Fortress",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/pinnacle-cards-and-games-llc/#event71903",
+        "link": "https://discord.gg/vQM3PXACMf",
         "date": {
-            "day": 10,
+            "day": 2,
             "month": 7
         },
-        "address": "1056 Montgomery Highway, Jefferson County, AL, United States"
+        "address": "1960 Sequoia Avenue, Ventura County, CA, United States"
     },
     {
-        "name": "Classic Constructed JK Entertainment",
-        "country": "Germany",
-        "link": "https://jk-events.de/flesh-blood/",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "267 Eschersheimer Landstraße, Innenstadt I, Frankfurt am Main, Germany"
-    },
-    {
-        "name": "Classic Constructed Kaboom Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/kaboom-games/#event70047",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "3521 North 10th Street, Hidalgo County, TX, United States"
-    },
-    {
-        "name": "Classic Constructed Elementgaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/elementgaming/#event70409",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "2801 Wade Hampton Boulevard, Greenville County, SC, United States"
-    },
-    {
-        "name": "Classic Constructed Tubbys TCG",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/tubbys-tcg/#event70110",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "9019 Park Plaza Drive, San Diego County, CA, United States"
-    },
-    {
-        "name": "Classic Constructed Man o' War Games, LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/man-o-war-games-llc/#event70250",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "2033 North Highway 190, St. Tammany Parish, LA, United States"
-    },
-    {
-        "name": "Classic Constructed Faraos Cigarer Copenhagen",
-        "country": "Denmark",
-        "link": "https://fabtcg.com/locator/faraos-cigarer-copenhagen/#event71341",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "6 Nørregade, København K, Denmark"
-    },
-    {
-        "name": "Classic Constructed Medusa Gaming",
-        "country": "United States of America",
-        "link": "https://www.facebook.com/medusa.plattsburgh/posts/5394859360572250",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "1 Broad Street, Clinton County, NY, United States"
-    },
-    {
-        "name": "Classic Constructed Atomic Comics Emporium II (Newport News)",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/atomic-comics-emporium-ii/#event70129",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "467b Denbigh Boulevard, VA, United States"
-    },
-    {
-        "name": "Classic Constructed Boards and Swords Hobbies",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/boards-and-swords-hobbies/#event69640",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "3 Jubilee Parkway, Derby, England, United Kingdom"
-    },
-    {
-        "name": "Classic Constructed EH Gaming",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/eh-gaming/#event70862",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "Hawthorn Terrace, York, England, United Kingdom"
-    },
-    {
-        "name": "Classic Constructed Dream Wizards",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/dream-wizards/#event69656",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "11772 Parklawn Drive, Montgomery County, MD, United States"
-    },
-    {
-        "name": "Classic Constructed Unplugged Games",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/unplugged-games/#event71600",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "132 Dawson Street, Lismore City Council, NSW, Australia"
-    },
-    {
-        "name": "Classic Constructed Flipside Gaming East Greenbush",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/flipside-gaming-east-greenbush/#event71126",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "598 Columbia Turnpike, Rensselaer County, NY, United States"
-    },
-    {
-        "name": "Classic Constructed Card Merchant Westcity",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/card-merchant-westcity/#event69471",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "7 Catherine Street, Henderson, Auckland, New Zealand"
-    },
-    {
-        "name": "Classic Constructed Shop Gracz",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/shop-gracz/#event70214",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "16 Bolesława Limanowskiego, Podgórze, Kraków, Małopolskie, Poland"
-    },
-    {
-        "name": "Classic Constructed Need Now Toys & Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/need-now-toys-games/#event70945",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "945 Esther Lane, Rutherford County, TN, United States"
-    },
-    {
-        "name": "Classic Constructed Funtainment GmbH",
-        "country": "Germany",
-        "link": "https://shop.funtainment.de/detail/index/sArticle/49193",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "12A Landwehrstraße, Ludwigsvorstadt-Isarvorstadt, München, Germany"
-    },
-    {
-        "name": "Classic Constructed Victory Point Cafe",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/victory-point-cafe/#event70904",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "1797 Shattuck Avenue, Alameda County, CA, United States"
-    },
-    {
-        "name": "Classic Constructed Outland Oslo",
-        "country": "Norway",
-        "link": "https://fabtcg.com/locator/outland-oslo/#event70678",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "5 Grensen, Sentrum, Oslo kommune, Oslo, Norway"
-    },
-    {
-        "name": "Classic Constructed Amazing Discoveries",
-        "country": "United States of America",
-        "link": "https://www.amazingmtg.com/catalog/events-tucson_events/14228",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "South Tucson Boulevard, Pima County, AZ, United States"
-    },
-    {
-        "name": "Classic Constructed The Imaginarium",
-        "country": "Singapore",
-        "link": "https://fabtcg.com/locator/the-imaginarium/#event69616",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "430 Upper Changi Road, Singapore"
-    },
-    {
-        "name": "Classic Constructed Enchanted Realms Games and Gifts",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/enchanted-realms-games-and-gifts/#event70989",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "1050 South Academy Boulevard, El Paso County, CO, United States"
-    },
-    {
-        "name": "Classic Constructed Valkyrie Games",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/valkyrie-games/#event70943",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "134 King Street, Palmerston North, Manawatu-Wanganui, New Zealand"
-    },
-    {
-        "name": "Classic Constructed The Gaming Verse",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/the-gaming-verse-box-hill/#event69521",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "975 Whitehorse Road, Whitehorse City, VIC, Australia"
-    },
-    {
-        "name": "Classic Constructed Darkside Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/darkside-games/#event70043",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "9620 South Las Vegas Boulevard, Clark County, NV, United States"
-    },
-    {
-        "name": "Classic Constructed Dragon Egg Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/dragon-egg-games/#event71252",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "2499 Gabel Road, Yellowstone County, MT, United States"
-    },
-    {
-        "name": "Classic Constructed Four Horsemen Comics and Gaming - Morgantown Mall",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/four-horsemen-comics-and-gaming/#event70801",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "9515 Mall Road, Monongalia County, WV, United States"
-    },
-    {
-        "name": "Classic Constructed Eternal Games LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/eternal-games-llc/#event69819",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "26051 Hoover Road, Macomb County, MI, United States"
-    },
-    {
-        "name": "Classic Constructed The Local Game Store",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-local-game-store/#event70995",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "970 North Coit Road, Dallas County, TX, United States"
-    },
-    {
-        "name": "Classic Constructed Mythos Games",
-        "country": "United States of America",
-        "link": "https://www.mythos.games/module/class/414119/flesh-and-blood-road-to-nationals",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "681 West 10600 South, Salt Lake County, UT, United States"
-    },
-    {
-        "name": "Classic Constructed Millennium Games",
-        "country": "United States of America",
-        "link": "http://www.millenniumgames.com",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "3047 West Henrietta Road, Monroe County, NY, United States"
-    },
-    {
-        "name": "Classic Constructed Weatherlight",
-        "country": "Hong Kong",
-        "link": "https://fabtcg.com/locator/weatherlight/#event69454",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "21 Shing Yip Street, Kowloon, Hong Kong"
-    },
-    {
-        "name": "Classic Constructed Drugiyat Zamak",
-        "country": "Bulgaria",
-        "link": "https://fabtcg.com/locator/drugiyat-zamak/#event70703",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "Sofia City Province, Bulgaria"
-    },
-    {
-        "name": "Classic Constructed Flipped Table Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/flipped-table-games/#event70034",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "2125 McComb Road, Dane County, WI, United States"
-    },
-    {
-        "name": "Classic Constructed Lantern Games LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/lantern-games-llc/#event71174",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "821 South Garfield Avenue, Grand Traverse County, MI, United States"
-    },
-    {
-        "name": "Classic Constructed HGround Hobbies and Toys Shop",
-        "country": "Philippines",
-        "link": "https://fabtcg.com/locator/hground-hobbies-and-toys-shop/#event69946",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "46 Kayang Street, Benguet, CAR, Philippines"
-    },
-    {
-        "name": "Classic Constructed The Cloak and Blaster",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-cloak-and-blaster/#event70520",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "12226 Corporate Boulevard, Orange County, FL, United States"
-    },
-    {
-        "name": "Classic Constructed Fat Ogre Games & Comics, Inc",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/fat-ogre-games-comics-inc/#event71264",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "525 Sawdust Road, Montgomery County, TX, United States"
-    },
-    {
-        "name": "Classic Constructed Vivae Board Game Cafe",
-        "country": "Malaysia",
-        "link": "https://fabtcg.com/locator/vivae-board-game-cafe/#event71601",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "18a Jalan SS 21/62, Damansara Utama, Selangor, Malaysia"
-    },
-    {
-        "name": "Classic Constructed Comic Kung Fu",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/comic-kung-fu/#event69801",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "672 North Loudoun Street, VA, United States"
-    },
-    {
-        "name": "Classic Constructed Mox Boarding House Portland",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/mox-boarding-house-portland/#event70937",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "1938 West Burnside Street, Multnomah County, OR, United States"
-    },
-    {
-        "name": "Classic Constructed 't Spelgeweld",
-        "country": "Belgium",
-        "link": "https://fabtcg.com/locator/t-spelgeweld/#event69908",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "41 Noordstraat, West-Vlaanderen, Vlaanderen, Belgium"
-    },
-    {
-        "name": "Classic Constructed The Hurricane Collective",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/the-hurricane-collective/#event69518",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "3 Goddard Street, City of Rockingham, WA, Australia"
-    },
-    {
-        "name": "Classic Constructed GL Book Exchange",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/gl-book-exchange/#event71714",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "304 South Bridge Street, Eaton County, MI, United States"
-    },
-    {
-        "name": "Classic Constructed Il Labirinto - Comics, Cards & Games",
-        "country": "Italy",
-        "link": "https://fabtcg.com/locator/il-labirinto-comics-cards-games/#event69532",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "7 Via Don Vincenzo Donadeo, Città Metropolitana di Milano, Lombardia, Italy"
-    },
-    {
-        "name": "Classic Constructed Minipolo - The Boardgame Cafe",
-        "country": "Vietnam",
-        "link": "https://fabtcg.com/locator/minipolo-the-boardgame-cafe/#event70971",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "20 Phố Láng Hạ, Đống Đa, Hà Nội, Vietnam"
-    },
-    {
-        "name": "Classic Constructed Mox in the Hole",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/mox-in-the-hole/#event70706",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "18 Lochrin Buildings, Edinburgh, Scotland, United Kingdom"
-    },
-    {
-        "name": "Classic Constructed Ender's Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/enders-games/#event69960",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "195 West Shaw Avenue, Fresno County, CA, United States"
-    },
-    {
-        "name": "Classic Constructed Modern Table Top",
-        "country": "United States of America",
-        "link": "https://fb.me/e/1uXp5LFWQ",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "4616 Chester Square Road, Chesterfield County, VA, United States"
-    },
-    {
-        "name": "Classic Constructed Rule Zero",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/rule-zero/#event71631",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "4A Roach Road, Greater London, England, United Kingdom"
-    },
-    {
-        "name": "Classic Constructed Epic Loot Games and Comics",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/epic-loot-games-and-comics/#event71366",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "9130 Dayton Lebanon Pike, Montgomery County, OH, United States"
-    },
-    {
-        "name": "Classic Constructed Kitsu Models Hobby Shop",
-        "country": "Brunei",
-        "link": "https://fabtcg.com/locator/kitsu-models-hobby-shop/#event71261",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "Kampong Kiulap, Kianggeh, Brunei-Muara District, Brunei"
-    },
-    {
-        "name": "Classic Constructed Nexus Tabletop Games Cafe",
-        "country": "Indonesia",
-        "link": "https://fabtcg.com/locator/nexus-tabletop-games-cafe/#event69948",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "Surabaya City, East Java, Indonesia"
-    },
-    {
-        "name": "Classic Constructed Brood en Spelen",
-        "country": "Belgium",
-        "link": "https://fabtcg.com/locator/brood-en-spelen/#event69574",
-        "date": {
-            "day": 21,
-            "month": 7
-        },
-        "address": "41 Stationsstraat, Oost-Vlaanderen, Vlaams Gewest, Belgium"
-    },
-    {
-        "name": "Classic Constructed The Geekery LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-geekery-llc/#event70219",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "12616 West 62nd Terrace, Johnson County, KS, United States"
-    },
-    {
-        "name": "Classic Constructed I CIVETTONI",
-        "country": "Italy",
-        "link": "https://fabtcg.com/locator/i-civettoni/#event71006",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "20 Via Evandro, Città Metropolitana di Roma, Lazio, Italy"
-    },
-    {
-        "name": "Classic Constructed Team Covenant",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/team-covenant/#event70847",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "1902 East 71st Street, Tulsa County, OK, United States"
-    },
-    {
-        "name": "Classic Constructed Azkaban Juegos",
-        "country": "Spain",
-        "link": "https://fabtcg.com/locator/azkaban-juegos/#event69551",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "13 Paseo de Fuente Lucha, Madrid, MD, Spain"
-    },
-    {
-        "name": "Classic Constructed Unison Games Cafe",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/unison-games-cafe/#event70966",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "2285 Whitney Avenue, New Haven County, CT, United States"
-    },
-    {
-        "name": "Classic Constructed Rip N Ship Arena LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/rip-n-ship-arena-llc/#event69624",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "729 Acorn Street, Suffolk County, NY, United States"
-    },
-    {
-        "name": "Classic Constructed HeroFreaks",
-        "country": "Spain",
-        "link": "https://fabtcg.com/locator/herofreaks/#event70483",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "20 Avinguda Drets Humans, Valencia, VC, Spain"
-    },
-    {
-        "name": "Classic Constructed X Level Hobbies",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/x-level-hobbies-2/#event71510",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "89 Frank Street, Middlesex County, ON, Canada"
-    },
-    {
-        "name": "Classic Constructed Tolarie s.r.o.",
-        "country": "Czechia",
-        "link": "https://www.facebook.com/events/362290745774177",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "Labská, Pardubice I, Pardubice, Pardubický kraj, Czechia"
-    },
-    {
-        "name": "Classic Constructed Keystone cards and games, LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/keystone-cards-and-games-llc/#event69667",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "515 South Keystone Avenue, Bradford County, PA, United States"
-    },
-    {
-        "name": "Classic Constructed Greg's Games",
-        "country": "United States of America",
-        "link": "http://gregsgames.com/events",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "2103 Whitehorse Mercerville Road, Mercer County, NJ, United States"
-    },
-    {
-        "name": "Classic Constructed Črna Luknja",
-        "country": "Slovenia",
-        "link": "https://fabtcg.com/locator/%C4%8Drna-luknja/#event71035",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "19 Poljanska cesta, Ljubljana, Slovenia"
-    },
-    {
-        "name": "Classic Constructed Cat Footprints (Kaohsiung)",
-        "country": "Taiwan",
-        "link": "https://fabtcg.com/locator/cat-footprints-kaohsiung/#event70642",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "77 Liwen Road, Kaohsiung City, Taiwan"
-    },
-    {
-        "name": "Classic Constructed Midgard Hobbies and Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/midgard-hobbies-and-games/#event69474",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "55 Crystal Avenue, Rockingham County, NH, United States"
-    },
-    {
-        "name": "Classic Constructed LEVEL UP GAMES LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/level-up-games-llc/#event71054",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "3700 Satellite Boulevard, Gwinnett County, GA, United States"
-    },
-    {
-        "name": "Classic Constructed GG Lounge",
-        "country": "Portugal",
-        "link": "https://fabtcg.com/locator/gg-lounge/#event69570",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "52 Rua São Pedro, Viseu, Portugal"
-    },
-    {
-        "name": "Classic Constructed Kraken Cards",
-        "country": "United States of America",
-        "link": "https://discord.com/invite/2kxJ8eye6k",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "114 Southwest 3rd Street, Benton County, OR, United States"
-    },
-    {
-        "name": "Classic Constructed Remetebarlang",
-        "country": "Hungary",
-        "link": "https://tarsasjatekvac.hu/esemeny/road-to-national-2022-remetebarlang/",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "Március 15. tér, Hungary"
-    },
-    {
-        "name": "Classic Constructed KEEPSEVEN",
-        "country": "Germany",
-        "link": "https://keepseven.de/",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "25 Große Burgstraße, Lübecker Altstadt, Lübeck, Germany"
-    },
-    {
-        "name": "Classic Constructed The Comic Book Shop",
-        "country": "United States of America",
-        "link": "https://fb.me/e/4SahwWrUl",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "4750 North Division Street, Spokane County, WA, United States"
-    },
-    {
-        "name": "Classic Constructed Sedai 4.5",
+        "name": "Uprising Draft Metagames Thailand",
         "country": "Thailand",
-        "link": "https://fabtcg.com/locator/sedai-45/#event71619",
+        "link": "https://fabtcg.com/locator/metagames-thailand/#event69618",
         "date": {
-            "day": 23,
+            "day": 2,
             "month": 7
         },
-        "address": "695 Sukhumvit Road, Khet Watthana, Krung Thep Maha Nakhon, Thailand"
+        "address": "879 Krungthep-Nonthaburi 23/1 Alley, Khet Bang Sue, Krung Thep Maha Nakhon, Thailand"
     },
     {
-        "name": "Classic Constructed Oh My Game Oy",
-        "country": "Finland",
-        "link": "https://fabtcg.com/locator/oh-my-game-oy/#event69741",
+        "name": "Uprising Draft Comic Book World Louisville",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/comic-book-world-louisville/#event69875",
         "date": {
-            "day": 23,
+            "day": 2,
             "month": 7
         },
-        "address": "4a Myyrmäentie, Finland"
+        "address": "6905 Shepherdsville Road, Jefferson County, KY, United States"
     },
     {
-        "name": "Classic Constructed Vintage Games N Junque",
+        "name": "Uprising Draft Chimera Gaming",
         "country": "Canada",
-        "link": "https://fabtcg.com/locator/vintage-games-n-junque/#event70221",
+        "link": "https://fabtcg.com/locator/chimera-gaming/#event70542",
         "date": {
-            "day": 23,
+            "day": 2,
             "month": 7
         },
-        "address": "165 Queen Street East, Algoma District, ON, Canada"
+        "address": "1668 King Street East, Waterloo Regional Municipality, ON, Canada"
     },
     {
-        "name": "Classic Constructed Loot Investments LLC / DBA Loot Card Shop",
+        "name": "Uprising Draft Cards Central",
+        "country": "Germany",
+        "link": "https://fabtcg.com/locator/cards-central/#event70364",
+        "date": {
+            "day": 2,
+            "month": 7
+        },
+        "address": "11 Spiekermannstraße, Gelsenkirchen-Ost, Gelsenkirchen, Germany"
+    },
+    {
+        "name": "Uprising Draft Multiverse Games, Comics and More",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/loot-investments-llc-dba-loot-card-shop/#event69721",
+        "link": "https://fabtcg.com/locator/multiverse-games-comics-and-more/#event71065",
         "date": {
-            "day": 23,
+            "day": 2,
             "month": 7
         },
-        "address": "58 Barker Road, Washtenaw County, MI, United States"
+        "address": "239 East Front Street, Alamance County, NC, United States"
     },
     {
-        "name": "Classic Constructed Source Comics and Games",
+        "name": "Uprising Draft Forgotten Path Games",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/source-comics-and-games/#event71389",
+        "link": "https://fabtcg.com/locator/forgotten-path-games/#event70063",
         "date": {
-            "day": 23,
+            "day": 2,
             "month": 7
         },
-        "address": "2057 Snelling Avenue North, Ramsey County, MN, United States"
+        "address": "1919 Peabody Road, Solano County, CA, United States"
     },
     {
-        "name": "Classic Constructed Gulf Coast Hobby",
+        "name": "Uprising Draft Tulnar",
+        "country": "Slovakia",
+        "link": "https://fabtcg.com/locator/tulnar/#event70659",
+        "date": {
+            "day": 2,
+            "month": 7
+        },
+        "address": "7 Vajanského, Lučenec, Lučenec, Banskobystrický kraj, Slovakia"
+    },
+    {
+        "name": "Uprising Draft Jocozaur",
+        "country": "Romania",
+        "link": "https://fabtcg.com/locator/jocozaur/#event69573",
+        "date": {
+            "day": 2,
+            "month": 7
+        },
+        "address": "17 Strada Revoluției, Municipiul Târgu - Mureș, MS, Romania"
+    },
+    {
+        "name": "Uprising Draft CatFootPrints Playground - SongChiang",
+        "country": "Taiwan",
+        "link": "https://fabtcg.com/locator/catfootprints-playground-songchiang/#event70639",
+        "date": {
+            "day": 2,
+            "month": 7
+        },
+        "address": "95 Section 2, Nanjing East Road, Taipei City, Taiwan"
+    },
+    {
+        "name": "Uprising Draft InvasionToys",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/gulf-coast-hobby/#event70883",
+        "link": "https://discord.gg/DRCAb4VSSA",
         "date": {
-            "day": 23,
+            "day": 2,
             "month": 7
         },
-        "address": "6450 U.S. 90, Baldwin County, AL, United States"
+        "address": "5715 Kearny Villa Road, San Diego County, CA, United States"
     },
     {
-        "name": "Classic Constructed Gamers Guild",
+        "name": "Uprising Draft Unplugged Gaming",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/gamers-guild/#event69510",
+        "link": "https://fabtcg.com/locator/unplugged-gaming/#event71169",
         "date": {
-            "day": 23,
+            "day": 2,
             "month": 7
         },
-        "address": "1044 Lillington Highway, Cumberland County, NC, United States"
+        "address": "315 Fayette Street, Onondaga County, NY, United States"
     },
     {
-        "name": "Classic Constructed Ettin Games Albuququerque",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/ettin-games-albuququerque/#event71135",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "8510 Montgomery Boulevard Northeast, Bernalillo County, NM, United States"
-    },
-    {
-        "name": "Classic Constructed Magnolia Gaming Huntsville",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/magnolia-gaming-huntsville/#event71128",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "2806 Memorial Parkway Southwest, Madison County, AL, United States"
-    },
-    {
-        "name": "Classic Constructed The Armchair Adventurer",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-armchair-adventurer/#event69800",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "650 Iwilei Road, Honolulu County, HI, United States"
-    },
-    {
-        "name": "Classic Constructed No Dice",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/no-dice/#event69929",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "51 Todd Street, Alice Springs Municipality, NT, Australia"
-    },
-    {
-        "name": "Classic Constructed Dragon's Lair St Marys",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/dragons-lair-hobbies-and-gaming-2/#event71282",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "1151 South Road, City of Mitcham, SA, Australia"
-    },
-    {
-        "name": "Classic Constructed Game On!",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/game-on/#event71947",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "5701 Yadkin Road, Cumberland County, NC, United States"
-    },
-    {
-        "name": "Classic Constructed Good Times Games",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/good-times-games/#event71440",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "302 2 Avenue West, North Coast, BC, Canada"
-    },
-    {
-        "name": "Classic Constructed Play! Hoboken",
-        "country": "United States of America",
-        "link": "https://playhoboken.com/blood/",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "1012 Grand Street, Hudson County, NJ, United States"
-    },
-    {
-        "name": "Classic Constructed Living Realms",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/living-realms-ltd/#event69534",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "13-15 Sagar Street, West Yorkshire, England, United Kingdom"
-    },
-    {
-        "name": "Classic Constructed Centrum gier Pegaz",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/centrum-gier-pegaz/#event70009",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "6 Pod Blankami, Bydgoszcz, Kujawsko-Pomorskie, Poland"
-    },
-    {
-        "name": "Classic Constructed CARAB",
-        "country": "Switzerland",
-        "link": "https://www.carab.ch/EVENTS",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "49 Hirschengraben, Luzern, LU, Switzerland"
-    },
-    {
-        "name": "Classic Constructed La Boutique Mythique // The Mythic Store",
-        "country": "Canada",
-        "link": "https://themythicstore.com/pages/events",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "354 Boulevard Charest Est, La Cité-Limoilou, QC, Canada"
-    },
-    {
-        "name": "Classic Constructed LE DÉ CAFÉINÉ",
+        "name": "Uprising Draft Le Temple des joueurs Rennes",
         "country": "France",
-        "link": "http://ledecafeine.com/road-2-nationals/",
+        "link": "https://fabtcg.com/locator/le-temple-des-joueurs-rennes/#event70665",
         "date": {
-            "day": 24,
+            "day": 2,
             "month": 7
         },
-        "address": "9 Avenue Georges Lasserre, Gironde, Nouvelle-Aquitaine, France"
+        "address": "22 Rue du Capitaine Alfred Dreyfus, Ille-et-Vilaine, Bretagne, France"
     },
     {
-        "name": "Classic Constructed Wizard's Tower",
+        "name": "Uprising Draft Grails Gone Wild Toys & Collectibles",
+        "country": "United States of America",
+        "link": "https://grailsgonewild.com/collections/flesh-and-blood/products/road-to-nationals-2022",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "2140 Artesia Boulevard, Los Angeles County, CA, United States"
+    },
+    {
+        "name": "Uprising Draft Voxymoron",
+        "country": "Germany",
+        "link": "https://voxymoron.de/flesh-and-blood-road-to-nationals-2020.html",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "39 Reinhardtstraße, Mitte, Berlin, Germany"
+    },
+    {
+        "name": "Uprising Draft Rocambole",
+        "country": "France",
+        "link": "https://fabtcg.com/locator/rocambole/#event71037",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "36 Rue de la Clef, Nord, Hauts-de-France, France"
+    },
+    {
+        "name": "Uprising Draft El Tesoro del Dragon Blanco",
+        "country": "Spain",
+        "link": "https://fabtcg.com/locator/el-tesoro-del-dragon-blanco/#event70468",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "3 Carrer de Victoria Kent, Barcelona, CT, Spain"
+    },
+    {
+        "name": "Uprising Draft Dragons Lair",
+        "country": "Sweden",
+        "link": "https://fabtcg.com/locator/dragons-lair-2/#event70728",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "8 Kungsholmstorg, Kungsholmen, Stockholms län, Sweden"
+    },
+    {
+        "name": "Uprising Draft The Collective: A Comic & Game Community",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-collective-a-comic-game-community/#event71515",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "520 West State Road 436, Seminole County, FL, United States"
+    },
+    {
+        "name": "Uprising Draft Underworld Games",
+        "country": "United Kingdom",
+        "link": "https://underworldgames.co.uk/",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "Crocus Street, Nottingham, England, United Kingdom"
+    },
+    {
+        "name": "Uprising Draft Hairy Tarantula",
         "country": "Canada",
-        "link": "https://www.wizardtower.com/calendar/",
+        "link": "https://hairyt.com/products/road-to-nationals-uprising-booster-draft-ticket-sun-jul-03-2022?ticket=road-to-nationals-uprising-booster-draft-ticket-sun-jul-03-2022",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "3456 Yonge Street, Old Toronto, Toronto Division, ON, Canada"
+    },
+    {
+        "name": "Uprising Draft Draagoons Hobby Shop",
+        "country": "Indonesia",
+        "link": "https://fabtcg.com/locator/draagoons-hobby-shop/#event70053",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "Jalan Sutera Utama, Kota Tangerang Selatan, Banten, Indonesia"
+    },
+    {
+        "name": "Uprising Draft Geek Retreat Lisburn",
+        "country": "United Kingdom",
+        "link": "https://www.facebook.com/GeekRetreatLisburn/",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "Lisburn Square, Lisburn and Castlereagh, Northern Ireland, United Kingdom"
+    },
+    {
+        "name": "Uprising Draft La Rocca di Darsheyalon",
+        "country": "Italy",
+        "link": "https://fabtcg.com/locator/la-rocca-di-darsheyalon/#event69484",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "14 Via Palestro, Provincia di Pistoia, Toscana, Italy"
+    },
+    {
+        "name": "Uprising Draft Mayhem Comics and Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/mayhem-comics-and-games/#event71427",
+        "date": {
+            "day": 7,
+            "month": 7
+        },
+        "address": "7500 University Avenue, Polk County, IA, United States"
+    },
+    {
+        "name": "Uprising Draft Fantastic Realmz",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/fantastic-realmz/#event69593",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "3401 Airport Way, Fairbanks North Star, AK, United States"
+    },
+    {
+        "name": "Uprising Draft Mad Cards and Collectables LLC",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/mad-cards-and-collectables-llc/#event70796",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "8600 Glenwood Avenue, Mahoning County, OH, United States"
+    },
+    {
+        "name": "Uprising Draft TGG Gaming LLC",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/TGG-Gaming-103471007707969",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "9915 Lyndale Avenue South, Hennepin County, MN, United States"
+    },
+    {
+        "name": "Uprising Draft CompetEsport",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/competesport/#event70203",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "1945 Fletcher Street, Berkeley County, SC, United States"
+    },
+    {
+        "name": "Uprising Draft Underworld Gaming",
+        "country": "Ireland",
+        "link": "https://fabtcg.com/locator/underworld-gaming/#event71095",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "9/10 Belgard Square West, D, Ireland"
+    },
+    {
+        "name": "Uprising Draft Fabled Collections",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/fabled-collections/#event70155",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "517 Big Thompson Avenue, Larimer County, CO, United States"
+    },
+    {
+        "name": "Uprising Draft Fantasiapelit Jyväskylä",
+        "country": "Finland",
+        "link": "https://www.fantasiapelit.com/index.php?main=kalenteri&kaupunki=jkl",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "29 Kauppakatu, Finland"
+    },
+    {
+        "name": "Uprising Draft The Rubicon",
+        "country": "Greece",
+        "link": "https://fabtcg.com/locator/the-rubicon/#event70882",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "10 Orfeos, Greece"
+    },
+    {
+        "name": "Uprising Draft Dice Addiction",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/dice-addiction/#event71385",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "4622 East 11th Street, Tulsa County, OK, United States"
+    },
+    {
+        "name": "Uprising Draft Geek Retreat Southampton",
+        "country": "United Kingdom",
+        "link": "https://fabtcg.com/locator/geek-retreat-southampton/#event70782",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "21 East Street, Southampton, England, United Kingdom"
+    },
+    {
+        "name": "Uprising Draft Jolt Games",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/jolt-games/#event69502",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "56 Hoskins Street, ACT, Australia"
+    },
+    {
+        "name": "Uprising Draft Card Merchant Hamilton",
+        "country": "New Zealand",
+        "link": "https://cardmerchanthamilton.co.nz/",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "660 Victoria Street, Hamilton Central, Waikato, New Zealand"
+    },
+    {
+        "name": "Uprising Draft Dragon's Lair Comics & Fantasy Austin",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/dragons-lair-comics-fantasy-austin/#event69633",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "2438 West Anderson Lane, Travis County, TX, United States"
+    },
+    {
+        "name": "Uprising Draft Beyond the Board",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/beyond-the-board/#event69499",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "249 West Bridge Street, Franklin County, OH, United States"
+    },
+    {
+        "name": "Uprising Draft Total Access Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/total-access-games/#event71403",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "215 North Washington Highway, Hanover County, VA, United States"
+    },
+    {
+        "name": "Uprising Draft Mr. Bill's Collectible World",
+        "country": "United States of America",
+        "link": "https://fb.me/e/2grx2QwYs",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "24070 Washington 3, Mason County, WA, United States"
+    },
+    {
+        "name": "Uprising Draft Spielewelt Amberg",
+        "country": "Germany",
+        "link": "https://fabtcg.com/locator/spielewelt-amberg/#event70908",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "6 Salzgasse, Amberg, Germany"
+    },
+    {
+        "name": "Uprising Draft Mithril Grand Centre - 秘銀石GC總店",
+        "country": "Hong Kong",
+        "link": "https://fabtcg.com/locator/mithril-%E7%A7%98%E9%8A%80%E7%9F%B3-2/#event69885",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "489-491 Castle Peak Road, Kowloon, Hong Kong"
+    },
+    {
+        "name": "Uprising Draft Heroes Collectables",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/heroes-collectables/#event71248",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "1801 South Dairy Ashford Road, Harris County, TX, United States"
+    },
+    {
+        "name": "Uprising Draft TokenMTG",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/tokenmtg/#event69744",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "133 Mitchells Chance Road, Anne Arundel County, MD, United States"
+    },
+    {
+        "name": "Uprising Draft The Gamers Wharf",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-gamers-wharf/#event71450",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "2986 28th Street Southwest, Kent County, MI, United States"
+    },
+    {
+        "name": "Uprising Draft Dueling Land",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/dueling-land/#event70800",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "16050 East Dartmouth Avenue, Arapahoe County, CO, United States"
+    },
+    {
+        "name": "Uprising Draft Sip & Play Boardgame cafe",
+        "country": "United States of America",
+        "link": "https://square.link/u/oGtc2UeZ",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "471 5th Avenue, Brooklyn, Kings County, NY, United States"
+    },
+    {
+        "name": "Uprising Draft The Game Parlour",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-game-parlour/#event70946",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "1342 Irving Street, San Francisco County, CA, United States"
+    },
+    {
+        "name": "Uprising Draft Uchronies Games",
+        "country": "France",
+        "link": "https://fabtcg.com/locator/uchronies-games/#event69881",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "61 Rue Letellier, Département de Paris, IDF, France"
+    },
+    {
+        "name": "Uprising Draft Good Games Adelaide",
+        "country": "Australia",
+        "link": "https://fb.me/e/3gO8Oc63i",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "50 King William Street, Adelaide City Council, SA, Australia"
+    },
+    {
+        "name": "Uprising Draft Sod Games SRL",
+        "country": "Belgium",
+        "link": "https://fabtcg.com/locator/sod-games-srl/#event69566",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "8 Place Charles Gailly, Hainaut, Région Wallonne, Belgium"
+    },
+    {
+        "name": "Uprising Draft Graal",
+        "country": "Poland",
+        "link": "https://fabtcg.com/locator/graal/#event70177",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "179 Aleje Jerozolimskie, Ochota, Warszawa, Mazowieckie, Poland"
+    },
+    {
+        "name": "Uprising Draft Cards Realm",
+        "country": "Italy",
+        "link": "https://fabtcg.com/locator/cards-realm/#event69612",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "28 Via San Giovanni Bosco, Provincia di Bergamo, Lombardia, Italy"
+    },
+    {
+        "name": "Uprising Draft Darkhold Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/darkhold-games/#event71291",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "111 North Barron Street, Preble County, OH, United States"
+    },
+    {
+        "name": "Uprising Draft Trinity Card Capital LTD",
+        "country": "United Kingdom",
+        "link": "https://fabtcg.com/locator/trinity-card-capital-ltd/#event69876",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "203 High Street, Tyne and Wear, England, United Kingdom"
+    },
+    {
+        "name": "Uprising Draft A Muse N Games",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/a-muse-n-games/#event71526",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "576 Wall Street, Division No. 11, MB, Canada"
+    },
+    {
+        "name": "Uprising Draft Basic Land Card Game Shop",
+        "country": "Hong Kong",
+        "link": "https://fabtcg.com/locator/rm3f-independent-building/#event69887",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "501 Nathan Road, Kowloon, Hong Kong"
+    },
+    {
+        "name": "Uprising Draft Rikio geimai, MB",
+        "country": "Lithuania",
+        "link": "https://fabtcg.com/locator/rikio-geimai-mb/#event69572",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "5 Šv. Stepono gatvė, Vilniaus miesto savivaldybė, Vilniaus apskr., Lithuania"
+    },
+    {
+        "name": "Uprising Draft Sunshine Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/sunshine-games/#event71143",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "13316 Telecom Drive, Hillsborough County, FL, United States"
+    },
+    {
+        "name": "Uprising Draft Friendly Local Game Store",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/friendly-local-game-store/#event71570",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "5517 Roosevelt Boulevard, Duval County, FL, United States"
+    },
+    {
+        "name": "Uprising Draft Games Haven Hobby Pte Ltd",
+        "country": "Singapore",
+        "link": "https://fabtcg.com/locator/games-haven-hobby-pte-ltd/#event69614",
+        "date": {
+            "day": 11,
+            "month": 7
+        },
+        "address": "736 Geylang Road, Singapore"
+    },
+    {
+        "name": "Uprising Draft The Lounge",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/the-lounge/#event69693",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "1200 Summit Drive, Thompson-Nicola, BC, Canada"
+    },
+    {
+        "name": "Uprising Draft Edmond Unplugged",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/edmond-unplugged/#event70383",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "117 South Broadway, Oklahoma County, OK, United States"
+    },
+    {
+        "name": "Uprising Draft Silver Goblin",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/silver-goblin/#event69643",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "372 Rue Sainte-Catherine Ouest, Ville-Marie, Communauté-Urbaine-de-Montréal, QC, Canada"
+    },
+    {
+        "name": "Uprising Draft Awesome CCG",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/awesome-ccg/#event70608",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "123 Nashua Road, Rockingham County, NH, United States"
+    },
+    {
+        "name": "Uprising Draft Good Games Chicago",
+        "country": "United States of America",
+        "link": "https://goodgameschicago.ticketleap.com/rtn2022/",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "1145 West Webster Avenue, Cook County, IL, United States"
+    },
+    {
+        "name": "Uprising Draft Black Lotus",
+        "country": "Czechia",
+        "link": "https://fabtcg.com/locator/black-lotus/#event70646",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "208 Puchmajerova, Moravská Ostrava a Přívoz, Ostrava-město, Moravskoslezský kraj, Czechia"
+    },
+    {
+        "name": "Uprising Draft Ogre's Den Gaming Club",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/ogres-den-gaming-club/#event70972",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "3220 5 Avenue Northeast, AB, Canada"
+    },
+    {
+        "name": "Uprising Draft Versus Gamecenter",
+        "country": "Portugal",
+        "link": "https://fabtcg.com/locator/versus-gamecenter/#event69673",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "Rua Conselheiro Lopo Vaz, Lisboa, Portugal"
+    },
+    {
+        "name": "Uprising Draft Yeti Gaming",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/YetiGaming",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "8924 Watson Road, St. Louis County, MO, United States"
+    },
+    {
+        "name": "Uprising Draft Trollune",
+        "country": "France",
+        "link": "https://fabtcg.com/locator/trollune/#event69601",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "25 Rue Sébastien Gryphe, Rhône, Auvergne-Rhône-Alpes, France"
+    },
+    {
+        "name": "Uprising Draft Highlander Games",
+        "country": "United Kingdom",
+        "link": "https://fabtcg.com/locator/highlander-games-3/#event70764",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "102 Annfield Road, Dundee City Council, Scotland, United Kingdom"
+    },
+    {
+        "name": "Uprising Draft Spielraum Bielefeld",
+        "country": "Germany",
+        "link": "https://fabtcg.com/locator/spielraum-bielefeld/#event70500",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "13 - 21 Glatzer Straße, Stieghorst, Bielefeld, Germany"
+    },
+    {
+        "name": "Uprising Draft Fan Boy Three",
+        "country": "United Kingdom",
+        "link": "https://fabtcg.com/locator/fan-boy-three-ltd/#event69582",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "25 Hilton Street, Greater Manchester, England, United Kingdom"
+    },
+    {
+        "name": "Uprising Draft Hey Wanna Play Game Store",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/hey-wanna-play-game-store/#event69685",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "5225B West Broward Boulevard, Broward County, FL, United States"
+    },
+    {
+        "name": "Uprising Draft Wayward City Games",
+        "country": "United States of America",
+        "link": "https://waywardcitygames.com/products/road-to-nationals-uprising-draft-ticket-ticket?_pos=1&_sid=9530e1a23&_ss=r",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "16420 Southeast McGillivray Boulevard, Clark County, WA, United States"
+    },
+    {
+        "name": "Uprising Draft Intrinsic Gaming",
+        "country": "United States of America",
+        "link": "https://www.intrinsicgaming.org",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "426 McArthur Road, Cumberland County, NC, United States"
+    },
+    {
+        "name": "Uprising Draft Giga-Bites Cafe",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/giga-bites-cafe/#event70385",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "1803 Roswell Road, Cobb County, GA, United States"
+    },
+    {
+        "name": "Uprising Draft Gamer's Loot",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/gamers-loot/#event69452",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "10202 East Washington Street, Marion County, IN, United States"
+    },
+    {
+        "name": "Uprising Draft Mana Merchant",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/events/584345899562219",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "7927 Blondo Street, Douglas County, NE, United States"
+    },
+    {
+        "name": "Uprising Draft Flagship Games",
+        "country": "Singapore",
+        "link": "https://fabtcg.com/locator/flagship-games/#event69578",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "45 Jalan Pemimpin, Singapore"
+    },
+    {
+        "name": "Uprising Draft EXP Gaming Lounge",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/exp-gaming-lounge/#event70200",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "1401 South Belt Highway, Buchanan County, MO, United States"
+    },
+    {
+        "name": "Uprising Draft BrickHouse Collectibles",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/brickhouse-collectibles/#event70746",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "163 West End Avenue, Knox County, TN, United States"
+    },
+    {
+        "name": "Uprising Draft Trading Goblin Gamesworld",
+        "country": "Germany",
+        "link": "https://fabtcg.com/locator/trading-goblin-gamesworld/#event71055",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "14 Steinbeisweg, Winnenden, Germany"
+    },
+    {
+        "name": "Uprising Draft The Game Experts",
+        "country": "Australia",
+        "link": "https://thegameexperts.com.au/collections/trading-cards/products/flesh-blood-road-to-nationals-2022-tournament-event-ticket",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "64 Clyde Street, City of Darebin, VIC, Australia"
+    },
+    {
+        "name": "Uprising Draft Hobby Master Events",
+        "country": "New Zealand",
+        "link": "https://fabtcg.com/locator/hobby-master-entertainment/#event69731",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "531 Great South Road, Penrose, Auckland, New Zealand"
+    },
+    {
+        "name": "Uprising Draft Akiba Underground",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/akiba-underground/#event69507",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "5 Post Office Square, Middlesex County, CT, United States"
+    },
+    {
+        "name": "Uprising Draft Le Coin du jeu",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/le-coin-du-jeu/#event69512",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "321 Montée des Pionniers, Lachenaie, QC, Canada"
+    },
+    {
+        "name": "Uprising Draft Júpiter Madrid",
+        "country": "Spain",
+        "link": "https://fabtcg.com/locator/j%C3%BApiter-madrid/#event70472",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "8 Calle de Manuel Silvela, Madrid, MD, Spain"
+    },
+    {
+        "name": "Uprising Draft The Uncommons",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-uncommons/#event70577",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "230 Thompson Street, Manhattan, New York County, NY, United States"
+    },
+    {
+        "name": "Uprising Draft Faraos Cigarer Odense",
+        "country": "Denmark",
+        "link": "https://fabtcg.com/locator/faraos-cigarer-odense/#event70302",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "3 Klostervej, Odense C, Denmark"
+    },
+    {
+        "name": "Uprising Draft Speedytoys",
+        "country": "Netherlands",
+        "link": "https://speedytoys.nl",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "34 Vechtstraat, Zwolle, OV, Netherlands"
+    },
+    {
+        "name": "Uprising Draft The Mighty Meeple",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-mighty-meeple/#event69632",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "8440 Pit Stop Court Northwest, Cabarrus County, NC, United States"
+    },
+    {
+        "name": "Uprising Draft Multiverse Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/multiverse-games/#event71092",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "739 West Hildebrand Avenue, Bexar County, TX, United States"
+    },
+    {
+        "name": "Uprising Draft Rocca",
+        "country": "Italy",
+        "link": "https://fabtcg.com/locator/rocca-trecorvi/#event70276",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "15 Via Piave, Città Metropolitana di Genova, Liguria, Italy"
+    },
+    {
+        "name": "Uprising Draft Centrum Gier Inny Wymiar",
+        "country": "Poland",
+        "link": "https://fabtcg.com/locator/centrum-gier-inny-wymiar/#event70457",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "20 Bożogrobców, Katowice, Śląskie, Poland"
+    },
+    {
+        "name": "Uprising Draft Prime Time Gaming",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/prime-time-gaming/#event71142",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "3076 Riverside Drive, Bibb County, GA, United States"
+    },
+    {
+        "name": "Uprising Draft Red Seal Gaming",
+        "country": "United States of America",
+        "link": "https://discord.gg/redsealgaming",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "419 New Jersey 34, Middlesex County, NJ, United States"
+    },
+    {
+        "name": "Uprising Draft Nerdhalla Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/nerdhalla-games/#event71064",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "652 Grapevine Highway, Tarrant County, TX, United States"
+    },
+    {
+        "name": "Uprising Draft Showcase Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/showcase-games/#event69503",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "226 Nelson Street, Bartow County, GA, United States"
+    },
+    {
+        "name": "Uprising Draft Great Canadian Games & Hobbies",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/great-canadian-games-hobbies/#event69670",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "1410 Lasalle Boulevard, Sudbury, Greater Sudbury Division, ON, Canada"
+    },
+    {
+        "name": "Uprising Draft Goblin King Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/goblin-king-games/#event69990",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "3423 East Silver Springs Boulevard, Marion County, FL, United States"
+    },
+    {
+        "name": "Uprising Draft Vault Cardshop",
+        "country": "Philippines",
+        "link": "https://fabtcg.com/join/",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "4763 Barasoain Street, NCR, Philippines"
+    },
+    {
+        "name": "Uprising Draft Action City Comics",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/action-city-comics/#event71473",
+        "date": {
+            "day": 22,
+            "month": 7
+        },
+        "address": "570 Manhattan Avenue, Brooklyn, Kings County, NY, United States"
+    },
+    {
+        "name": "Uprising Draft Games and Stuff",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/games-and-stuff/#event70136",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "7385 Baltimore Annapolis Boulevard, Anne Arundel County, MD, United States"
+    },
+    {
+        "name": "Uprising Draft Forge and Fire Gaming LLC",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/forge-and-fire-gaming-llc/#event72117",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "6330 Telegraph Road, St. Louis County, MO, United States"
+    },
+    {
+        "name": "Uprising Draft Red Riot Games",
+        "country": "Canada",
+        "link": "https://redriotgames.ca/products/road-to-nationals-1000",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "636 Eglinton Avenue West, Regional Municipality of Peel, ON, Canada"
+    },
+    {
+        "name": "Uprising Draft Infinity Card & Collectibles",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/infinity-card-collectibles/#event70351",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "27256 Fraser Highway, Metro Vancouver, BC, Canada"
+    },
+    {
+        "name": "Uprising Draft Highlander Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/highlander-games/#event71170",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "119 Boonton Avenue, Morris County, NJ, United States"
+    },
+    {
+        "name": "Uprising Draft Jester Games Store LTD",
+        "country": "United Kingdom",
+        "link": "https://jestergamesstore.com/products/flesh-and-blood-road-to-nationals-2022-uprising-booster-draft",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "11 Wilmslow Road, Rusholme, Greater Manchester, England, United Kingdom"
+    },
+    {
+        "name": "Uprising Draft SideQuest",
+        "country": "Poland",
+        "link": "https://fabtcg.com/locator/sidequest/#event70863",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "13B Partyzantów, Gdańsk, Pomorskie, Poland"
+    },
+    {
+        "name": "Uprising Draft Carta Magica Ottawa",
+        "country": "Canada",
+        "link": "https://www.cartamagicaottawa.com/catalog/flesh__blood_events/7205",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "1179 Saint Laurent Boulevard, Gloucester, Ottawa Division, ON, Canada"
+    },
+    {
+        "name": "Uprising Draft Dice Jar Games",
+        "country": "New Zealand",
+        "link": "https://fabtcg.com/locator/dice-jar-games-ltd/#event69504",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "324 George Street, Central Dunedin, Otago, New Zealand"
+    },
+    {
+        "name": "Uprising Draft Highlander Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/highlander-games-2/#event70968",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "3015 Coon Rapids Boulevard Northwest, Anoka County, MN, United States"
+    },
+    {
+        "name": "Uprising Draft Vault Games",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/vault-games/#event69501",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "62 Queen Street, Brisbane City, QLD, Australia"
+    },
+    {
+        "name": "Uprising Draft Hive Games",
+        "country": "Austria",
+        "link": "https://fabtcg.com/locator/hive-games/#event70480",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "3 Getreidegasse, Klagenfurt am Wörthersee, Kärnten, Austria"
+    },
+    {
+        "name": "Uprising Draft Gamers Paradise",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/gamers-paradise/#event69962",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "11222 North Harrells Ferry Road, East Baton Rouge Parish, LA, United States"
+    },
+    {
+        "name": "Uprising Draft Game Kastle Santa Clara",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/game-kastle-santa-clara/#event69848",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "1350 Coleman Avenue, Santa Clara County, CA, United States"
+    },
+    {
+        "name": "Uprising Draft Dreamescape Gaming Inc.",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/dreamescape-gaming-inc/#event69508",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "5205 50th Avenue, AB, Canada"
+    },
+    {
+        "name": "Uprising Draft The Blue Post",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-blue-post/#event71269",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "106 Rogosin Drive, Carter County, TN, United States"
+    },
+    {
+        "name": "Uprising Draft Redcap's Corner",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/redcaps-corner/#event69479",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "3850 Lancaster Avenue, Philadelphia County, PA, United States"
+    },
+    {
+        "name": "Uprising Draft Reaper Game Store",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/reaper-game-store/#event71145",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "9062 Teasley Lane, Denton County, TX, United States"
+    },
+    {
+        "name": "Uprising Draft Zulu's Board Game Cafe",
+        "country": "United States of America",
+        "link": "https://www.zulusgames.com/flesh-and-blood",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "10234 Main Street, King County, WA, United States"
+    },
+    {
+        "name": "Uprising Draft Top Deck Keep",
+        "country": "United States of America",
+        "link": "https://fb.me/e/1xaEGRPtt",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "7207 Arlington Avenue, Riverside County, CA, United States"
+    },
+    {
+        "name": "Uprising Draft Game Den",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/game-den/#event70549",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "604 North Freedom Boulevard, Utah County, UT, United States"
+    },
+    {
+        "name": "Uprising Draft Heretics Haven",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/heretics-haven/#event69559",
         "date": {
             "day": 24,
             "month": 7
         },
-        "address": "80 Marketplace Avenue, Nepean, Ottawa, ON, Canada"
+        "address": "91 Currie Street, Sunshine Coast Regional, QLD, Australia"
+    },
+    {
+        "name": "Uprising Draft Gamers Haven",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/gamers-haven/#event71213",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "6639 Pearl Road, Cuyahoga County, OH, United States"
+    },
+    {
+        "name": "Uprising Draft The Hall of Heroes",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/the-hall-of-heroes/#event71581",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "157 Queen Street, City of Campbelltown, NSW, Australia"
+    },
+    {
+        "name": "Uprising Draft Fable Hobby",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/fable-hobby/#event70038",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "4842 Southwest Scholls Ferry Road, Washington County, OR, United States"
+    },
+    {
+        "name": "Uprising Draft MANA VORTEX",
+        "country": "Spain",
+        "link": "https://fabtcg.com/locator/mana-vortex/#event70591",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "52 Calle Padre Recaredo de Los Rios, Alicante, VC, Spain"
+    },
+    {
+        "name": "Uprising Draft Blade Gaming",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/blade-gaming/#event69659",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "430 Salem Avenue Southwest, VA, United States"
+    },
+    {
+        "name": "Uprising Draft Game Universe Brookfield",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/game-universe-franklin/#event70573",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "19555 West Blue Mound Road, Waukesha County, WI, United States"
+    },
+    {
+        "name": "Uprising Draft Gods' Arena",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/gods-arena/#event70502",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "2300 Boulevard Père-Lelièvre, Les Rivières, Communauté-Urbaine-de-Québec, QC, Canada"
+    },
+    {
+        "name": "Uprising Draft Great Stories Inc",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/great-stoires-inc/#event70879",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "1167 Providence Road, Worcester County, MA, United States"
+    },
+    {
+        "name": "Uprising Draft The Upkeep Games",
+        "country": "United States of America",
+        "link": "http://www.theupkeepgames.com",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "871 South Latson Road, Livingston County, MI, United States"
+    },
+    {
+        "name": "Uprising Draft AK Games Centre",
+        "country": "Malaysia",
+        "link": "https://fabtcg.com/locator/ak-games-centre/#event69487",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "Taman Wawasan, Selangor, Malaysia"
+    },
+    {
+        "name": "Uprising Draft 貓腳印嘉義店",
+        "country": "Taiwan",
+        "link": "https://fabtcg.com/locator/cfpchiayi/#event69879",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "502 Renai Road, Chiayi City, Taiwan"
     }
 ]

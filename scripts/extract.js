@@ -5,7 +5,7 @@ const formatDate = require('date-fns/format')
 const fs = require('fs')
 
 const nbPage = 10
-const TYPE = 49
+const TYPE = 52
 
 function getOptions(page, type = '') {
   return {
