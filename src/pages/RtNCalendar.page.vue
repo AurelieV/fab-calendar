@@ -20,7 +20,7 @@ import TournamentCalendar from '/src/components/TournamentCalendar.vue'
 import tournaments_cc from '/src/assets/data/rtn-cc-2022.json'
 import tournaments_draft from '/src/assets/data/rtn-draft-2022.json'
 
-const tournaments = [...tournaments_cc, tournaments_draft]
+const tournaments = [...tournaments_cc, ...tournaments_draft]
 
 const title = 'Flesh and Blood Road to National Calendar'
 
