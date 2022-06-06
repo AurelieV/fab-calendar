@@ -6,7 +6,7 @@
     <nav class="mt-6 mb-2">
       <ul>
         <li class="text-center"><a class="pf-link" href="/skirmich">Skirmich Calendar</a></li>
-        <li class="text-center"><a class="pf-link" href="/rtn">Road to National Calendar</a></li>
+        <li class="text-center"><a class="pf-link" href="/proquest">ProQuest Calendar</a></li>
       </ul>
     </nav>
     <Pf_Footer></Pf_Footer>
@@ -17,9 +17,12 @@
 import { Pf_Footer } from 'purplefox-tools'
 
 import TournamentCalendar from '/src/components/TournamentCalendar.vue'
-import tournaments from '/src/assets/data/pq-2022-q2.json'
+import tournaments_cc from '/src/assets/data/rtn-cc-2022.json'
+import tournaments_draft from '/src/assets/data/rtn-draft-2022.json'
 
-const title = 'Flesh and Blood ProQuest Calendar Q2'
+const tournaments = [...tournaments_cc, tournaments_draft]
+
+const title = 'Flesh and Blood Road to National Calendar Q2'
 
 export const documentProps = {
   title,
