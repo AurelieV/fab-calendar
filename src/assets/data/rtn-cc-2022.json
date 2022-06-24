@@ -1,15 +1,5 @@
 [
     {
-        "name": "Classic Constructed CUBE",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/cube/#event70658",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "47 Aleje Solidarności, Stare Miasto, Poznań, Wielkopolskie, Poland"
-    },
-    {
         "name": "Classic Constructed Red Dragon Comics, Cards and Games",
         "country": "Canada",
         "link": "https://fabtcg.com/locator/red-dragon-ccg/#event69707",
@@ -28,16 +18,6 @@
             "month": 7
         },
         "address": "56 Vughterstraat, 's-Hertogenbosch, NB, Netherlands"
-    },
-    {
-        "name": "Classic Constructed The Side Deck Gaming Cafe",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-side-deck-gaming-cafe-2/#event71073",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "5060 Sunset Boulevard, Lexington County, SC, United States"
     },
     {
         "name": "Classic Constructed Card Merchant Nelson",
@@ -82,22 +62,12 @@
     {
         "name": "Classic Constructed Gamer's Lair",
         "country": "Canada",
-        "link": "https://glspecialevents.eventcalendarapp.com/u/36146/167891",
+        "link": "https://duelkingdom.ca/pages/special-events",
         "date": {
             "day": 2,
             "month": 7
         },
         "address": "274 Burton Avenue, Simcoe County, ON, Canada"
-    },
-    {
-        "name": "Classic Constructed Kitchen Table Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/kitchen-table-games/#event69523",
-        "date": {
-            "day": 2,
-            "month": 7
-        },
-        "address": "9600 66th Street North, Pinellas County, FL, United States"
     },
     {
         "name": "Classic Constructed Gamestower",
@@ -110,6 +80,16 @@
         "address": "33 Rue de la Gare, Mersch, District de Luxembourg, Luxembourg"
     },
     {
+        "name": "Classic Constructed CUBE",
+        "country": "Poland",
+        "link": "https://fabtcg.com/locator/cube/#event70658",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "47 Aleje Solidarności, Stare Miasto, Poznań, Wielkopolskie, Poland"
+    },
+    {
         "name": "Classic Constructed Le Temple du Jeu Nantes - Boutique Cartes",
         "country": "France",
         "link": "https://fabtcg.com/locator/le-temple-du-jeu-nantes/#event70666",
@@ -117,67 +97,17 @@
             "day": 3,
             "month": 7
         },
-        "address": "23 Quai de la Fosse, Loire-Atlantique, Pays de la Loire, France"
+        "address": "1 bis Cours Olivier de Clisson, Loire-Atlantique, Pays de la Loire, France"
     },
     {
         "name": "Classic Constructed The Game Center - Campbelltown",
         "country": "Australia",
-        "link": "https://fabtcg.com/locator/the-game-center-campbelltown/#event71271",
+        "link": "https://thegamecenter.store/collections/events/products/the-game-center-campbelltown-road-to-nationals-2022-classic-constructed-ticket?ticket=the-game-center-campbelltown-road-to-nationals-2022-classic-constructed-ticket",
         "date": {
             "day": 3,
             "month": 7
         },
         "address": "42-44 Queen Street, City of Campbelltown, NSW, Australia"
-    },
-    {
-        "name": "Classic Constructed Fantasy Shop",
-        "country": "Greece",
-        "link": "https://fabtcg.com/locator/fantasy-shop/#event69625",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "65 3is Septemvriou, Greece"
-    },
-    {
-        "name": "Classic Constructed Sushi Knight Gaming",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/sushi-knight/#event71019",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "47 Dudley Street, Hutt Central, Wellington, New Zealand"
-    },
-    {
-        "name": "Classic Constructed Monster Comic Lounge",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/monster-comic-lounge/#event69696",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "2089 Gottingen Street, Halifax Regional Municipality, NS, Canada"
-    },
-    {
-        "name": "Classic Constructed P-Games",
-        "country": "Slovakia",
-        "link": "https://fabtcg.com/locator/p-games/#event69680",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "Námestie Ľudovíta Štúra, Banská Bystrica, Banská Bystrica, Banskobystrický kraj, Slovakia"
-    },
-    {
-        "name": "Classic Constructed ChannelFireball Game Center",
-        "country": "United States of America",
-        "link": "https://channelfireball-game-center.myshopify.com/",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "1171 Homestead Road, Santa Clara County, CA, United States"
     },
     {
         "name": "Classic Constructed Dice Saloon",
@@ -190,6 +120,16 @@
         "address": "88 London Road, Brighton and Hove, England, United Kingdom"
     },
     {
+        "name": "Classic Constructed Monster Comic Lounge",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/monster-comic-lounge/#event69696",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "2089 Gottingen Street, Halifax Regional Municipality, NS, Canada"
+    },
+    {
         "name": "Classic Constructed 貓腳印士林店",
         "country": "Taiwan",
         "link": "https://fabtcg.com/locator/cat-footprints-shilin/#event69873",
@@ -200,14 +140,34 @@
         "address": "Taoyuan City, Taiwan"
     },
     {
-        "name": "Classic Constructed Sapphire-Cards",
-        "country": "Germany",
-        "link": "https://sapphire-cards.de/flesh-and-blood-tcg/turniertickets/",
+        "name": "Classic Constructed Fantasy Shop",
+        "country": "Greece",
+        "link": "https://fabtcg.com/locator/fantasy-shop/#event69625",
         "date": {
             "day": 3,
             "month": 7
         },
-        "address": "7 Maler-Bürkel-Straße, Pirmasens, Germany"
+        "address": "65 3is Septemvriou, Greece"
+    },
+    {
+        "name": "Classic Constructed P-Games",
+        "country": "Slovakia",
+        "link": "https://fabtcg.com/locator/p-games/#event69680",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "Námestie Ľudovíta Štúra, Banská Bystrica, Banská Bystrica, Banskobystrický kraj, Slovakia"
+    },
+    {
+        "name": "Classic Constructed Sushi Knight Gaming",
+        "country": "New Zealand",
+        "link": "https://fabtcg.com/locator/sushi-knight/#event71019",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "47 Dudley Street, Hutt Central, Wellington, New Zealand"
     },
     {
         "name": "Classic Constructed Titan Games",
@@ -220,6 +180,16 @@
         "address": "3 Kruisstraat, Boxtel, NB, Netherlands"
     },
     {
+        "name": "Classic Constructed Sapphire-Cards",
+        "country": "Germany",
+        "link": "https://sapphire-cards.de/flesh-and-blood-tcg/turniertickets/",
+        "date": {
+            "day": 3,
+            "month": 7
+        },
+        "address": "7 Maler-Bürkel-Straße, Pirmasens, Germany"
+    },
+    {
         "name": "Classic Constructed ReRoll Games",
         "country": "Ireland",
         "link": "https://fabtcg.com/locator/reroll-games/#event70932",
@@ -228,16 +198,6 @@
             "month": 7
         },
         "address": "44 Flower Hill, MH, Ireland"
-    },
-    {
-        "name": "Classic Constructed JWW Sports Cards & Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/jww-sports-cards-gaming/#event69700",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "3902 13th Avenue South, Cass County, ND, United States"
     },
     {
         "name": "Classic Constructed Carta Magica",
@@ -260,16 +220,6 @@
         "address": "11 Cheung Shun Street, Kowloon, Hong Kong"
     },
     {
-        "name": "Classic Constructed Advantage Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/advantage-games/#event70633",
-        "date": {
-            "day": 3,
-            "month": 7
-        },
-        "address": "1010 West 104th Avenue, Adams County, CO, United States"
-    },
-    {
         "name": "Classic Constructed Outpost Brussels",
         "country": "Belgium",
         "link": "https://www.facebook/outpostbrussels",
@@ -280,14 +230,14 @@
         "address": "8 Kanselstraat, Brussel, Belgium"
     },
     {
-        "name": "Classic Constructed Shenanigans Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/shenanigans-gaming/#event69626",
+        "name": "Classic Constructed Carta Magica MONTRÉAL",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/carta-magica-montr%C3%A9al/#event72187",
         "date": {
             "day": 3,
             "month": 7
         },
-        "address": "5251 Timberhill, Bexar County, TX, United States"
+        "address": "6360 Rue Saint-Hubert, Rosemont—La Petite-Patrie, Communauté-Urbaine-de-Montréal, QC, Canada"
     },
     {
         "name": "Classic Constructed Checkpoint",
@@ -320,24 +270,34 @@
         "address": "79 Segerothstraße, Stadtbezirke I, Essen, Germany"
     },
     {
-        "name": "Classic Constructed Alara Games",
-        "country": "Sweden",
-        "link": "https://www.alaragames.se/",
+        "name": "Classic Constructed X Level Hobbies",
+        "country": "Canada",
+        "link": "https://xlevelhobbies.com/products/road-to-nationals-2022-ticket?ticket=road-to-nationals-2022-ticket",
         "date": {
             "day": 9,
             "month": 7
         },
-        "address": "16 Föreningsgatan, Centrala Staden-Tingvalla, Västra Götalands län, Sweden"
+        "address": "Middlesex County, ON, Canada"
     },
     {
-        "name": "Classic Constructed 401 Games Toronto",
-        "country": "Canada",
-        "link": "http://www.401games.ca/events/fleshandbloodtcg/1443",
+        "name": "Classic Constructed The Armory",
+        "country": "New Zealand",
+        "link": "https://fabtcg.com/locator/fab-armory/#event69485",
         "date": {
             "day": 9,
             "month": 7
         },
-        "address": "750 Yonge Street, Old Toronto, Toronto Division, ON, Canada"
+        "address": "293 Colombo Street, Sydenham, Canterbury, New Zealand"
+    },
+    {
+        "name": "Classic Constructed Črna Luknja",
+        "country": "Slovenia",
+        "link": "https://fabtcg.com/locator/%C4%8Drna-luknja/#event71035",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "19 Poljanska cesta, Ljubljana, Slovenia"
     },
     {
         "name": "Classic Constructed The Adventurer's Guild",
@@ -350,14 +310,24 @@
         "address": "3846a Union Deposit Road, Dauphin County, PA, United States"
     },
     {
-        "name": "Classic Constructed Nerd Rage Gaming",
-        "country": "United States of America",
-        "link": "https://www.nerdragegaming.com/",
+        "name": "Classic Constructed Alara Games",
+        "country": "Sweden",
+        "link": "https://www.alaragames.se/",
         "date": {
             "day": 9,
             "month": 7
         },
-        "address": "1361 West Dundee Road, Cook County, IL, United States"
+        "address": "16 Föreningsgatan, Centrala Staden-Tingvalla, Västra Götalands län, Sweden"
+    },
+    {
+        "name": "Classic Constructed The Side Deck Gaming Cafe",
+        "country": "United States of America",
+        "link": "https://events.thesidedeck.com/",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "5060 Sunset Boulevard, Lexington County, SC, United States"
     },
     {
         "name": "Classic Constructed Family Time Games",
@@ -368,6 +338,16 @@
             "month": 7
         },
         "address": "8796 Michigan Road, Marion County, IN, United States"
+    },
+    {
+        "name": "Classic Constructed Nerd Rage Gaming",
+        "country": "United States of America",
+        "link": "https://www.nerdragegaming.com/",
+        "date": {
+            "day": 9,
+            "month": 7
+        },
+        "address": "1361 West Dundee Road, Cook County, IL, United States"
     },
     {
         "name": "Classic Constructed Strefa MTG",
@@ -390,14 +370,14 @@
         "address": "1820 Adlai Stevenson Drive, Sangamon County, IL, United States"
     },
     {
-        "name": "Classic Constructed Lucky Dice Cafe",
+        "name": "Classic Constructed Game Kastle Sacramento",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/lucky-dice-cafe/#event70969",
+        "link": "https://fabtcg.com/locator/game-kastle-sacramento/#event69839",
         "date": {
             "day": 9,
             "month": 7
         },
-        "address": "7914 Memorial Parkway Southwest, Madison County, AL, United States"
+        "address": "5522 Garfield Avenue, Sacramento County, CA, United States"
     },
     {
         "name": "Classic Constructed SpielRaum GmbH",
@@ -412,7 +392,7 @@
     {
         "name": "Classic Constructed Out of the Box Gaming",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/out-of-the-box-gaming/#event70237",
+        "link": "https://www.outoftheboxgaming.com/products/flesh-blood-road-2-nationals-ticket?ticket=flesh-blood-road-2-nationals-ticket",
         "date": {
             "day": 9,
             "month": 7
@@ -430,14 +410,14 @@
         "address": "509 McKnight Boulevard Northeast, Division No. 6, AB, Canada"
     },
     {
-        "name": "Classic Constructed Game Kastle Sacramento",
+        "name": "Classic Constructed Lucky Dice Cafe",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/game-kastle-sacramento/#event69839",
+        "link": "https://fabtcg.com/locator/lucky-dice-cafe/#event70969",
         "date": {
             "day": 9,
             "month": 7
         },
-        "address": "5522 Garfield Avenue, Sacramento County, CA, United States"
+        "address": "7914 Memorial Parkway Southwest, Madison County, AL, United States"
     },
     {
         "name": "Classic Constructed 貓腳印新莊店",
@@ -460,16 +440,6 @@
         "address": "240a Broadway, Newmarket, Auckland, New Zealand"
     },
     {
-        "name": "Classic Constructed Midian Gaming",
-        "country": "Australia",
-        "link": "https://fb.me/e/4xLFzXeU6",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "16 Fuller Road, Melton City, VIC, Australia"
-    },
-    {
         "name": "Classic Constructed RELIC",
         "country": "France",
         "link": "https://event.relictcg.com/",
@@ -478,6 +448,16 @@
             "month": 7
         },
         "address": "32 Grande Rue Saint-Michel, Haute-Garonne, Occitanie, France"
+    },
+    {
+        "name": "Classic Constructed Midian Gaming",
+        "country": "Australia",
+        "link": "https://fb.me/e/4xLFzXeU6",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "16 Fuller Road, Melton City, VIC, Australia"
     },
     {
         "name": "Classic Constructed Epic Panda Aarhus",
@@ -500,6 +480,26 @@
         "address": "345 South Main Street, Androscoggin County, ME, United States"
     },
     {
+        "name": "Classic Constructed Manascrew",
+        "country": "United Kingdom",
+        "link": "https://fabtcg.com/locator/manascrew/#event69525",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "52 Sheep Street, Northamptonshire, England, United Kingdom"
+    },
+    {
+        "name": "Classic Constructed Kingslayer Games (Fountain Valley, CA)",
+        "country": "United States of America",
+        "link": "https://www.kingslayergames.com/7-10-fv-road-to-nationals-classic-constructed.html",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "11213 Slater Avenue, Orange County, CA, United States"
+    },
+    {
         "name": "Classic Constructed Mox Boarding House",
         "country": "United States of America",
         "link": "https://app.getoccasion.com/xp/lDzhQjwZ",
@@ -508,16 +508,6 @@
             "month": 7
         },
         "address": "13310 Bel-Red Road, King County, WA, United States"
-    },
-    {
-        "name": "Classic Constructed Kingslayer Games (Fountain Valley, CA)",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/kingslayer-games/#event69809",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "11213 Slater Avenue, Orange County, CA, United States"
     },
     {
         "name": "Classic Constructed One Drop Game Shop",
@@ -530,14 +520,14 @@
         "address": "2724 North Amidon Avenue, Sedgwick County, KS, United States"
     },
     {
-        "name": "Classic Constructed Manascrew",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/manascrew/#event69525",
+        "name": "Classic Constructed JWW Sports Cards & Gaming",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/jww-sports-cards-gaming/#event69700",
         "date": {
             "day": 10,
             "month": 7
         },
-        "address": "52 Sheep Street, Northamptonshire, England, United Kingdom"
+        "address": "3902 13th Avenue South, Cass County, ND, United States"
     },
     {
         "name": "Classic Constructed Pinnacle Cards and Games LLC",
@@ -550,16 +540,6 @@
         "address": "1056 Montgomery Highway, Jefferson County, AL, United States"
     },
     {
-        "name": "Classic Constructed JK Entertainment",
-        "country": "Germany",
-        "link": "https://jk-events.de/flesh-blood/",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "267 Eschersheimer Landstraße, Innenstadt I, Frankfurt am Main, Germany"
-    },
-    {
         "name": "Classic Constructed Kaboom Games",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/kaboom-games/#event70047",
@@ -570,24 +550,14 @@
         "address": "3521 North 10th Street, Hidalgo County, TX, United States"
     },
     {
-        "name": "Classic Constructed Elementgaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/elementgaming/#event70409",
+        "name": "Classic Constructed JK Entertainment",
+        "country": "Germany",
+        "link": "https://jk-events.de/flesh-blood/",
         "date": {
             "day": 10,
             "month": 7
         },
-        "address": "2801 Wade Hampton Boulevard, Greenville County, SC, United States"
-    },
-    {
-        "name": "Classic Constructed Tubbys TCG",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/tubbys-tcg/#event70110",
-        "date": {
-            "day": 10,
-            "month": 7
-        },
-        "address": "9019 Park Plaza Drive, San Diego County, CA, United States"
+        "address": "267 Eschersheimer Landstraße, Innenstadt I, Frankfurt am Main, Germany"
     },
     {
         "name": "Classic Constructed Man o' War Games, LLC",
@@ -600,6 +570,36 @@
         "address": "2033 North Highway 190, St. Tammany Parish, LA, United States"
     },
     {
+        "name": "Classic Constructed Elementgaming",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/elementgaming/#event70409",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "2801 Wade Hampton Boulevard, Greenville County, SC, United States"
+    },
+    {
+        "name": "Classic Constructed Shenanigans Gaming",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/shenanigans-gaming/#event69626",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "5251 Timberhill, Bexar County, TX, United States"
+    },
+    {
+        "name": "Classic Constructed Tubbys TCG",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/tubbys-tcg/#event70110",
+        "date": {
+            "day": 10,
+            "month": 7
+        },
+        "address": "9019 Park Plaza Drive, San Diego County, CA, United States"
+    },
+    {
         "name": "Classic Constructed Faraos Cigarer Copenhagen",
         "country": "Denmark",
         "link": "https://fabtcg.com/locator/faraos-cigarer-copenhagen/#event71341",
@@ -610,14 +610,14 @@
         "address": "6 Nørregade, København K, Denmark"
     },
     {
-        "name": "Classic Constructed Medusa Gaming",
-        "country": "United States of America",
-        "link": "https://www.facebook.com/medusa.plattsburgh/posts/5394859360572250",
+        "name": "Classic Constructed Il Labirinto - Comics, Cards & Games",
+        "country": "Italy",
+        "link": "https://www.eventbrite.it/e/biglietti-flesh-blood-road-to-nationals-2022-368102633887",
         "date": {
-            "day": 16,
+            "day": 15,
             "month": 7
         },
-        "address": "1 Broad Street, Clinton County, NY, United States"
+        "address": "7 Via Don Vincenzo Donadeo, Città Metropolitana di Milano, Lombardia, Italy"
     },
     {
         "name": "Classic Constructed Atomic Comics Emporium II (Newport News)",
@@ -628,6 +628,16 @@
             "month": 7
         },
         "address": "467b Denbigh Boulevard, VA, United States"
+    },
+    {
+        "name": "Classic Constructed Forest City Coins",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/forest-city-coins/#event69661",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "650 Dixon Road, Etobicoke, Toronto, ON, Canada"
     },
     {
         "name": "Classic Constructed Boards and Swords Hobbies",
@@ -642,7 +652,7 @@
     {
         "name": "Classic Constructed EH Gaming",
         "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/eh-gaming/#event70862",
+        "link": "https://www.ehgaming.com/product/flesh-blood-tcg-york-road-to-nationals-2022/",
         "date": {
             "day": 16,
             "month": 7
@@ -650,34 +660,14 @@
         "address": "Hawthorn Terrace, York, England, United Kingdom"
     },
     {
-        "name": "Classic Constructed Dream Wizards",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/dream-wizards/#event69656",
+        "name": "Classic Constructed Azkaban Juegos",
+        "country": "Spain",
+        "link": "https://fabtcg.com/locator/azkaban-juegos/#event69551",
         "date": {
             "day": 16,
             "month": 7
         },
-        "address": "11772 Parklawn Drive, Montgomery County, MD, United States"
-    },
-    {
-        "name": "Classic Constructed Unplugged Games",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/unplugged-games/#event71600",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "132 Dawson Street, Lismore City Council, NSW, Australia"
-    },
-    {
-        "name": "Classic Constructed Flipside Gaming East Greenbush",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/flipside-gaming-east-greenbush/#event71126",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "598 Columbia Turnpike, Rensselaer County, NY, United States"
+        "address": "13 Paseo de Fuente Lucha, Madrid, MD, Spain"
     },
     {
         "name": "Classic Constructed Card Merchant Westcity",
@@ -690,6 +680,26 @@
         "address": "7 Catherine Street, Henderson, Auckland, New Zealand"
     },
     {
+        "name": "Classic Constructed Dream Wizards",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/dream-wizards/#event69656",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "11772 Parklawn Drive, Montgomery County, MD, United States"
+    },
+    {
+        "name": "Classic Constructed Flipside Gaming East Greenbush",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/flipside-gaming-east-greenbush/#event71126",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "598 Columbia Turnpike, Rensselaer County, NY, United States"
+    },
+    {
         "name": "Classic Constructed Shop Gracz",
         "country": "Poland",
         "link": "https://fabtcg.com/locator/shop-gracz/#event70214",
@@ -698,6 +708,16 @@
             "month": 7
         },
         "address": "16 Bolesława Limanowskiego, Podgórze, Kraków, Małopolskie, Poland"
+    },
+    {
+        "name": "Classic Constructed Unplugged Games",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/unplugged-games/#event71600",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "132 Dawson Street, Lismore City Council, NSW, Australia"
     },
     {
         "name": "Classic Constructed Need Now Toys & Games",
@@ -750,16 +770,6 @@
         "address": "South Tucson Boulevard, Pima County, AZ, United States"
     },
     {
-        "name": "Classic Constructed The Imaginarium",
-        "country": "Singapore",
-        "link": "https://fabtcg.com/locator/the-imaginarium/#event69616",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "430 Upper Changi Road, Singapore"
-    },
-    {
         "name": "Classic Constructed Enchanted Realms Games and Gifts",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/enchanted-realms-games-and-gifts/#event70989",
@@ -790,34 +800,14 @@
         "address": "975 Whitehorse Road, Whitehorse City, VIC, Australia"
     },
     {
-        "name": "Classic Constructed Darkside Games",
+        "name": "Classic Constructed Millennium Games",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/darkside-games/#event70043",
+        "link": "http://www.millenniumgames.com",
         "date": {
             "day": 16,
             "month": 7
         },
-        "address": "9620 South Las Vegas Boulevard, Clark County, NV, United States"
-    },
-    {
-        "name": "Classic Constructed Dragon Egg Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/dragon-egg-games/#event71252",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "2499 Gabel Road, Yellowstone County, MT, United States"
-    },
-    {
-        "name": "Classic Constructed Four Horsemen Comics and Gaming - Morgantown Mall",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/four-horsemen-comics-and-gaming/#event70801",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "9515 Mall Road, Monongalia County, WV, United States"
+        "address": "3047 West Henrietta Road, Monroe County, NY, United States"
     },
     {
         "name": "Classic Constructed Eternal Games LLC",
@@ -840,6 +830,46 @@
         "address": "970 North Coit Road, Dallas County, TX, United States"
     },
     {
+        "name": "Classic Constructed Dragon Egg Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/dragon-egg-games/#event71252",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "2499 Gabel Road, Yellowstone County, MT, United States"
+    },
+    {
+        "name": "Classic Constructed Four Horsemen Comics and Gaming - Morgantown Mall",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/four-horsemen-comics-and-gaming/#event70801",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "9515 Mall Road, Monongalia County, WV, United States"
+    },
+    {
+        "name": "Classic Constructed Medusa Gaming",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/medusa.plattsburgh/posts/5394859360572250",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "1 Broad Street, Clinton County, NY, United States"
+    },
+    {
+        "name": "Classic Constructed Darkside Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/darkside-games/#event70043",
+        "date": {
+            "day": 16,
+            "month": 7
+        },
+        "address": "9620 South Las Vegas Boulevard, Clark County, NV, United States"
+    },
+    {
         "name": "Classic Constructed Mythos Games",
         "country": "United States of America",
         "link": "https://www.mythos.games/module/class/414119/flesh-and-blood-road-to-nationals",
@@ -848,16 +878,6 @@
             "month": 7
         },
         "address": "681 West 10600 South, Salt Lake County, UT, United States"
-    },
-    {
-        "name": "Classic Constructed Millennium Games",
-        "country": "United States of America",
-        "link": "http://www.millenniumgames.com",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "3047 West Henrietta Road, Monroe County, NY, United States"
     },
     {
         "name": "Classic Constructed Weatherlight",
@@ -910,16 +930,6 @@
         "address": "46 Kayang Street, Benguet, CAR, Philippines"
     },
     {
-        "name": "Classic Constructed The Cloak and Blaster",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-cloak-and-blaster/#event70520",
-        "date": {
-            "day": 16,
-            "month": 7
-        },
-        "address": "12226 Corporate Boulevard, Orange County, FL, United States"
-    },
-    {
         "name": "Classic Constructed Fat Ogre Games & Comics, Inc",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/fat-ogre-games-comics-inc/#event71264",
@@ -928,16 +938,6 @@
             "month": 7
         },
         "address": "525 Sawdust Road, Montgomery County, TX, United States"
-    },
-    {
-        "name": "Classic Constructed Vivae Board Game Cafe",
-        "country": "Malaysia",
-        "link": "https://fabtcg.com/locator/vivae-board-game-cafe/#event71601",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "18a Jalan SS 21/62, Damansara Utama, Selangor, Malaysia"
     },
     {
         "name": "Classic Constructed Comic Kung Fu",
@@ -950,16 +950,6 @@
         "address": "672 North Loudoun Street, VA, United States"
     },
     {
-        "name": "Classic Constructed Mox Boarding House Portland",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/mox-boarding-house-portland/#event70937",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "1938 West Burnside Street, Multnomah County, OR, United States"
-    },
-    {
         "name": "Classic Constructed 't Spelgeweld",
         "country": "Belgium",
         "link": "https://fabtcg.com/locator/t-spelgeweld/#event69908",
@@ -970,9 +960,39 @@
         "address": "41 Noordstraat, West-Vlaanderen, Vlaanderen, Belgium"
     },
     {
+        "name": "Classic Constructed Odyssey Games",
+        "country": "United States of America",
+        "link": "https://battlehardenedla.com/",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "300 East Green Street, Los Angeles County, CA, United States"
+    },
+    {
+        "name": "Classic Constructed Mox Boarding House Portland",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/mox-boarding-house-portland/#event70937",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "1938 West Burnside Street, Multnomah County, OR, United States"
+    },
+    {
+        "name": "Classic Constructed Vivae Board Game Cafe",
+        "country": "Malaysia",
+        "link": "https://fabtcg.com/locator/vivae-board-game-cafe/#event71601",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "18a Jalan SS 21/62, Damansara Utama, Selangor, Malaysia"
+    },
+    {
         "name": "Classic Constructed The Hurricane Collective",
         "country": "Australia",
-        "link": "https://fabtcg.com/locator/the-hurricane-collective/#event69518",
+        "link": "https://fb.me/e/3kH61KRRW",
         "date": {
             "day": 17,
             "month": 7
@@ -988,16 +1008,6 @@
             "month": 7
         },
         "address": "304 South Bridge Street, Eaton County, MI, United States"
-    },
-    {
-        "name": "Classic Constructed Il Labirinto - Comics, Cards & Games",
-        "country": "Italy",
-        "link": "https://fabtcg.com/locator/il-labirinto-comics-cards-games/#event69532",
-        "date": {
-            "day": 17,
-            "month": 7
-        },
-        "address": "7 Via Don Vincenzo Donadeo, Città Metropolitana di Milano, Lombardia, Italy"
     },
     {
         "name": "Classic Constructed Minipolo - The Boardgame Cafe",
@@ -1038,6 +1048,16 @@
             "month": 7
         },
         "address": "4616 Chester Square Road, Chesterfield County, VA, United States"
+    },
+    {
+        "name": "Classic Constructed The Imaginarium",
+        "country": "Singapore",
+        "link": "https://fabtcg.com/locator/the-imaginarium/#event69616",
+        "date": {
+            "day": 17,
+            "month": 7
+        },
+        "address": "430 Upper Changi Road, Singapore"
     },
     {
         "name": "Classic Constructed Rule Zero",
@@ -1082,7 +1102,7 @@
     {
         "name": "Classic Constructed Brood en Spelen",
         "country": "Belgium",
-        "link": "https://fabtcg.com/locator/brood-en-spelen/#event69574",
+        "link": "https://rtnbroodenspelen.eventgoose.com",
         "date": {
             "day": 21,
             "month": 7
@@ -1110,36 +1130,6 @@
         "address": "20 Via Evandro, Città Metropolitana di Roma, Lazio, Italy"
     },
     {
-        "name": "Classic Constructed Team Covenant",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/team-covenant/#event70847",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "1902 East 71st Street, Tulsa County, OK, United States"
-    },
-    {
-        "name": "Classic Constructed Azkaban Juegos",
-        "country": "Spain",
-        "link": "https://fabtcg.com/locator/azkaban-juegos/#event69551",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "13 Paseo de Fuente Lucha, Madrid, MD, Spain"
-    },
-    {
-        "name": "Classic Constructed Unison Games Cafe",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/unison-games-cafe/#event70966",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "2285 Whitney Avenue, New Haven County, CT, United States"
-    },
-    {
         "name": "Classic Constructed Rip N Ship Arena LLC",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/rip-n-ship-arena-llc/#event69624",
@@ -1160,14 +1150,14 @@
         "address": "20 Avinguda Drets Humans, Valencia, VC, Spain"
     },
     {
-        "name": "Classic Constructed X Level Hobbies",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/x-level-hobbies-2/#event71510",
+        "name": "Classic Constructed Unison Games Cafe",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/unison-games-cafe/#event70966",
         "date": {
             "day": 23,
             "month": 7
         },
-        "address": "89 Frank Street, Middlesex County, ON, Canada"
+        "address": "2285 Whitney Avenue, New Haven County, CT, United States"
     },
     {
         "name": "Classic Constructed Tolarie s.r.o.",
@@ -1180,66 +1170,6 @@
         "address": "Labská, Pardubice I, Pardubice, Pardubický kraj, Czechia"
     },
     {
-        "name": "Classic Constructed Keystone cards and games, LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/keystone-cards-and-games-llc/#event69667",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "515 South Keystone Avenue, Bradford County, PA, United States"
-    },
-    {
-        "name": "Classic Constructed Greg's Games",
-        "country": "United States of America",
-        "link": "http://gregsgames.com/events",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "2103 Whitehorse Mercerville Road, Mercer County, NJ, United States"
-    },
-    {
-        "name": "Classic Constructed Črna Luknja",
-        "country": "Slovenia",
-        "link": "https://fabtcg.com/locator/%C4%8Drna-luknja/#event71035",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "19 Poljanska cesta, Ljubljana, Slovenia"
-    },
-    {
-        "name": "Classic Constructed Cat Footprints (Kaohsiung)",
-        "country": "Taiwan",
-        "link": "https://fabtcg.com/locator/cat-footprints-kaohsiung/#event70642",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "77 Liwen Road, Kaohsiung City, Taiwan"
-    },
-    {
-        "name": "Classic Constructed Midgard Hobbies and Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/midgard-hobbies-and-games/#event69474",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "55 Crystal Avenue, Rockingham County, NH, United States"
-    },
-    {
-        "name": "Classic Constructed LEVEL UP GAMES LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/level-up-games-llc/#event71054",
-        "date": {
-            "day": 23,
-            "month": 7
-        },
-        "address": "3700 Satellite Boulevard, Gwinnett County, GA, United States"
-    },
-    {
         "name": "Classic Constructed GG Lounge",
         "country": "Portugal",
         "link": "https://fabtcg.com/locator/gg-lounge/#event69570",
@@ -1250,14 +1180,14 @@
         "address": "52 Rua São Pedro, Viseu, Portugal"
     },
     {
-        "name": "Classic Constructed Kraken Cards",
+        "name": "Classic Constructed Midgard Hobbies and Games",
         "country": "United States of America",
-        "link": "https://discord.com/invite/2kxJ8eye6k",
+        "link": "https://fabtcg.com/locator/midgard-hobbies-and-games/#event69474",
         "date": {
             "day": 23,
             "month": 7
         },
-        "address": "114 Southwest 3rd Street, Benton County, OR, United States"
+        "address": "55 Crystal Avenue, Rockingham County, NH, United States"
     },
     {
         "name": "Classic Constructed Remetebarlang",
@@ -1280,14 +1210,14 @@
         "address": "25 Große Burgstraße, Lübecker Altstadt, Lübeck, Germany"
     },
     {
-        "name": "Classic Constructed The Comic Book Shop",
-        "country": "United States of America",
-        "link": "https://fb.me/e/4SahwWrUl",
+        "name": "Classic Constructed Cat Footprints (Kaohsiung)",
+        "country": "Taiwan",
+        "link": "https://fabtcg.com/locator/cat-footprints-kaohsiung/#event70642",
         "date": {
             "day": 23,
             "month": 7
         },
-        "address": "4750 North Division Street, Spokane County, WA, United States"
+        "address": "77 Liwen Road, Kaohsiung City, Taiwan"
     },
     {
         "name": "Classic Constructed Sedai 4.5",
@@ -1300,14 +1230,54 @@
         "address": "695 Sukhumvit Road, Khet Watthana, Krung Thep Maha Nakhon, Thailand"
     },
     {
-        "name": "Classic Constructed Oh My Game Oy",
-        "country": "Finland",
-        "link": "https://fabtcg.com/locator/oh-my-game-oy/#event69741",
+        "name": "Classic Constructed Kraken Cards",
+        "country": "United States of America",
+        "link": "https://discord.com/invite/2kxJ8eye6k",
         "date": {
             "day": 23,
             "month": 7
         },
-        "address": "4a Myyrmäentie, Finland"
+        "address": "114 Southwest 3rd Street, Benton County, OR, United States"
+    },
+    {
+        "name": "Classic Constructed Keystone cards and games, LLC",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/keystone-cards-and-games-llc/#event69667",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "515 South Keystone Avenue, Bradford County, PA, United States"
+    },
+    {
+        "name": "Classic Constructed Greg's Games",
+        "country": "United States of America",
+        "link": "http://gregsgames.com/events",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "2103 Whitehorse Mercerville Road, Mercer County, NJ, United States"
+    },
+    {
+        "name": "Classic Constructed LEVEL UP GAMES LLC",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/level-up-games-llc/#event71054",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "3700 Satellite Boulevard, Gwinnett County, GA, United States"
+    },
+    {
+        "name": "Classic Constructed The Comic Book Shop",
+        "country": "United States of America",
+        "link": "https://fb.me/e/4SahwWrUl",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "4750 North Division Street, Spokane County, WA, United States"
     },
     {
         "name": "Classic Constructed Vintage Games N Junque",
@@ -1320,6 +1290,16 @@
         "address": "165 Queen Street East, Algoma District, ON, Canada"
     },
     {
+        "name": "Classic Constructed Oh My Game Oy",
+        "country": "Finland",
+        "link": "https://fabtcg.com/locator/oh-my-game-oy/#event69741",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "4a Myyrmäentie, Finland"
+    },
+    {
         "name": "Classic Constructed Loot Investments LLC / DBA Loot Card Shop",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/loot-investments-llc-dba-loot-card-shop/#event69721",
@@ -1330,6 +1310,26 @@
         "address": "58 Barker Road, Washtenaw County, MI, United States"
     },
     {
+        "name": "Classic Constructed CM Games - Lexington",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/cm-games-lexington/#event72265",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "3401 Nicholasville Road, Fayette County, KY, United States"
+    },
+    {
+        "name": "Classic Constructed Advantage Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/advantage-games/#event70633",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "1010 West 104th Avenue, Adams County, CO, United States"
+    },
+    {
         "name": "Classic Constructed Source Comics and Games",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/source-comics-and-games/#event71389",
@@ -1338,6 +1338,16 @@
             "month": 7
         },
         "address": "2057 Snelling Avenue North, Ramsey County, MN, United States"
+    },
+    {
+        "name": "Classic Constructed Odyssey Games, LLC",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/odyssey-games-llc/#event72903",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "5029 West Main Street, Kalamazoo County, MI, United States"
     },
     {
         "name": "Classic Constructed Gulf Coast Hobby",
@@ -1360,14 +1370,14 @@
         "address": "1044 Lillington Highway, Cumberland County, NC, United States"
     },
     {
-        "name": "Classic Constructed Ettin Games Albuququerque",
+        "name": "Classic Constructed Star City Comics & Games",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/ettin-games-albuququerque/#event71135",
+        "link": "https://fabtcg.com/locator/star-city-games/#event69608",
         "date": {
             "day": 23,
             "month": 7
         },
-        "address": "8510 Montgomery Boulevard Northeast, Bernalillo County, NM, United States"
+        "address": "5728 Williamson Road, Roanoke County, VA, United States"
     },
     {
         "name": "Classic Constructed Magnolia Gaming Huntsville",
@@ -1378,6 +1388,16 @@
             "month": 7
         },
         "address": "2806 Memorial Parkway Southwest, Madison County, AL, United States"
+    },
+    {
+        "name": "Classic Constructed Ettin Games Albuququerque",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/ettin-games-albuququerque/#event71135",
+        "date": {
+            "day": 23,
+            "month": 7
+        },
+        "address": "8510 Montgomery Boulevard Northeast, Bernalillo County, NM, United States"
     },
     {
         "name": "Classic Constructed The Armchair Adventurer",
@@ -1430,16 +1450,6 @@
         "address": "302 2 Avenue West, North Coast, BC, Canada"
     },
     {
-        "name": "Classic Constructed Play! Hoboken",
-        "country": "United States of America",
-        "link": "https://playhoboken.com/blood/",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "1012 Grand Street, Hudson County, NJ, United States"
-    },
-    {
         "name": "Classic Constructed Living Realms",
         "country": "United Kingdom",
         "link": "https://fabtcg.com/locator/living-realms-ltd/#event69534",
@@ -1448,6 +1458,16 @@
             "month": 7
         },
         "address": "13-15 Sagar Street, West Yorkshire, England, United Kingdom"
+    },
+    {
+        "name": "Classic Constructed Play! Hoboken",
+        "country": "United States of America",
+        "link": "https://playhoboken.com/blood/",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "1012 Grand Street, Hudson County, NJ, United States"
     },
     {
         "name": "Classic Constructed Centrum gier Pegaz",
@@ -1480,6 +1500,16 @@
         "address": "354 Boulevard Charest Est, La Cité-Limoilou, QC, Canada"
     },
     {
+        "name": "Classic Constructed ChannelFireball Game Center",
+        "country": "United States of America",
+        "link": "https://channelfireball-game-center.myshopify.com/",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "1171 Homestead Road, Santa Clara County, CA, United States"
+    },
+    {
         "name": "Classic Constructed LE DÉ CAFÉINÉ",
         "country": "France",
         "link": "http://ledecafeine.com/road-2-nationals/",
@@ -1490,14 +1520,14 @@
         "address": "9 Avenue Georges Lasserre, Gironde, Nouvelle-Aquitaine, France"
     },
     {
-        "name": "Classic Constructed Wizard's Tower",
+        "name": "Classic Constructed 401 Games Toronto",
         "country": "Canada",
-        "link": "https://www.wizardtower.com/calendar/",
+        "link": "http://www.401games.ca/events/fleshandbloodtcg/1443",
         "date": {
             "day": 24,
             "month": 7
         },
-        "address": "80 Marketplace Avenue, Nepean, Ottawa, ON, Canada"
+        "address": "750 Yonge Street, Old Toronto, Toronto Division, ON, Canada"
     },
     {
         "name": "Classic Constructed Stalo zaidimai EU Kaunas",
@@ -1530,16 +1560,6 @@
         "address": "701 North McCroskey Street, Christian County, MO, United States"
     },
     {
-        "name": "Classic Constructed FYENDAL HOBBY",
-        "country": "Singapore",
-        "link": "https://fabtcg.com/locator/agora-hobby/#event69524",
-        "date": {
-            "day": 24,
-            "month": 7
-        },
-        "address": "809 French Road, Singapore"
-    },
-    {
         "name": "Classic Constructed JAVA GAME HAUS",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/java-game-haus/#event70619",
@@ -1548,6 +1568,26 @@
             "month": 7
         },
         "address": "11018 Old Saint Augustine Road, Duval County, FL, United States"
+    },
+    {
+        "name": "Classic Constructed Wizard's Tower",
+        "country": "Canada",
+        "link": "https://www.wizardtower.com/calendar/",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "80 Marketplace Avenue, Nepean, Ottawa, ON, Canada"
+    },
+    {
+        "name": "Classic Constructed FYENDAL HOBBY",
+        "country": "Singapore",
+        "link": "https://fabtcg.com/locator/agora-hobby/#event69524",
+        "date": {
+            "day": 24,
+            "month": 7
+        },
+        "address": "809 French Road, Singapore"
     },
     {
         "name": "Classic Constructed Dan Solo Comics & Collectables",
