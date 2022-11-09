@@ -4,8 +4,8 @@ const parseDate = require('date-fns/parse')
 const formatDate = require('date-fns/format')
 const fs = require('fs')
 
-const nbPage = 38
-const TYPE = 55
+const nbPage = 23
+const TYPE = 60
 
 function getOptions(page, type = '') {
   return {
@@ -51,7 +51,7 @@ async function scrap(type) {
     result = result.concat(events)
   }
   console.log(`Finish ${result.length} tournaments extracted`)
-  fs.writeFileSync('skirmich-5-2022.json', JSON.stringify(result, null, 4))
+  fs.writeFileSync('pq-2023-q1.json', JSON.stringify(result, null, 4))
 }
 
 scrap(TYPE)

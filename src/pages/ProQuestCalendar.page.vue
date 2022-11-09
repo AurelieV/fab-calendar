@@ -17,9 +17,9 @@
 import { Pf_Footer } from 'purplefox-tools'
 
 import TournamentCalendar from '/src/components/TournamentCalendar.vue'
-import tournaments from '/src/assets/data/pq-2022-q2.json'
+import tournaments from '/src/assets/data/pq-2023-q1.json'
 
-const title = 'Flesh and Blood ProQuest Calendar Q2'
+const title = 'Flesh and Blood ProQuest Calendar Season 3'
 
 export const documentProps = {
   title,
