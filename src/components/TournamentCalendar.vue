@@ -64,6 +64,7 @@ export default {
   props: {
     tournaments: { type: Array, required: true },
     title: { type: String, required: true },
+    year: { type: Number, required: true },
   },
   setup(props) {
     const countries = [...new Set(props.tournaments.map(({ country }) => country))].sort()
@@ -86,12 +87,12 @@ export default {
     const months = computed(() => {
       const months = groupBy(filteredTournaments.value, 'date.month')
       Object.keys(months).forEach((month) => {
-        const label = new Date(2022, parseInt(month) - 1).toLocaleString('default', {
+        const label = new Date(props.year, parseInt(month) - 1).toLocaleString('default', {
           month: 'long',
         })
         const days = groupBy(months[month], 'date.day')
         Object.keys(days).forEach((day) => {
-          const label = new Date(2022, parseInt(month) - 1, parseInt(day)).toLocaleString(
+          const label = new Date(props.year, parseInt(month) - 1, parseInt(day)).toLocaleString(
             'default',
             {
               month: 'long',

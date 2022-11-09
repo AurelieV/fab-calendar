@@ -1,7 +1,11 @@
 <template>
   <div class="flex flex-col min-h-screen">
     <main class="flex-1 pt-2 w-[min(90vw,1000px)] mx-auto">
-      <TournamentCalendar :tournaments="tournaments" :title="title"></TournamentCalendar>
+      <TournamentCalendar
+        :tournaments="tournaments"
+        :title="title"
+        :year="2023"
+      ></TournamentCalendar>
     </main>
     <nav class="mt-6 mb-2">
       <ul>
