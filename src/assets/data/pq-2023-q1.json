@@ -1,5 +1,15 @@
 [
     {
+        "name": "ProQuest Season 3 Gamers Asylum",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/events/661598649027347",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "3562 Washington Boulevard, Weber County, UT, United States"
+    },
+    {
         "name": "ProQuest Season 3 Scry Games Ciannat",
         "country": "Philippines",
         "link": "https://fabtcg.com/locator/scry-games-ciannat/#event101308",
@@ -12,7 +22,7 @@
     {
         "name": "ProQuest Season 3 Najáda",
         "country": "Czechia",
-        "link": "https://fabtcg.com/locator/naj%C3%A1da/#event100529",
+        "link": "https://www.facebook.com/events/680729990397315",
         "date": {
             "day": 14,
             "month": 1
@@ -30,6 +40,36 @@
         "address": "117 South Broadway, Oklahoma County, OK, United States"
     },
     {
+        "name": "ProQuest Season 3 Awesome CCG",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/awesome-ccg/#event99830",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "123 Nashua Road, Rockingham County, NH, United States"
+    },
+    {
+        "name": "ProQuest Season 3 A Hidden Fortress",
+        "country": "United States of America",
+        "link": "https://discord.gg/vQM3PXACMf",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "1960 Sequoia Avenue, Ventura County, CA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 La Casa'Jeux",
+        "country": "France",
+        "link": "https://fabtcg.com/locator/la-casajeux/#event100854",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "22 Rue Estienne d'Orves, Gard, Occitanie, France"
+    },
+    {
         "name": "ProQuest Season 3 The Game Parlour",
         "country": "United States of America",
         "link": "https://thegameparloursf.square.site/shop/gaming-events/23",
@@ -40,14 +80,24 @@
         "address": "1342 Irving Street, San Francisco County, CA, United States"
     },
     {
-        "name": "ProQuest Season 3 Invaders Board Game Station",
-        "country": "Indonesia",
-        "link": "https://fabtcg.com/locator/invaders-board-game-station/#event99647",
+        "name": "ProQuest Season 3 Mad Cards and Collectables LLC",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/mad-cards-and-collectables-llc/#event99820",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "No.35 Jalan Springs Boulevard, Kabupaten Tangerang, Banten, Indonesia"
+        "address": "8600 Glenwood Avenue, Mahoning County, OH, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Gateway Games Ltd, Tauranga",
+        "country": "New Zealand",
+        "link": "https://gateway-games-ltd.mybigcommerce.com/flesh-and-blood-proquest-season-3-event-ticket/",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "19 Bethlehem Road, Bethlehem, Bay of Plenty, New Zealand"
     },
     {
         "name": "ProQuest Season 3 Ettin Games Albuququerque",
@@ -70,34 +120,14 @@
         "address": "56 Hoskins Street, ACT, Australia"
     },
     {
-        "name": "ProQuest Season 3 La Casa'Jeux",
-        "country": "France",
-        "link": "https://fabtcg.com/locator/la-casajeux/#event100854",
+        "name": "ProQuest Season 3 magic stronghold games",
+        "country": "Canada",
+        "link": "https://www.magicstronghold.com/store/category/Event%20Pre-Registration/item/294729/Stronghold_Proquest_-_Classic_Constructed_-_January_14th,_2023",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "22 Rue Estienne d'Orves, Gard, Occitanie, France"
-    },
-    {
-        "name": "ProQuest Season 3 Versus Gamecenter",
-        "country": "Portugal",
-        "link": "https://www.facebook.com/versusgamecenterpt",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "Lote C Rua Conselheiro Lopo Vaz, Lisboa, Portugal"
-    },
-    {
-        "name": "ProQuest Season 3 A Hidden Fortress",
-        "country": "United States of America",
-        "link": "https://discord.gg/vQM3PXACMf",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "1960 Sequoia Avenue, Ventura County, CA, United States"
+        "address": "3665 Kingsway, Metro Vancouver, BC, Canada"
     },
     {
         "name": "ProQuest Season 3 Warlotus Games S.L.",
@@ -110,34 +140,34 @@
         "address": "Calle Doctor Juan Sánchez Cózar, Granada, AN, Spain"
     },
     {
-        "name": "ProQuest Season 3 Gateway Games Ltd, Tauranga",
-        "country": "New Zealand",
-        "link": "https://gateway-games-ltd.mybigcommerce.com/flesh-and-blood-proquest-season-3-event-ticket/",
+        "name": "ProQuest Season 3 Invaders Board Game Station",
+        "country": "Indonesia",
+        "link": "https://fabtcg.com/locator/invaders-board-game-station/#event99647",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "19 Bethlehem Road, Bethlehem, Bay of Plenty, New Zealand"
+        "address": "No.35 Jalan Springs Boulevard, Kabupaten Tangerang, Banten, Indonesia"
     },
     {
-        "name": "ProQuest Season 3 Awesome CCG",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/awesome-ccg/#event99830",
+        "name": "ProQuest Season 3 Versus Gamecenter",
+        "country": "Portugal",
+        "link": "https://www.facebook.com/versusgamecenterpt",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "123 Nashua Road, Rockingham County, NH, United States"
+        "address": "Lote C Rua Conselheiro Lopo Vaz, Lisboa, Portugal"
     },
     {
-        "name": "ProQuest Season 3 Huzzah Hobbies",
-        "country": "United States of America",
-        "link": "https://www.facebook.com/events/1185915615619093",
+        "name": "ProQuest Season 3 Chromatic Games",
+        "country": "Australia",
+        "link": "https://www.facebook.com/events/5557343364346307?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22search%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "44927 George Washington Boulevard, Loudoun County, VA, United States"
+        "address": "255A Liverpool Road, Inner West Council, NSW, Australia"
     },
     {
         "name": "ProQuest Season 3 de Kolonisten",
@@ -148,6 +178,16 @@
             "month": 1
         },
         "address": "Patersstraat, Turnhout, Antwerpen, Vlaanderen, Belgium"
+    },
+    {
+        "name": "ProQuest Season 3 Huzzah Hobbies",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/events/1185915615619093",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "44927 George Washington Boulevard, Loudoun County, VA, United States"
     },
     {
         "name": "ProQuest Season 3 Unplugged Games",
@@ -170,64 +210,14 @@
         "address": "531 Great South Road, Penrose, Auckland, New Zealand"
     },
     {
-        "name": "ProQuest Season 3 Epic Loot Games and Comics",
-        "country": "United States of America",
-        "link": "https://www.epiclootgames.com/events/collectible-card-games/flesh-and-blood/",
+        "name": "ProQuest Season 3 Ogre's Den Gaming Club",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/ogres-den-gaming-club/#event100656",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "9130 Dayton Lebanon Pike, Montgomery County, OH, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Gamestower",
-        "country": "Luxembourg",
-        "link": "https://gamestower.lu/product/flesh-and-blood-pro-quest-season-3/",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "33 Rue de la Gare, Mersch, District de Luxembourg, Luxembourg"
-    },
-    {
-        "name": "ProQuest Season 3 Games and Stuff",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/games-and-stuff/#event100372",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "7385 Baltimore Annapolis Boulevard, Anne Arundel County, MD, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Yeti Gaming",
-        "country": "United States of America",
-        "link": "https://www.yetigaming.com/",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "8924 Watson Road, St. Louis County, MO, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Mad Cards and Collectables LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/mad-cards-and-collectables-llc/#event99820",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "8600 Glenwood Avenue, Mahoning County, OH, United States"
-    },
-    {
-        "name": "ProQuest Season 3 The Adventurer's Guild",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-adventurers-guild/#event100590",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "3846a Union Deposit Road, Dauphin County, PA, United States"
+        "address": "3220 5 Avenue Northeast, AB, Canada"
     },
     {
         "name": "ProQuest Season 3 Sun Valley Gaming",
@@ -240,34 +230,14 @@
         "address": "1107 South Gilbert Road, Maricopa County, AZ, United States"
     },
     {
-        "name": "ProQuest Season 3 Ogre's Den Gaming Club",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/ogres-den-gaming-club/#event100656",
+        "name": "ProQuest Season 3 Spielraum Bielefeld",
+        "country": "Germany",
+        "link": "https://fabtcg.com/locator/spielraum-bielefeld/#event100770",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "3220 5 Avenue Northeast, AB, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 Stalo zaidimai EU",
-        "country": "Lithuania",
-        "link": "https://fabtcg.com/locator/stalo-zaidimai-eu/#event100061",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "41 Kalvarijų gatvė, Vilniaus miesto savivaldybė, Vilniaus apskr., Lithuania"
-    },
-    {
-        "name": "ProQuest Season 3 FaB Foundry",
-        "country": "United States of America",
-        "link": "https://www.fabfoundry.co/collections/events",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "450 Northwest 257th Way, Multnomah County, OR, United States"
+        "address": "13 - 21 Glatzer Straße, Stieghorst, Bielefeld, Germany"
     },
     {
         "name": "ProQuest Season 3 Greentree Sports Cards",
@@ -280,14 +250,14 @@
         "address": "1002 Greentree Road, Allegheny County, PA, United States"
     },
     {
-        "name": "ProQuest Season 3 magic stronghold games",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/magic-stronghold-games/#event100517",
+        "name": "ProQuest Season 3 Epic Loot Games and Comics",
+        "country": "United States of America",
+        "link": "https://www.epiclootgames.com/events/collectible-card-games/flesh-and-blood/",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "3665 Kingsway, Metro Vancouver, BC, Canada"
+        "address": "9130 Dayton Lebanon Pike, Montgomery County, OH, United States"
     },
     {
         "name": "ProQuest Season 3 The Comic Book Shop",
@@ -310,6 +280,26 @@
         "address": "36 Dienerstrasse, Zürich, ZH, Switzerland"
     },
     {
+        "name": "ProQuest Season 3 Vivae Board Game Cafe",
+        "country": "Malaysia",
+        "link": "https://fabtcg.com/locator/vivae-board-game-cafe/#event99789",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "Jalan Ampang, Desa Pahlawan, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+    },
+    {
+        "name": "ProQuest Season 3 Gamestower",
+        "country": "Luxembourg",
+        "link": "https://gamestower.lu/product/flesh-and-blood-pro-quest-season-3/",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "33 Rue de la Gare, Mersch, District de Luxembourg, Luxembourg"
+    },
+    {
         "name": "ProQuest Season 3 Good Games Adelaide",
         "country": "Australia",
         "link": "https://www.facebook.com/events/529302432294258/",
@@ -320,14 +310,44 @@
         "address": "50 King William Street, Adelaide City Council, SA, Australia"
     },
     {
+        "name": "ProQuest Season 3 Yeti Gaming",
+        "country": "United States of America",
+        "link": "https://www.yetigaming.com/",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "8924 Watson Road, St. Louis County, MO, United States"
+    },
+    {
+        "name": "ProQuest Season 3 The Adventurer's Guild",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-adventurers-guild/#event100590",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "3846a Union Deposit Road, Dauphin County, PA, United States"
+    },
+    {
         "name": "ProQuest Season 3 The Mighty Meeple",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-mighty-meeple/#event101117",
+        "link": "https://fabtcg.com/locator/the-mighty-meeple/#event103732",
         "date": {
             "day": 14,
             "month": 1
         },
         "address": "8440 Pit Stop Court Northwest, Cabarrus County, NC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Games and Stuff",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/events/691874682645396",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "7385 Baltimore Annapolis Boulevard, Anne Arundel County, MD, United States"
     },
     {
         "name": "ProQuest Season 3 Game Kastle - Ankeny",
@@ -340,24 +360,24 @@
         "address": "1605 Southeast Delaware Avenue, Polk County, IA, United States"
     },
     {
-        "name": "ProQuest Season 3 Showcase Comics and Hobbies",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/showcase-comics-and-hobbies/#event101716",
+        "name": "ProQuest Season 3 MinMaxGames",
+        "country": "United States of America",
+        "link": "https://www.minmaxgames.com/products/minmaxgames-pro-quest-jan-14th",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "1271 3 Avenue South, Division No. 2, AB, Canada"
+        "address": "1135 National Avenue, DuPage County, IL, United States"
     },
     {
-        "name": "ProQuest Season 3 Vivae Board Game Cafe",
-        "country": "Malaysia",
-        "link": "https://fabtcg.com/locator/vivae-board-game-cafe/#event99789",
+        "name": "ProQuest Season 3 Stalo zaidimai EU",
+        "country": "Lithuania",
+        "link": "https://fabtcg.com/locator/stalo-zaidimai-eu/#event100061",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "18a Jalan SS 21/62, Damansara Utama, Selangor, Malaysia"
+        "address": "41 Kalvarijų gatvė, Vilniaus miesto savivaldybė, Vilniaus apskr., Lithuania"
     },
     {
         "name": "ProQuest Season 3 White Rabbit Community Game Store",
@@ -370,106 +390,6 @@
         "address": "79 Segerothstraße, Stadtbezirke I, Essen, Germany"
     },
     {
-        "name": "ProQuest Season 3 Red Dragon Comics, Cards and Games",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/red-dragon-ccg/#event101005",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "6008 Voyageur Drive, Gloucester, Ottawa Division, ON, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 Final Cut TCG",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/final-cut-tcg/#event100171",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "2230 Sunrise Boulevard, Sacramento County, CA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Eternal Games LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/eternal-games-llc/#event100954",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "26051 Hoover Road, Macomb County, MI, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Flipped Table Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/flipped-table-games/#event99781",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "2125 McComb Road, Dane County, WI, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Smetch Rat Games",
-        "country": "United States of America",
-        "link": "https://smetchratgames.com/new-events",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "195 South Main Street, Boulder County, CO, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Next Level Espresso",
-        "country": "United States of America",
-        "link": "https://discord.gg/eushrcxbYH",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "7328 North Alger Road, Gratiot County, MI, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Gods' Arena",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/gods-arena/#event99814",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "2300 Boulevard Père-Lelièvre, Les Rivières, Communauté-Urbaine-de-Québec, QC, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 Sushi Knight Gaming",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/sushi-knight/#event101596",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "47 Dudley Street, Hutt Central, Wellington, New Zealand"
-    },
-    {
-        "name": "ProQuest Season 3 Darkside Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/darkside-games/#event100095",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "9620 South Las Vegas Boulevard, Clark County, NV, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Game Ninja AS",
-        "country": "Norway",
-        "link": "https://fabtcg.com/locator/game-ninja-as/#event100012",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "207 Haraldsgata, Haugesund, Rogaland, Norway"
-    },
-    {
         "name": "ProQuest Season 3 Highlander Games - Boonton",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/highlander-games/#event101642",
@@ -478,26 +398,6 @@
             "month": 1
         },
         "address": "119 Boonton Avenue, Morris County, NJ, United States"
-    },
-    {
-        "name": "ProQuest Season 3 The Gathering Place",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-gathering-place-2/#event101091",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "157 East Rosemary Street, Orange County, NC, United States"
-    },
-    {
-        "name": "ProQuest Season 3 POKE4DAYZ AS",
-        "country": "Norway",
-        "link": "https://www.poke4dayz.no/fab",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "28 Storgata, Sentrum, Oslo kommune, Oslo, Norway"
     },
     {
         "name": "ProQuest Season 3 Fantasiapelit Jyväskylä",
@@ -510,6 +410,26 @@
         "address": "29 Kauppakatu, Finland"
     },
     {
+        "name": "ProQuest Season 3 Eternal Games LLC",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/eternal-games-llc/#event100954",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "26051 Hoover Road, Macomb County, MI, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Red Dragon Comics, Cards and Games",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/red-dragon-ccg/#event101005",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "6008 Voyageur Drive, Gloucester, Ottawa Division, ON, Canada"
+    },
+    {
         "name": "ProQuest Season 3 The Haven Games",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/the-haven-games/#event99660",
@@ -518,6 +438,86 @@
             "month": 1
         },
         "address": "3385 South US Highway 17 92, Seminole County, FL, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Drugiyat Zamak",
+        "country": "Bulgaria",
+        "link": "https://fabtcg.com/locator/drugiyat-zamak/#event103621",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "Sofia City Province, Bulgaria"
+    },
+    {
+        "name": "ProQuest Season 3 The Gathering Place",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-gathering-place-2/#event101091",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "157 East Rosemary Street, Orange County, NC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Darkside Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/darkside-games/#event100095",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "9620 South Las Vegas Boulevard, Clark County, NV, United States"
+    },
+    {
+        "name": "ProQuest Season 3 MABRIK",
+        "country": "Estonia",
+        "link": "https://fabtcg.com/locator/mabrik/#event100059",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "50 Tuukri, Kesklinna linnaosa, Harju maakond, Estonia"
+    },
+    {
+        "name": "ProQuest Season 3 Sushi Knight Gaming",
+        "country": "New Zealand",
+        "link": "https://fabtcg.com/locator/sushi-knight/#event101596",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "47 Dudley Street, Hutt Central, Wellington, New Zealand"
+    },
+    {
+        "name": "ProQuest Season 3 Game Ninja AS",
+        "country": "Norway",
+        "link": "https://fabtcg.com/locator/game-ninja-as/#event100012",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "207 Haraldsgata, Haugesund, Rogaland, Norway"
+    },
+    {
+        "name": "ProQuest Season 3 Next Level Espresso",
+        "country": "United States of America",
+        "link": "https://discord.gg/eushrcxbYH",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "7328 North Alger Road, Gratiot County, MI, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Flipped Table Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/flipped-table-games/#event99781",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "2125 McComb Road, Dane County, WI, United States"
     },
     {
         "name": "ProQuest Season 3 Viral Card Games",
@@ -530,6 +530,36 @@
         "address": "1206 East Moore Lake Drive, Anoka County, MN, United States"
     },
     {
+        "name": "ProQuest Season 3 Smetch Rat Games",
+        "country": "United States of America",
+        "link": "https://smetchratgames.com/new-events",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "195 South Main Street, Boulder County, CO, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Gods' Arena",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/gods-arena/#event99814",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "2300 Boulevard Père-Lelièvre, Les Rivières, Communauté-Urbaine-de-Québec, QC, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 POKE4DAYZ AS",
+        "country": "Norway",
+        "link": "https://www.poke4dayz.no/fab",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "28 Storgata, Sentrum, Oslo kommune, Oslo, Norway"
+    },
+    {
         "name": "ProQuest Season 3 Fat Ogre Games & Comics, Inc",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/fat-ogre-games-comics-inc/#event101182",
@@ -540,54 +570,24 @@
         "address": "525 Sawdust Road, Montgomery County, TX, United States"
     },
     {
-        "name": "ProQuest Season 3 MinMaxGames",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/minmaxgames/#event101577",
+        "name": "ProQuest Season 3 RetroPlay Games",
+        "country": "Canada",
+        "link": "https://shop.retroplaygames.com/products/flesh-blood-proquest-season-3-ticket",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "1135 National Avenue, DuPage County, IL, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Home-run FABulous Card Shop",
-        "country": "Hong Kong",
-        "link": "https://fabtcg.com/locator/home-run-fabulous-card-shop/#event100021",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "749A Nathan Road, Kowloon, Hong Kong"
-    },
-    {
-        "name": "ProQuest Season 3 Gamer's Loot",
-        "country": "United States of America",
-        "link": "https://gamerslootindy.com/collections/preorder/products/flesh-and-blood-proquest-q2",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "10202 East Washington Street, Marion County, IN, United States"
+        "address": "1886 London Line, Lambton County, ON, Canada"
     },
     {
         "name": "ProQuest Season 3 Darby's Dungeon, LLC",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/darbys-dungeon-llc/#event100986",
+        "link": "https://www.darbysdungeon.com/event-tickets/proquest-season-3-january-14th",
         "date": {
             "day": 14,
             "month": 1
         },
         "address": "14185 Beach Boulevard, Duval County, FL, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Odyssey Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/odyssey-games-llc/#event101731",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "5029 West Main Street, Kalamazoo County, MI, United States"
     },
     {
         "name": "ProQuest Season 3 Zulu's Board Game Cafe",
@@ -600,14 +600,14 @@
         "address": "10234 Main Street, King County, WA, United States"
     },
     {
-        "name": "ProQuest Season 3 貓腳印遊樂園",
-        "country": "Taiwan",
-        "link": "https://fabtcg.com/locator/%E8%B2%93%E8%85%B3%E5%8D%B0%E9%81%8A%E6%A8%82%E5%9C%92/#event99675",
+        "name": "ProQuest Season 3 One Drop Game Shop",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/one-drop-game-shop/#event100975",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "10 Zhonghua Road, Taoyuan City, Taiwan"
+        "address": "2724 North Amidon Avenue, Sedgwick County, KS, United States"
     },
     {
         "name": "ProQuest Season 3 Mana Merchant",
@@ -620,44 +620,74 @@
         "address": "7927 Blondo Street, Douglas County, NE, United States"
     },
     {
-        "name": "ProQuest Season 3 Man o' War Games, LLC",
+        "name": "ProQuest Season 3 Pack Fresh",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/man-o-war-games-llc/#event99818",
+        "link": "https://fabtcg.com/locator/we-buy-games/#event101863",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "2033 North Highway 190, St. Tammany Parish, LA, United States"
+        "address": "1299 Ohio Pike, Clermont County, OH, United States"
     },
     {
-        "name": "ProQuest Season 3 The Pocket",
+        "name": "ProQuest Season 3 Gamer's Loot",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-pocket/#event100176",
+        "link": "https://gamerslootindy.com/collections/preorder/products/flesh-and-blood-proquest-q2",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "1410 North Conway Avenue, Hidalgo County, TX, United States"
+        "address": "10202 East Washington Street, Marion County, IN, United States"
     },
     {
-        "name": "ProQuest Season 3 RetroPlay Games",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/retroplay-games/#event100386",
+        "name": "ProQuest Season 3 Home-run FABulous Card Shop",
+        "country": "Hong Kong",
+        "link": "https://www.facebook.com/homerunfab",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "1886 London Line, Lambton County, ON, Canada"
+        "address": "749A Nathan Road, Kowloon, Hong Kong"
     },
     {
-        "name": "ProQuest Season 3 Flipside Gaming East Greenbush",
+        "name": "ProQuest Season 3 CM Games - Lexington",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/flipside-gaming-east-greenbush/#event99873",
+        "link": "https://www.facebook.com/events/832168847913078?active_tab=about",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "598 Columbia Turnpike, Rensselaer County, NY, United States"
+        "address": "3401 Nicholasville Road, Fayette County, KY, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Game On!",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/game-on/#event101744",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "560 North Reilly Road, Cumberland County, NC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Odyssey Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/odyssey-games-llc/#event101731",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "5029 West Main Street, Kalamazoo County, MI, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Games Haven Hobby Pte Ltd",
+        "country": "Singapore",
+        "link": "https://fabtcg.com/locator/games-haven-hobby-pte-ltd/#event100340",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "736 Geylang Road, Singapore"
     },
     {
         "name": "ProQuest Season 3 Giga-Bites Cafe",
@@ -670,44 +700,24 @@
         "address": "1859 Roswell Road, Cobb County, GA, United States"
     },
     {
-        "name": "ProQuest Season 3 Pack Fresh",
+        "name": "ProQuest Season 3 Man o' War Games, LLC",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/we-buy-games/#event101863",
+        "link": "https://fabtcg.com/locator/man-o-war-games-llc/#event99818",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "1299 Ohio Pike, Clermont County, OH, United States"
+        "address": "2033 North Highway 190, St. Tammany Parish, LA, United States"
     },
     {
-        "name": "ProQuest Season 3 MABRIK",
-        "country": "Estonia",
-        "link": "https://fabtcg.com/locator/mabrik/#event100059",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "2 Ravi, Kesklinna linnaosa, Harju maakond, Estonia"
-    },
-    {
-        "name": "ProQuest Season 3 Forest City Coins",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/forest-city-coins/#event100717",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "354 Richmond Street, Middlesex County, ON, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 One Drop Game Shop",
+        "name": "ProQuest Season 3 Final Cut TCG",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/one-drop-game-shop/#event100975",
+        "link": "https://fabtcg.com/locator/final-cut-tcg/#event100171",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "2724 North Amidon Avenue, Sedgwick County, KS, United States"
+        "address": "2230 Sunrise Boulevard, Sacramento County, CA, United States"
     },
     {
         "name": "ProQuest Season 3 Gamer's Lair",
@@ -740,16 +750,6 @@
         "address": "615 Rua Conde de Bonfim, Tijuca, Rio de Janeiro, RJ, Brazil"
     },
     {
-        "name": "ProQuest Season 3 Fantastic Realmz",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/fantastic-realmz/#event99977",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "384 Old Chena Pump Road, Fairbanks North Star, AK, United States"
-    },
-    {
         "name": "ProQuest Season 3 Atomic Comics Emporium II (Newport News)",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/atomic-comics-emporium-ii/#event99773",
@@ -760,14 +760,24 @@
         "address": "467b Denbigh Boulevard, VA, United States"
     },
     {
-        "name": "ProQuest Season 3 Chromatic Games",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/chromatic-games/#event99642",
+        "name": "ProQuest Season 3 The Pocket",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-pocket/#event100176",
         "date": {
             "day": 14,
             "month": 1
         },
-        "address": "255A Liverpool Road, Inner West Council, NSW, Australia"
+        "address": "1410 North Conway Avenue, Hidalgo County, TX, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Fantastic Realmz",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/fantastic-realmz/#event99977",
+        "date": {
+            "day": 14,
+            "month": 1
+        },
+        "address": "384 Old Chena Pump Road, Fairbanks North Star, AK, United States"
     },
     {
         "name": "ProQuest Season 3 Seventh Dimension",
@@ -778,16 +788,6 @@
             "month": 1
         },
         "address": "11 Belmont Road, Belfast, Northern Ireland, United Kingdom"
-    },
-    {
-        "name": "ProQuest Season 3 Game On!",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/game-on/#event101744",
-        "date": {
-            "day": 14,
-            "month": 1
-        },
-        "address": "560 North Reilly Road, Cumberland County, NC, United States"
     },
     {
         "name": "ProQuest Season 3 The Armchair Adventurer",
@@ -840,14 +840,14 @@
         "address": "Armouries Way, West Yorkshire, England, United Kingdom"
     },
     {
-        "name": "ProQuest Season 3 The Uncommons",
-        "country": "United States of America",
-        "link": "https://checkout.square.site/merchant/52TAQ2X0128NN/checkout/IP5C243BJZK46FRA5DLVRRXI",
+        "name": "ProQuest Season 3 Centrum gier Pegaz",
+        "country": "Poland",
+        "link": "https://fabtcg.com/locator/centrum-gier-pegaz/#event99810",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "230 Thompson Street, Manhattan, New York County, NY, United States"
+        "address": "6 Pod Blankami, Bydgoszcz, Kujawsko-Pomorskie, Poland"
     },
     {
         "name": "ProQuest Season 3 Dueling Land",
@@ -860,64 +860,44 @@
         "address": "16050 East Dartmouth Avenue, Arapahoe County, CO, United States"
     },
     {
-        "name": "ProQuest Season 3 Le Temple du Jeu - Nantes",
-        "country": "France",
-        "link": "https://www.tournois-ouest.fr/",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "23 Quai de la Fosse, Loire-Atlantique, Pays de la Loire, France"
-    },
-    {
-        "name": "ProQuest Season 3 Monster Comic Lounge",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/monster-comic-lounge/#event100651",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "2089 Gottingen Street, Halifax Regional Municipality, NS, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 Invictus Forge",
-        "country": "Malaysia",
-        "link": "https://fabtcg.com/locator/invictus-forge/#event100296",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "2A Persiaran Surian, Tropicana Indah, Selangor, Malaysia"
-    },
-    {
-        "name": "ProQuest Season 3 401 Games Toronto",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/401-games-toronto/#event101314",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "750 Yonge Street, Old Toronto, Toronto Division, ON, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 Centrum gier Pegaz",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/centrum-gier-pegaz/#event99810",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "6 Pod Blankami, Bydgoszcz, Kujawsko-Pomorskie, Poland"
-    },
-    {
-        "name": "ProQuest Season 3 Fable Hobby",
+        "name": "ProQuest Season 3 The Uncommons",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/fable-hobby/#event99901",
+        "link": "https://checkout.square.site/merchant/52TAQ2X0128NN/checkout/IP5C243BJZK46FRA5DLVRRXI",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "4826 Southwest Scholls Ferry Road, Washington County, OR, United States"
+        "address": "230 Thompson Street, Manhattan, New York County, NY, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Le Temple du Jeu Nantes - Boutique Cartes",
+        "country": "France",
+        "link": "https://fabtcg.com/locator/le-temple-du-jeu-nantes-boutique-cartes/#event114397",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "11 Quai de la Fosse, Loire-Atlantique, Pays de la Loire, France"
+    },
+    {
+        "name": "ProQuest Season 3 GAMERIA",
+        "country": "Spain",
+        "link": "https://fabtcg.com/locator/j%C3%BApiter-juegos-barcelona/#event100790",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "13 Carrer d'Ausiàs Marc, Barcelona, CT, Spain"
+    },
+    {
+        "name": "ProQuest Season 3 Gaming DNA",
+        "country": "New Zealand",
+        "link": "https://gamingdna.co.nz/pages/events?ticket=flesh-and-blood-proquest-season-3-ticket-sun-jan-15-2023",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "550 Anglesea Street, Hamilton Central, Waikato, New Zealand"
     },
     {
         "name": "ProQuest Season 3 BLOODRUSH Gaming",
@@ -930,14 +910,14 @@
         "address": "69 Webb Street, Central Coast Council, NSW, Australia"
     },
     {
-        "name": "ProQuest Season 3 Gaming DNA",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/gaming-dna-2/#event101709",
+        "name": "ProQuest Season 3 Invictus Forge",
+        "country": "Malaysia",
+        "link": "https://fabtcg.com/locator/invictus-forge/#event100296",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "550 Anglesea Street, Hamilton Central, Waikato, New Zealand"
+        "address": "2A Persiaran Surian, Tropicana Indah, Selangor, Malaysia"
     },
     {
         "name": "ProQuest Season 3 Millennium Games",
@@ -948,6 +928,76 @@
             "month": 1
         },
         "address": "3047 West Henrietta Road, Monroe County, NY, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Fable Hobby",
+        "country": "United States of America",
+        "link": "https://fablehobby.com/products/event-fab-pro-quest-q3-011523",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "9575 Southwest Locust Street, Washington County, OR, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Dominaria Cards e Games",
+        "country": "Brazil",
+        "link": "https://fabtcg.com/locator/dominaria-cards-e-games/#event103738",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "Rua Juvenal Galeno, Benfica, Fortaleza, CE, Brazil"
+    },
+    {
+        "name": "ProQuest Season 3 Trollune",
+        "country": "France",
+        "link": "https://ticketbud.com/events/5be1b9fe-543a-11ed-b475-42010a71701e",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "25 Rue Sébastien Gryphe, Rhône, Auvergne-Rhône-Alpes, France"
+    },
+    {
+        "name": "ProQuest Season 3 Good Games Joondalup",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/good-games-joondalup/#event99655",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "19 Boas Avenue, City of Joondalup, WA, Australia"
+    },
+    {
+        "name": "ProQuest Season 3 The Dice Spot",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/the-dice-spot/#event103149",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "270 Rode Road, Brisbane City, QLD, Australia"
+    },
+    {
+        "name": "ProQuest Season 3 Sod Games SRL",
+        "country": "Belgium",
+        "link": "https://www.facebook.com/events/825915458681787/",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "8 Place Charles Gailly, Hainaut, Région Wallonne, Belgium"
+    },
+    {
+        "name": "ProQuest Season 3 GoodGames Bern",
+        "country": "Switzerland",
+        "link": "https://www.goodgamesbern.ch/eventkalender/",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "Bern District, BE, Switzerland"
     },
     {
         "name": "ProQuest Season 3 Titan Games",
@@ -970,76 +1020,6 @@
         "address": "28 Via San Giovanni Bosco, Provincia di Bergamo, Lombardia, Italy"
     },
     {
-        "name": "ProQuest Season 3 Good Games Joondalup",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/good-games-joondalup/#event99655",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "19 Boas Avenue, City of Joondalup, WA, Australia"
-    },
-    {
-        "name": "ProQuest Season 3 GoodGames Bern",
-        "country": "Switzerland",
-        "link": "https://www.goodgamesbern.ch/eventkalender/",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "Bern District, BE, Switzerland"
-    },
-    {
-        "name": "ProQuest Season 3 Trollune",
-        "country": "France",
-        "link": "https://ticketbud.com/events/5be1b9fe-543a-11ed-b475-42010a71701e",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "25 Rue Sébastien Gryphe, Rhône, Auvergne-Rhône-Alpes, France"
-    },
-    {
-        "name": "ProQuest Season 3 Sod Games SRL",
-        "country": "Belgium",
-        "link": "https://fabtcg.com/locator/sod-games-srl/#event99710",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "8 Place Charles Gailly, Hainaut, Région Wallonne, Belgium"
-    },
-    {
-        "name": "ProQuest Season 3 The Dice Spot",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/the-dice-spot/#event103149",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "270 Rode Road, Brisbane City, QLD, Australia"
-    },
-    {
-        "name": "ProQuest Season 3 GAMERIA",
-        "country": "Spain",
-        "link": "https://fabtcg.com/locator/j%C3%BApiter-juegos-barcelona/#event100790",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "13 Carrer d'Ausiàs Marc, Barcelona, CT, Spain"
-    },
-    {
-        "name": "ProQuest Season 3 Dice & Destiny",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/dice-destiny/#event101086",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "Kent, England, United Kingdom"
-    },
-    {
         "name": "ProQuest Season 3 Epic Panda Aarhus",
         "country": "Denmark",
         "link": "https://fabtcg.com/locator/epic-panda-aarhus/#event100838",
@@ -1050,34 +1030,14 @@
         "address": "Frederiksgade, Aarhus C, Denmark"
     },
     {
-        "name": "ProQuest Season 3 Multiverse Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/multiverse-games/#event101364",
+        "name": "ProQuest Season 3 Carta Magica Ottawa",
+        "country": "Canada",
+        "link": "https://www.cartamagicaottawa.com/catalog/flesh__blood_events/7205",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "739 West Hildebrand Avenue, Bexar County, TX, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Sapphire-Cards",
-        "country": "Germany",
-        "link": "https://fabtcg.com/locator/sapphire-cards/#event101355",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "7 Maler-Bürkel-Straße, Pirmasens, Germany"
-    },
-    {
-        "name": "ProQuest Season 3 Bricks Play",
-        "country": "Singapore",
-        "link": "https://fabtcg.com/locator/bricks-play/#event100347",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "183 Toa Payoh Central, Singapore"
+        "address": "1179 Saint Laurent Boulevard, Gloucester, Ottawa Division, ON, Canada"
     },
     {
         "name": "ProQuest Season 3 Dragonphoenix Inn",
@@ -1110,14 +1070,14 @@
         "address": "129 Hardy Street, Nelson, Nelson, New Zealand"
     },
     {
-        "name": "ProQuest Season 3 Carta Magica Ottawa",
+        "name": "ProQuest Season 3 401 Games Toronto",
         "country": "Canada",
-        "link": "https://www.cartamagicaottawa.com/catalog/flesh__blood_events/7205",
+        "link": "https://fabtcg.com/locator/401-games-toronto/#event101314",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "1179 Saint Laurent Boulevard, Gloucester, Ottawa Division, ON, Canada"
+        "address": "750 Yonge Street, Old Toronto, Toronto Division, ON, Canada"
     },
     {
         "name": "ProQuest Season 3 LE DÉ CAFÉINÉ",
@@ -1130,6 +1090,26 @@
         "address": "9 Avenue Georges Lasserre, Gironde, Nouvelle-Aquitaine, France"
     },
     {
+        "name": "ProQuest Season 3 Bricks Play",
+        "country": "Singapore",
+        "link": "https://fabtcg.com/locator/bricks-play/#event100347",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "183 Toa Payoh Central, Singapore"
+    },
+    {
+        "name": "ProQuest Season 3 Sapphire-Cards",
+        "country": "Germany",
+        "link": "https://fabtcg.com/locator/sapphire-cards/#event101355",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "7 Maler-Bürkel-Straße, Pirmasens, Germany"
+    },
+    {
         "name": "ProQuest Season 3 Gamers Alley",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/gamers-alley/#event100908",
@@ -1138,6 +1118,36 @@
             "month": 1
         },
         "address": "401 Cox Road, Gaston County, NC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Multiverse Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/multiverse-games/#event101364",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "739 West Hildebrand Avenue, Bexar County, TX, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Monster Comic Lounge",
+        "country": "Canada",
+        "link": "https://fb.me/e/2bORYaDmU",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "2089 Gottingen Street, Halifax Regional Municipality, NS, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 Kingslayer Games (Fountain Valley, CA)",
+        "country": "United States of America",
+        "link": "https://www.kingslayergames.com/1-15-kingslayer-fv-proquest-season-3.html",
+        "date": {
+            "day": 15,
+            "month": 1
+        },
+        "address": "11213 Slater Avenue, Orange County, CA, United States"
     },
     {
         "name": "ProQuest Season 3 MAGIC MAZE",
@@ -1170,24 +1180,14 @@
         "address": "13 Zhongyang East Road, Taoyuan City, Taiwan"
     },
     {
-        "name": "ProQuest Season 3 ReRoll Games",
-        "country": "Ireland",
-        "link": "https://fabtcg.com/locator/reroll-games/#event101395",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "44 Flower Hill, MH, Ireland"
-    },
-    {
-        "name": "ProQuest Season 3 THE PEOPLE'S CARD SHOP",
+        "name": "ProQuest Season 3 Blade Gaming",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-peoples-card-shop/#event100167",
+        "link": "https://fabtcg.com/locator/blade-gaming/#event101079",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "5620 West Charleston Boulevard, Clark County, NV, United States"
+        "address": "430 Salem Avenue Southwest, VA, United States"
     },
     {
         "name": "ProQuest Season 3 The Board Room",
@@ -1200,14 +1200,14 @@
         "address": "270 Progress Way, Putnam County, WV, United States"
     },
     {
-        "name": "ProQuest Season 3 Blade Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/blade-gaming/#event101079",
+        "name": "ProQuest Season 3 ReRoll Games",
+        "country": "Ireland",
+        "link": "https://fabtcg.com/locator/reroll-games/#event101395",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "430 Salem Avenue Southwest, VA, United States"
+        "address": "44 Flower Hill, MH, Ireland"
     },
     {
         "name": "ProQuest Season 3 Kayfabe Cards",
@@ -1220,24 +1220,24 @@
         "address": "12652 South 2700 West, Salt Lake County, UT, United States"
     },
     {
-        "name": "ProQuest Season 3 Carta Magica MONTRÉAL",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/carta-magica-montr%C3%A9al/#event100387",
+        "name": "ProQuest Season 3 THE PEOPLE'S CARD SHOP",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-peoples-card-shop/#event100167",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "6360 Rue Saint-Hubert, Rosemont—La Petite-Patrie, Communauté-Urbaine-de-Montréal, QC, Canada"
+        "address": "5620 West Charleston Boulevard, Clark County, NV, United States"
     },
     {
-        "name": "ProQuest Season 3 Legends Sports and Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/legends-sports-and-games/#event100455",
+        "name": "ProQuest Season 3 Forest City Coins",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/forest-city-coins/#event100717",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "3645 28th Street Southeast, Kent County, MI, United States"
+        "address": "354 Richmond Street, Middlesex County, ON, Canada"
     },
     {
         "name": "ProQuest Season 3 Red Seal Gaming",
@@ -1250,34 +1250,24 @@
         "address": "419 New Jersey 34, Middlesex County, NJ, United States"
     },
     {
-        "name": "ProQuest Season 3 Games Haven Hobby Pte Ltd",
-        "country": "Singapore",
-        "link": "https://fabtcg.com/locator/games-haven-hobby-pte-ltd/#event100340",
+        "name": "ProQuest Season 3 Legends Sports and Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/legends-sports-and-games/#event100455",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "736 Geylang Road, Singapore"
+        "address": "3645 28th Street Southeast, Kent County, MI, United States"
     },
     {
-        "name": "ProQuest Season 3 Showcase Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/showcase-games/#event99661",
+        "name": "ProQuest Season 3 Games & Lattes Cafe",
+        "country": "Brunei",
+        "link": "https://fabtcg.com/locator/games-lattes-cafe/#event99643",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "226 Nelson Street, Bartow County, GA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Tubbys TCG",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/tubbys-tcg/#event99841",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "9019 Park Plaza Drive, San Diego County, CA, United States"
+        "address": "Kampong Kiarong, Mukim Gadong B, Brunei-Muara District, Brunei"
     },
     {
         "name": "ProQuest Season 3 Nexus Tabletop Games Cafe",
@@ -1290,14 +1280,14 @@
         "address": "Surabaya City, East Java, Indonesia"
     },
     {
-        "name": "ProQuest Season 3 Games & Lattes Cafe",
-        "country": "Brunei",
-        "link": "https://fabtcg.com/locator/games-lattes-cafe/#event99643",
+        "name": "ProQuest Season 3 Showcase Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/showcase-games/#event99661",
         "date": {
             "day": 15,
             "month": 1
         },
-        "address": "Kampong Kiarong, Mukim Gadong B, Brunei-Muara District, Brunei"
+        "address": "226 Nelson Street, Bartow County, GA, United States"
     },
     {
         "name": "ProQuest Season 3 Basic Land Card Game Shop",
@@ -1340,46 +1330,6 @@
         "address": "2202 North Westwood Boulevard, Butler County, MO, United States"
     },
     {
-        "name": "ProQuest Season 3 Blitzkrieg Games & Comics",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/blitzkrieg-games-comics/#event101945",
-        "date": {
-            "day": 15,
-            "month": 1
-        },
-        "address": "681 Texas 46, Comal County, TX, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Game Theory Downtown",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/game-theory-downtown/#event101207",
-        "date": {
-            "day": 19,
-            "month": 1
-        },
-        "address": "507 East Martin Street, Wake County, NC, United States"
-    },
-    {
-        "name": "ProQuest Season 3 GuuBuu Hobby",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/guubuu-hobby/#event102626",
-        "date": {
-            "day": 20,
-            "month": 1
-        },
-        "address": "3334 Stone Mountain Highway, Gwinnett County, GA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Midian Gaming",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/the-midian-guard/#event100948",
-        "date": {
-            "day": 20,
-            "month": 1
-        },
-        "address": "16-24 Fuller Road, Melton City, VIC, Australia"
-    },
-    {
         "name": "ProQuest Season 3 Excelsior! Comics",
         "country": "United Kingdom",
         "link": "https://excelsiorgamesandcomics.co.uk/collections/event-tickets/products/excelsior-fab-pro-quest-season-3-21-01-23",
@@ -1388,16 +1338,6 @@
             "month": 1
         },
         "address": "32 Bond Street, Broadmead, Bristol City, England, United Kingdom"
-    },
-    {
-        "name": "ProQuest Season 3 Action City Comics",
-        "country": "United States of America",
-        "link": "https://actioncitycomics.com",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "570 Manhattan Avenue, Brooklyn, Kings County, NY, United States"
     },
     {
         "name": "ProQuest Season 3 The Hall of Heroes",
@@ -1410,9 +1350,19 @@
         "address": "157 Queen Street, City of Campbelltown, NSW, Australia"
     },
     {
+        "name": "ProQuest Season 3 L'Autre Monde",
+        "country": "Belgium",
+        "link": "https://fb.me/e/2r0G8Y9z7",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "20 Rue Hors-Château, Liège, Région Wallonne, Belgium"
+    },
+    {
         "name": "ProQuest Season 3 EH Gaming",
         "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/eh-gaming/#event101311",
+        "link": "https://www.ehgaming.com/product/flesh-blood-tcg-york-proquest-season-3-event-saturday-21-january-2023/",
         "date": {
             "day": 21,
             "month": 1
@@ -1430,34 +1380,34 @@
         "address": "1 Plaza del Toro, Madrid, MD, Spain"
     },
     {
-        "name": "ProQuest Season 3 Tabletop Kingdom",
-        "country": "Netherlands",
-        "link": "https://fabtcg.com/locator/tabletop-kingdom/#event101293",
+        "name": "ProQuest Season 3 Black Lotus",
+        "country": "Czechia",
+        "link": "https://fabtcg.com/locator/black-lotus/#event100564",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "13 Korte Houtstraat, Centrum, Den Haag, ZH, Netherlands"
+        "address": "208 Puchmajerova, Moravská Ostrava a Přívoz, Ostrava-město, Moravskoslezský kraj, Czechia"
+    },
+    {
+        "name": "ProQuest Season 3 Reaper Game Store",
+        "country": "United States of America",
+        "link": "https://www.reapergamestore.com/product/pro-quest-1-000-/10389?cp=true&sa=false&sbp=false&q=false&category_id=37",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "9080 Teasley Lane, Denton County, TX, United States"
     },
     {
         "name": "ProQuest Season 3 Funtainment GmbH",
         "country": "Germany",
-        "link": "https://fabtcg.com/locator/funtainment-gmbh/#event100851",
+        "link": "https://shop.funtainment.de/detail/index/sArticle/50779",
         "date": {
             "day": 21,
             "month": 1
         },
         "address": "12A Landwehrstraße, Ludwigsvorstadt-Isarvorstadt, München, Germany"
-    },
-    {
-        "name": "ProQuest Season 3 Underworld Gaming",
-        "country": "Ireland",
-        "link": "https://fabtcg.com/locator/underworld-gaming/#event100657",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "10 Belgard Square West, D, Ireland"
     },
     {
         "name": "ProQuest Season 3 The Upkeep Games",
@@ -1470,14 +1420,14 @@
         "address": "871 South Latson Road, Livingston County, MI, United States"
     },
     {
-        "name": "ProQuest Season 3 Demolition Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/demolition-games/#event100668",
+        "name": "ProQuest Season 3 Shop Gracz",
+        "country": "Poland",
+        "link": "https://fabtcg.com/locator/shop-gracz/#event100536",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "85 West 3300 South, Salt Lake County, UT, United States"
+        "address": "16 Bolesława Limanowskiego, Podgórze, Kraków, Małopolskie, Poland"
     },
     {
         "name": "ProQuest Season 3 Silver Goblin",
@@ -1490,19 +1440,49 @@
         "address": "372 Rue Sainte-Catherine Ouest, Ville-Marie, Communauté-Urbaine-de-Montréal, QC, Canada"
     },
     {
-        "name": "ProQuest Season 3 Reaper Game Store",
+        "name": "ProQuest Season 3 Enchanted Realms Games and Gifts",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/reaper-game-store/#event99817",
+        "link": "https://fabtcg.com/locator/enchanted-realms-games-and-gifts/#event101434",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "9080 Teasley Lane, Denton County, TX, United States"
+        "address": "1231 North Academy Boulevard, El Paso County, CO, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Demolition Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/demolition-games/#event100668",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "85 West 3300 South, Salt Lake County, UT, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Tabletop Kingdom",
+        "country": "Netherlands",
+        "link": "https://fabtcg.com/locator/tabletop-kingdom/#event101293",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "13 Korte Houtstraat, Centrum, Den Haag, ZH, Netherlands"
+    },
+    {
+        "name": "ProQuest Season 3 Underworld Gaming",
+        "country": "Ireland",
+        "link": "https://fabtcg.com/locator/underworld-gaming/#event100657",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "10 Belgard Square West, D, Ireland"
     },
     {
         "name": "ProQuest Season 3 StartSpeler",
         "country": "Belgium",
-        "link": "https://fabtcg.com/locator/startspeler/#event101040",
+        "link": "https://discord.gg/CkBqaHGrzV",
         "date": {
             "day": 21,
             "month": 1
@@ -1510,54 +1490,14 @@
         "address": "32 Kerkstraat, Limburg, Vlaanderen, Belgium"
     },
     {
-        "name": "ProQuest Season 3 Shop Gracz",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/shop-gracz/#event100536",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "16 Bolesława Limanowskiego, Podgórze, Kraków, Małopolskie, Poland"
-    },
-    {
         "name": "ProQuest Season 3 Alphaspel",
         "country": "Sweden",
-        "link": "https://www.alphaspel.se/events/",
+        "link": "https://fabtcg.com/locator/alphaspel/#event105352",
         "date": {
             "day": 21,
             "month": 1
         },
         "address": "2 Instrumentvägen, Hägersten-Liljeholmen, Stockholms län, Sweden"
-    },
-    {
-        "name": "ProQuest Season 3 ANTHEM EFFECT",
-        "country": "Greece",
-        "link": "https://fabtcg.com/locator/anthem-effect/#event99682",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "70 Likourgou, Greece"
-    },
-    {
-        "name": "ProQuest Season 3 L'Autre Monde",
-        "country": "Belgium",
-        "link": "https://fabtcg.com/locator/lautre-monde/#event101482",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "20 Rue Hors-Château, Liège, Région Wallonne, Belgium"
-    },
-    {
-        "name": "ProQuest Season 3 Drawstep",
-        "country": "Portugal",
-        "link": "https://fabtcg.com/locator/drawstep/#event99877",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "n91 Rua da Fundação Calouste Gulbenkian, Braga, Portugal"
     },
     {
         "name": "ProQuest Season 3 Infinity Card & Collectibles",
@@ -1570,24 +1510,44 @@
         "address": "27256 Fraser Highway, Metro Vancouver, BC, Canada"
     },
     {
-        "name": "ProQuest Season 3 Črna Luknja",
-        "country": "Slovenia",
-        "link": "https://fabtcg.com/locator/%C4%8Drna-luknja/#event100791",
+        "name": "ProQuest Season 3 DragoStore! (Nerdice!)",
+        "country": "Brazil",
+        "link": "https://fabtcg.com/locator/nerdice/#event103687",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "19 Poljanska cesta, Ljubljana, Slovenia"
+        "address": "1316 Rua Riachuelo, Centro Histórico, Porto Alegre, RS, Brazil"
     },
     {
-        "name": "ProQuest Season 3 DRAGON'S HOARD COLLECTIBLES AND GAMES",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/dragons-hoard-collectibles-and-games/#event100839",
+        "name": "ProQuest Season 3 Drawstep",
+        "country": "Portugal",
+        "link": "https://fabtcg.com/locator/drawstep/#event99877",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "946 North Brindlee Mountain Parkway, Marshall County, AL, United States"
+        "address": "n91 Rua da Fundação Calouste Gulbenkian, Braga, Portugal"
+    },
+    {
+        "name": "ProQuest Season 3 ANTHEM EFFECT",
+        "country": "Greece",
+        "link": "https://fabtcg.com/locator/anthem-effect/#event99682",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "70 Likourgou, Greece"
+    },
+    {
+        "name": "ProQuest Season 3 Amazing Discoveries",
+        "country": "United States of America",
+        "link": "https://www.amazingmtg.com/catalog/events-tucson_events/14228",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "South Tucson Boulevard, Pima County, AZ, United States"
     },
     {
         "name": "ProQuest Season 3 Metagame Kártyabolt",
@@ -1600,54 +1560,34 @@
         "address": "10 Kádár utca, XIII. kerület, Hungary"
     },
     {
-        "name": "ProQuest Season 3 KEEPSEVEN",
-        "country": "Germany",
-        "link": "https://keepseven.de/events/",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "25 Große Burgstraße, Lübecker Altstadt, Lübeck, Germany"
-    },
-    {
-        "name": "ProQuest Season 3 Gold Coast Good Games",
-        "country": "Australia",
-        "link": "https://www.facebook.com/events/666101168420951/",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "501 Olsen Avenue, City of Gold Coast, QLD, Australia"
-    },
-    {
-        "name": "ProQuest Season 3 Card Merchant Westcity",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/card-merchant-westcity/#event99659",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "7 Catherine Street, Henderson, Auckland, New Zealand"
-    },
-    {
-        "name": "ProQuest Season 3 Dream Wizards",
+        "name": "ProQuest Season 3 Secondhand Soldiers LLC",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/dream-wizards/#event99776",
+        "link": "https://fabtcg.com/locator/secondhand-soldiers-llc/#event99867",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "11772 Parklawn Drive, Montgomery County, MD, United States"
+        "address": "2001 Forest Hills Boulevard, Bossier Parish, LA, United States"
     },
     {
-        "name": "ProQuest Season 3 Dark Sphere",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/dark-sphere/#event99812",
+        "name": "ProQuest Season 3 Action City Comics",
+        "country": "United States of America",
+        "link": "https://actioncitycomics.com",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "Greater London, England, United Kingdom"
+        "address": "79 West Street, Brooklyn, Kings County, NY, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Magelings Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/magelings-games/#event101211",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "1906 North Providence Road, Boone County, MO, United States"
     },
     {
         "name": "ProQuest Season 3 Dragon's Lair Comics & Fantasy Austin",
@@ -1660,24 +1600,14 @@
         "address": "2438 West Anderson Lane, Travis County, TX, United States"
     },
     {
-        "name": "ProQuest Season 3 Secondhand Soldiers LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/secondhand-soldiers-llc/#event99867",
+        "name": "ProQuest Season 3 Dark Sphere",
+        "country": "United Kingdom",
+        "link": "https://www.darksphere.co.uk/p.php?p=142893",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "2001 Forest Hills Boulevard, Bossier Parish, LA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Magelings Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/magelings-games/#event101211",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "1906 North Providence Road, Boone County, MO, United States"
+        "address": "Greater London, England, United Kingdom"
     },
     {
         "name": "ProQuest Season 3 Top Deck Keep",
@@ -1700,6 +1630,16 @@
         "address": "134 King Street, Palmerston North, Manawatu-Wanganui, New Zealand"
     },
     {
+        "name": "ProQuest Season 3 From the Ashes Gaming",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/from-the-ashes-gaming/#event100511",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "600 East Penn Avenue, Berks County, PA, United States"
+    },
+    {
         "name": "ProQuest Season 3 Midgard Hobbies and Games",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/midgard-hobbies-and-games/#event99945",
@@ -1710,14 +1650,84 @@
         "address": "55 Crystal Avenue, Rockingham County, NH, United States"
     },
     {
+        "name": "ProQuest Season 3 Dream Wizards",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/dream-wizards/#event99776",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "11772 Parklawn Drive, Montgomery County, MD, United States"
+    },
+    {
+        "name": "ProQuest Season 3 KEEPSEVEN",
+        "country": "Germany",
+        "link": "https://keepseven.de/events/",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "25 Große Burgstraße, Lübecker Altstadt, Lübeck, Germany"
+    },
+    {
+        "name": "ProQuest Season 3 Črna Luknja",
+        "country": "Slovenia",
+        "link": "https://fabtcg.com/locator/%C4%8Drna-luknja/#event100791",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "19 Poljanska cesta, Ljubljana, Slovenia"
+    },
+    {
+        "name": "ProQuest Season 3 Gold Coast Good Games",
+        "country": "Australia",
+        "link": "https://www.facebook.com/events/666101168420951/",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "501 Olsen Avenue, City of Gold Coast, QLD, Australia"
+    },
+    {
+        "name": "ProQuest Season 3 Cardtastic Collectables and Gaming",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/cardtastic-collectables-and-gaming/#event101439",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "38B Scotsburn Avenue, Monash City, VIC, Australia"
+    },
+    {
+        "name": "ProQuest Season 3 Card Merchant Westcity",
+        "country": "New Zealand",
+        "link": "https://fabtcg.com/locator/card-merchant-westcity/#event99659",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "7 Catherine Street, Henderson, Auckland, New Zealand"
+    },
+    {
         "name": "ProQuest Season 3 LEVEL UP GAMES LLC",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/level-up-games-llc/#event101303",
+        "link": "https://www.eventbrite.com/e/flesh-and-blood-pro-quest-season-3-qualifier-level-up-games-tickets-483153042757",
         "date": {
             "day": 21,
             "month": 1
         },
         "address": "3700 Satellite Boulevard, Gwinnett County, GA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 DRAGON'S HOARD COLLECTIBLES AND GAMES",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/dragons-hoard-collectibles-and-games/#event100839",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "946 North Brindlee Mountain Parkway, Marshall County, AL, United States"
     },
     {
         "name": "ProQuest Season 3 Greg's Games",
@@ -1740,16 +1750,6 @@
         "address": "82 Center Street, Lake County, IL, United States"
     },
     {
-        "name": "ProQuest Season 3 Cardtastic Collectables and Gaming",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/cardtastic-collectables-and-gaming/#event101439",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "38B Scotsburn Avenue, Monash City, VIC, Australia"
-    },
-    {
         "name": "ProQuest Season 3 Isengard Fantasy Shop",
         "country": "Cyprus",
         "link": "https://fabtcg.com/locator/isengard-fantasy-shop/#event99991",
@@ -1758,36 +1758,6 @@
             "month": 1
         },
         "address": "Nicosia, Cyprus"
-    },
-    {
-        "name": "ProQuest Season 3 Underworld Games",
-        "country": "United Kingdom",
-        "link": "https://underworldgames.co.uk/",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "Crocus Street, Nottingham, England, United Kingdom"
-    },
-    {
-        "name": "ProQuest Season 3 Heroes Hideout",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/heroes-hideout/#event99819",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "1641 West Palmetto Street, Florence County, SC, United States"
-    },
-    {
-        "name": "ProQuest Season 3 The Venue Plymouth",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/the-venue-plymouth/#event99878",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "Beaumont Road, Plymouth, England, United Kingdom"
     },
     {
         "name": "ProQuest Season 3 No Pixels Cisar & Domagalski GbR",
@@ -1800,24 +1770,74 @@
         "address": "20 Höhne, Barmen, Wuppertal, Germany"
     },
     {
-        "name": "ProQuest Season 3 Chimera Gaming",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/chimera-gaming/#event99900",
+        "name": "ProQuest Season 3 Underworld Games",
+        "country": "United Kingdom",
+        "link": "https://underworldgames.co.uk/",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "700 Strasburg Road, Waterloo Regional Municipality, ON, Canada"
+        "address": "Crocus Street, Nottingham, England, United Kingdom"
     },
     {
-        "name": "ProQuest Season 3 Hey Wanna Play Game Store",
+        "name": "ProQuest Season 3 Game Kastle Santa Clara",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/hey-wanna-play-game-store/#event100168",
+        "link": "https://fabtcg.com/locator/game-kastle-santa-clara/#event100244",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "5225B West Broward Boulevard, Broward County, FL, United States"
+        "address": "1350 Coleman Avenue, Santa Clara County, CA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Tulnar",
+        "country": "Slovakia",
+        "link": "https://fabtcg.com/locator/tulnar/#event101269",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "7 Vajanského, Lučenec, Lučenec, Banskobystrický kraj, Slovakia"
+    },
+    {
+        "name": "ProQuest Season 3 Jocozaur",
+        "country": "Romania",
+        "link": "https://fabtcg.com/locator/jocozaur/#event100528",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "17 Strada Revoluției, Municipiul Târgu - Mureș, MS, Romania"
+    },
+    {
+        "name": "ProQuest Season 3 Star City Comics & Games",
+        "country": "United States of America",
+        "link": "https://fb.me/e/3iGr1CPrq",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "5728 Williamson Road, Roanoke County, VA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Game Kastle Sacramento",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/game-kastle-sacramento/#event101707",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "5522 Garfield Avenue, Sacramento County, CA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Oh My Game Oy",
+        "country": "Finland",
+        "link": "https://ohmygame.fi/event/-NEv2TsPXeq-MvB1fSSL",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "4a Myyrmäentie, Finland"
     },
     {
         "name": "ProQuest Season 3 Heroes Ink Comics",
@@ -1830,14 +1850,44 @@
         "address": "6080 Steubenville Pike, Allegheny County, PA, United States"
     },
     {
-        "name": "ProQuest Season 3 Star City Comics & Games",
+        "name": "ProQuest Season 3 Game Theory Downtown",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/star-city-games/#event99751",
+        "link": "https://fabtcg.com/locator/game-theory-downtown/#event101207",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "5728 Williamson Road, Roanoke County, VA, United States"
+        "address": "1839 South Main Street, Wake County, NC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 SideQuest",
+        "country": "Poland",
+        "link": "https://fabtcg.com/locator/sidequest/#event100444",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "13B Partyzantów, Gdańsk, Pomorskie, Poland"
+    },
+    {
+        "name": "ProQuest Season 3 Alternate Universes LLC (East Norriton)",
+        "country": "United States of America",
+        "link": "https://www.alternateu.com",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "213 West Germantown Pike, Montgomery County, PA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Gongaii Games, Inc.",
+        "country": "United States of America",
+        "link": "https://gongaii.com/products/event-flesh-and-blood-pro-tour-season-3?_pos=2&_sid=e891e2da9&_ss=r&variant=40255382159425Sign",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "10200 Southwest Allen Boulevard, Washington County, OR, United States"
     },
     {
         "name": "ProQuest Season 3 ShoeBox Games & Cafe",
@@ -1860,134 +1910,24 @@
         "address": "5534 New Cut Road, Jefferson County, KY, United States"
     },
     {
-        "name": "ProQuest Season 3 Jocozaur",
-        "country": "Romania",
-        "link": "https://fabtcg.com/locator/jocozaur/#event100528",
+        "name": "ProQuest Season 3 Chimera Gaming",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/chimera-gaming/#event99900",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "17 Strada Revoluției, Municipiul Târgu - Mureș, MS, Romania"
+        "address": "700 Strasburg Road, Waterloo Regional Municipality, ON, Canada"
     },
     {
-        "name": "ProQuest Season 3 SideQuest",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/sidequest/#event100444",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "13B Partyzantów, Gdańsk, Pomorskie, Poland"
-    },
-    {
-        "name": "ProQuest Season 3 Tulnar",
-        "country": "Slovakia",
-        "link": "https://fabtcg.com/locator/tulnar/#event101269",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "7 Vajanského, Lučenec, Lučenec, Banskobystrický kraj, Slovakia"
-    },
-    {
-        "name": "ProQuest Season 3 Alternate Universes LLC (East Norriton)",
+        "name": "ProQuest Season 3 Hey Wanna Play Game Store",
         "country": "United States of America",
-        "link": "https://www.alternateu.com",
+        "link": "https://fabtcg.com/locator/hey-wanna-play-game-store/#event100168",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "213 West Germantown Pike, Montgomery County, PA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Oh My Game Oy",
-        "country": "Finland",
-        "link": "https://ohmygame.fi/event/-NEv2TsPXeq-MvB1fSSL",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "4a Myyrmäentie, Finland"
-    },
-    {
-        "name": "ProQuest Season 3 Gongaii Games, Inc.",
-        "country": "United States of America",
-        "link": "https://gongaii.com/products/event-flesh-and-blood-pro-tour-season-3?_pos=2&_sid=e891e2da9&_ss=r&variant=40255382159425Sign",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "10200 Southwest Allen Boulevard, Washington County, OR, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Lantern Games LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/lantern-games-llc/#event101111",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "821 South Garfield Avenue, Grand Traverse County, MI, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Game Kastle Sacramento",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/game-kastle-sacramento/#event101707",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "5522 Garfield Avenue, Sacramento County, CA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Magic Man Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/magic-man-games/#event100133",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "58 North Brown Street, Oneida County, WI, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Gators Games and Hobby",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/gators-games-and-hobby/#event99913",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "720 Shawnee Street, Leavenworth County, KS, United States"
-    },
-    {
-        "name": "ProQuest Season 3 CM Games - Lexington",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/cm-games-lexington/#event101289",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "3401 Nicholasville Road, Fayette County, KY, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Amazing Discoveries",
-        "country": "United States of America",
-        "link": "https://www.amazingmtg.com/catalog/events-tucson_events/14228",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "238 South Tucson Boulevard, Pima County, AZ, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Trading Cards United E.u.",
-        "country": "Austria",
-        "link": "https://fabtcg.com/locator/trading-cards-united-eu/#event100050",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "29 Ghegagasse, Graz, Steiermark, Austria"
+        "address": "5225B West Broward Boulevard, Broward County, FL, United States"
     },
     {
         "name": "ProQuest Season 3 The Battleground Cafe",
@@ -1998,36 +1938,6 @@
             "month": 1
         },
         "address": "2008 County Road E East, Ramsey County, MN, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Redcap's Corner",
-        "country": "United States of America",
-        "link": "https://www.redcapscorner.com/event/pro-quest-jan-2023/",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "3850 Lancaster Avenue, Philadelphia County, PA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Space Cadets Gaming Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/space-cadets-gaming-gaming/#event100738",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "27326 Robinson Road, Montgomery County, TX, United States"
-    },
-    {
-        "name": "ProQuest Season 3 From the Ashes Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/from-the-ashes-gaming/#event100511",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "600 East Penn Avenue, Berks County, PA, United States"
     },
     {
         "name": "ProQuest Season 3 217 Comics, Cards & Games",
@@ -2050,14 +1960,44 @@
         "address": "2133 East Garfield Street, Albany County, WY, United States"
     },
     {
-        "name": "ProQuest Season 3 Akiba Underground",
+        "name": "ProQuest Season 3 Flipside Gaming East Greenbush",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/akiba-underground/#event100641",
+        "link": "https://fabtcg.com/locator/flipside-gaming-east-greenbush/#event99873",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "5 Post Office Square, Middlesex County, CT, United States"
+        "address": "598 Columbia Turnpike, Rensselaer County, NY, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Trading Cards United E.u.",
+        "country": "Austria",
+        "link": "https://www.facebook.com/events/1369332010543356/",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "29 Ghegagasse, Graz, Steiermark, Austria"
+    },
+    {
+        "name": "ProQuest Season 3 Magic Man Games",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/events/3077812285851501",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "58 North Brown Street, Oneida County, WI, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Gators Games and Hobby",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/gators-games-and-hobby/#event99913",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "720 Shawnee Street, Leavenworth County, KS, United States"
     },
     {
         "name": "ProQuest Season 3 JAVA GAME HAUS",
@@ -2068,6 +2008,46 @@
             "month": 1
         },
         "address": "11018 Old Saint Augustine Road, Duval County, FL, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Akiba Underground",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/akiba-underground/#event100641",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "5 Post Office Square, Middlesex County, CT, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Redcap's Corner",
+        "country": "United States of America",
+        "link": "https://www.redcapscorner.com/event/pro-quest-jan-2023/",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "3850 Lancaster Avenue, Philadelphia County, PA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Heroes Hideout",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/heroes-hideout/#event99819",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "1641 West Palmetto Street, Florence County, SC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Space Cadets Gaming Gaming",
+        "country": "United States of America",
+        "link": "https://spacecadetsgaming.com/collections/events/products/flesh-and-blood-pro-quest-season-3-qualifier-ticket?ticket=flesh-and-blood-pro-quest-season-3-qualifier-ticket",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "27326 Robinson Road, Montgomery County, TX, United States"
     },
     {
         "name": "ProQuest Season 3 The Blue Post",
@@ -2090,14 +2070,14 @@
         "address": "Asa Sul, Brasília, DF, Brazil"
     },
     {
-        "name": "ProQuest Season 3 No Dice",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/no-dice/#event99669",
+        "name": "ProQuest Season 3 Lantern Games LLC",
+        "country": "United States of America",
+        "link": "https://lantern.games/collections/events/products/proquest-season-3",
         "date": {
             "day": 21,
             "month": 1
         },
-        "address": "51 Todd Street, Alice Springs Municipality, NT, Australia"
+        "address": "821 South Garfield Avenue, Grand Traverse County, MI, United States"
     },
     {
         "name": "ProQuest Season 3 Media Men Cards & Collectibles",
@@ -2108,6 +2088,16 @@
             "month": 1
         },
         "address": "3719 Magazine Street, Orleans Parish, LA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 No Dice",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/no-dice/#event99669",
+        "date": {
+            "day": 21,
+            "month": 1
+        },
+        "address": "51 Todd Street, Alice Springs Municipality, NT, Australia"
     },
     {
         "name": "ProQuest Season 3 La Crypte Du Jeu",
@@ -2122,7 +2112,7 @@
     {
         "name": "ProQuest Season 3 D6 Games",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/d6-games/#event99641",
+        "link": "https://fabtcg.com/locator/d6-games/#event104027",
         "date": {
             "day": 21,
             "month": 1
@@ -2138,16 +2128,6 @@
             "month": 1
         },
         "address": "6260 Cypress Gardens Boulevard, Polk County, FL, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Enchanted Realms Games and Gifts",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/enchanted-realms-games-and-gifts/#event101434",
-        "date": {
-            "day": 21,
-            "month": 1
-        },
-        "address": "1231 North Academy Boulevard, El Paso County, CO, United States"
     },
     {
         "name": "ProQuest Season 3 HGround Hobbies and Toys Shop",
@@ -2170,24 +2150,54 @@
         "address": "36 Rue de la Clef, Nord, Hauts-de-France, France"
     },
     {
-        "name": "ProQuest Season 3 Sip & Play Boardgame cafe",
-        "country": "United States of America",
-        "link": "https://square.link/u/XbNpz2cP",
+        "name": "ProQuest Season 3 I CIVETTONI",
+        "country": "Italy",
+        "link": "https://fabtcg.com/locator/i-civettoni/#event100648",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "471 5th Avenue, Brooklyn, Kings County, NY, United States"
+        "address": "8 Via Cereate, Città Metropolitana di Roma, Lazio, Italy"
     },
     {
-        "name": "ProQuest Season 3 Strefa MTG",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/strefa-mtg/#event100438",
+        "name": "ProQuest Season 3 Friends & Foes Amsterdam",
+        "country": "Netherlands",
+        "link": "https://fabtcg.com/locator/friends-foes-amsterdam/#event100200",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "30a Polna, Śródmieście, Warszawa, Mazowieckie, Poland"
+        "address": "31 Jan van Galenstraat, Amsterdam-West, Amsterdam, NH, Netherlands"
+    },
+    {
+        "name": "ProQuest Season 3 Tabletop Tavern",
+        "country": "United States of America",
+        "link": "http://www.tabletoptavern.co",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "1417 Hilltop Drive, San Diego County, CA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Midian Gaming",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/the-midian-guard/#event100948",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "16-24 Fuller Road, Melton City, VIC, Australia"
+    },
+    {
+        "name": "ProQuest Season 3 FaB Foundry",
+        "country": "United States of America",
+        "link": "https://www.fabfoundry.co/collections/events",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "450 Northwest 257th Way, Multnomah County, OR, United States"
     },
     {
         "name": "ProQuest Season 3 Júpiter Madrid",
@@ -2200,44 +2210,24 @@
         "address": "8 Calle de Manuel Silvela, Madrid, MD, Spain"
     },
     {
-        "name": "ProQuest Season 3 Friends & Foes Amsterdam",
-        "country": "Netherlands",
-        "link": "https://fabtcg.com/locator/friends-foes-amsterdam/#event100200",
+        "name": "ProQuest Season 3 Orchard City Games",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/orchard-city-games/#event101007",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "80 Roelof Hartstraat, Amsterdam-Zuid, Amsterdam, NH, Netherlands"
+        "address": "2330 British Columbia 97, Westbank, Central Okanagan, BC, Canada"
     },
     {
-        "name": "ProQuest Season 3 Board in the City CIC",
-        "country": "United Kingdom",
-        "link": "https://www.facebook.com/events/647564947018327",
+        "name": "ProQuest Season 3 Sip & Play Boardgame cafe",
+        "country": "United States of America",
+        "link": "https://square.link/u/XbNpz2cP",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "38-40 Onslow Road, Southampton, England, United Kingdom"
-    },
-    {
-        "name": "ProQuest Season 3 Uchronies Games",
-        "country": "France",
-        "link": "https://fabtcg.com/locator/uchronies-games/#event99716",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "61 Rue Letellier, Département de Paris, IDF, France"
-    },
-    {
-        "name": "ProQuest Season 3 I CIVETTONI",
-        "country": "Italy",
-        "link": "https://fabtcg.com/locator/i-civettoni/#event100648",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "8 Via Cereate, Città Metropolitana di Roma, Lazio, Italy"
+        "address": "471 5th Avenue, Brooklyn, Kings County, NY, United States"
     },
     {
         "name": "ProQuest Season 3 Xenomorphe",
@@ -2250,14 +2240,24 @@
         "address": "54 Rue des Bains, Genève, GE, Switzerland"
     },
     {
-        "name": "ProQuest Season 3 Orchard City Games",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/orchard-city-games/#event101007",
+        "name": "ProQuest Season 3 The Realm Games (oh)!",
+        "country": "United States of America",
+        "link": "https://realmgames.myshopify.com/products/fab-proquest-3-ticket?ticket=fab-proquest-3-ticket",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "2330 British Columbia 97, Westbank, Central Okanagan, BC, Canada"
+        "address": "1500 West 4th Street, Richland County, OH, United States"
+    },
+    {
+        "name": "ProQuest Season 3 GameForce",
+        "country": "Netherlands",
+        "link": "https://discord.gg/YExMdTjPye",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "18A Visserstraat, Woensel-Zuid, Eindhoven, NB, Netherlands"
     },
     {
         "name": "ProQuest Season 3 GG Lounge",
@@ -2270,14 +2270,34 @@
         "address": "52 Rua São Pedro, Viseu, Portugal"
     },
     {
+        "name": "ProQuest Season 3 Uchronies Games",
+        "country": "France",
+        "link": "https://fabtcg.com/locator/uchronies-games/#event99716",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "61 Rue Letellier, Département de Paris, IDF, France"
+    },
+    {
         "name": "ProQuest Season 3 Three for One Trading",
         "country": "Austria",
-        "link": "https://fabtcg.com/locator/three-for-one-trading/#event100583",
+        "link": "https://www.threeforonetrading.com/en/events#fab",
         "date": {
             "day": 22,
             "month": 1
         },
         "address": "76 Neulerchenfelder Straße, Ottakring, Wien, Austria"
+    },
+    {
+        "name": "ProQuest Season 3 Rosso Cinque",
+        "country": "Italy",
+        "link": "https://fb.me/e/2d92zKFWe",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "Via dei Ciclamini, Provincia di Forlì-Cesena, Emilia-Romagna, Italy"
     },
     {
         "name": "ProQuest Season 3 Next Level Games",
@@ -2287,12 +2307,12 @@
             "day": 22,
             "month": 1
         },
-        "address": "14B Møllegade, Denmark"
+        "address": "14 Møllegade, København N, Denmark"
     },
     {
         "name": "ProQuest Season 3 RELIC",
         "country": "France",
-        "link": "https://event.relictcg.com/",
+        "link": "https://relictcg.eventcalendarapp.com/u/35131/204098",
         "date": {
             "day": 22,
             "month": 1
@@ -2300,14 +2320,14 @@
         "address": "32 Grande Rue Saint-Michel, Haute-Garonne, Occitanie, France"
     },
     {
-        "name": "ProQuest Season 3 Rosso Cinque",
-        "country": "Italy",
-        "link": "https://fabtcg.com/locator/rosso-cinque/#event100593",
+        "name": "ProQuest Season 3 Board in the City CIC",
+        "country": "United Kingdom",
+        "link": "https://www.facebook.com/events/647564947018327",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "Via dei Ciclamini, Provincia di Forlì-Cesena, Emilia-Romagna, Italy"
+        "address": "38-40 Onslow Road, Southampton, England, United Kingdom"
     },
     {
         "name": "ProQuest Season 3 CARAB",
@@ -2320,14 +2340,24 @@
         "address": "49 Hirschengraben, Luzern, LU, Switzerland"
     },
     {
-        "name": "ProQuest Season 3 Kingslayer Games (Fountain Valley, CA)",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/kingslayer-games/#event100502",
+        "name": "ProQuest Season 3 Black Flame",
+        "country": "Greece",
+        "link": "https://fabtcg.com/locator/black-flame/#event101698",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "11213 Slater Avenue, Orange County, CA, United States"
+        "address": "18 Monastiriou, Greece"
+    },
+    {
+        "name": "ProQuest Season 3 Dice & Destiny",
+        "country": "United States of America",
+        "link": "https://diceanddestiny.co.uk/products/flesh-and-blood-proquest-season-3",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "Kent, England, United Kingdom"
     },
     {
         "name": "ProQuest Season 3 Il Labirinto - Comics, Cards & Games",
@@ -2350,126 +2380,6 @@
         "address": "3 Nürnberger Straße, Mitte, Leipzig, Germany"
     },
     {
-        "name": "ProQuest Season 3 Voxymoron",
-        "country": "Germany",
-        "link": "https://voxymoron.de/flesh-and-blood-proquest-22-01-2023.html",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "39 Reinhardtstraße, Mitte, Berlin, Germany"
-    },
-    {
-        "name": "ProQuest Season 3 JK Entertainment",
-        "country": "Germany",
-        "link": "https://fabtcg.com/locator/jk-entertainment/#event101774",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "267 Eschersheimer Landstraße, Innenstadt I, Frankfurt am Main, Germany"
-    },
-    {
-        "name": "ProQuest Season 3 Collector Legion",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/collector-legion/#event101151",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "4451 Redondo Beach Boulevard, Los Angeles County, CA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 The Local Game Store",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-local-game-store/#event101019",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "970 North Coit Road, Dallas County, TX, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Hairy Tarantula",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/hairy-tarantula-2/#event99916",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "3456 Yonge Street, Old Toronto, Toronto Division, ON, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 Great Canadian Games & Hobbies",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/great-canadian-games-hobbies/#event99770",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "1410 Lasalle Boulevard, Sudbury, Greater Sudbury Division, ON, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 Manascrew",
-        "country": "United Kingdom",
-        "link": "https://www.manascrewevents.com/events/",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "52 Sheep Street, Northamptonshire, England, United Kingdom"
-    },
-    {
-        "name": "ProQuest Season 3 Game Kastle Santa Clara",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/game-kastle-santa-clara/#event100244",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "1350 Coleman Avenue, Santa Clara County, CA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Carta Magica",
-        "country": "Croatia",
-        "link": "https://fabtcg.com/locator/carta-magica/#event99750",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "22 Frankopanska ulica, Grad Zagreb, Croatia"
-    },
-    {
-        "name": "ProQuest Season 3 The Collective: A Comic & Game Community",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/the-collective-a-comic-game-community/#event100078",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "520 West State Road 436, Seminole County, FL, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Elementgaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/elementgaming/#event102429",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "2801 Wade Hampton Boulevard, Greenville County, SC, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Game Kastle (Westgate)",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/game-kastle-westgate/#event101356",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "1600 Saratoga Avenue, Santa Clara County, CA, United States"
-    },
-    {
         "name": "ProQuest Season 3 PLAYlive Nation",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/playlive-nation/#event101742",
@@ -2480,84 +2390,24 @@
         "address": "1000 North Point Parkway, Fulton County, GA, United States"
     },
     {
-        "name": "ProQuest Season 3 Card Table Republic",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/card-table-republic/#event100493",
+        "name": "ProQuest Season 3 Voxymoron",
+        "country": "Germany",
+        "link": "https://voxymoron.de/flesh-and-blood-proquest-22-01-2023.html",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "8427 Davison Road, Genesee County, MI, United States"
+        "address": "39 Reinhardtstraße, Mitte, Berlin, Germany"
     },
     {
-        "name": "ProQuest Season 3 Chez Geeks",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/chez-geeks/#event99854",
+        "name": "ProQuest Season 3 Fantasy Shop",
+        "country": "Greece",
+        "link": "https://fabtcg.com/locator/fantasy-shop/#event99733",
         "date": {
             "day": 22,
             "month": 1
         },
-        "address": "1663 Rue Saint-Denis, Ville-Marie, Communauté-Urbaine-de-Montréal, QC, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 House of Cards",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/house-of-cards/#event101193",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "4007 Country Club Road, Forsyth County, NC, United States"
-    },
-    {
-        "name": "ProQuest Season 3 BrickHouse Collectibles",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/brickhouse-collectibles/#event101862",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "163 West End Avenue, Knox County, TN, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Dan Solo Comics & Collectables",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/dan-solo-comics-collectables/#event101001",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "57 Hopkins Street, Glenorchy City Council, TAS, Australia"
-    },
-    {
-        "name": "ProQuest Season 3 Goblin King Games",
-        "country": "United States of America",
-        "link": "https://fb.me/e/3OsFOvrtC",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "2750 East Silver Springs Boulevard, Marion County, FL, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Comic Kung Fu",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/comic-kung-fu/#event100987",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "672 North Loudoun Street, VA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Max Level Gaming",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/clevelandcardresale/#event101726",
-        "date": {
-            "day": 22,
-            "month": 1
-        },
-        "address": "2080 West 65th Street, Cuyahoga County, OH, United States"
+        "address": "65 3is Septemvriou, Greece"
     },
     {
         "name": "ProQuest Season 3 Nerdvana",
@@ -2580,14 +2430,244 @@
         "address": "1010 West 104th Avenue, Adams County, CO, United States"
     },
     {
+        "name": "ProQuest Season 3 JK Entertainment",
+        "country": "Germany",
+        "link": "https://fabtcg.com/locator/jk-entertainment/#event101774",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "267 Eschersheimer Landstraße, Innenstadt I, Frankfurt am Main, Germany"
+    },
+    {
+        "name": "ProQuest Season 3 Elementgaming",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/elementgaming/#event102429",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "2801 Wade Hampton Boulevard, Greenville County, SC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Collector Legion",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/collector-legion/#event101151",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "4451 Redondo Beach Boulevard, Los Angeles County, CA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 The Local Game Store",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-local-game-store/#event101019",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "970 North Coit Road, Dallas County, TX, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Game Kastle (Westgate)",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/game-kastle-westgate/#event101356",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "1600 Saratoga Avenue, Santa Clara County, CA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 The Collective: A Comic & Game Community",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/the-collective-a-comic-game-community/#event100078",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "520 West State Road 436, Seminole County, FL, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Carta Magica",
+        "country": "Croatia",
+        "link": "https://fabtcg.com/locator/carta-magica/#event99750",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "22 Frankopanska ulica, Grad Zagreb, Croatia"
+    },
+    {
+        "name": "ProQuest Season 3 Manascrew",
+        "country": "United Kingdom",
+        "link": "https://www.manascrewevents.com/events/",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "52 Sheep Street, Northamptonshire, England, United Kingdom"
+    },
+    {
+        "name": "ProQuest Season 3 Great Canadian Games & Hobbies",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/great-canadian-games-hobbies/#event99770",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "1410 Lasalle Boulevard, Sudbury, Greater Sudbury Division, ON, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 Flow Games",
+        "country": "Brazil",
+        "link": "https://www.flowstore.com.br/?view=ecom/itens&cat=84186",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "33 Rua Ituverava, Vila Prudente, São Paulo, SP, Brazil"
+    },
+    {
+        "name": "ProQuest Season 3 Hairy Tarantula",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/hairy-tarantula-2/#event99916",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "3456 Yonge Street, Old Toronto, Toronto Division, ON, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 GuuBuu Hobby",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/guubuu-hobby/#event104154",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "3334 Stone Mountain Highway, Gwinnett County, GA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Strefa MTG",
+        "country": "Poland",
+        "link": "https://strefamtg.pl/rejestracja-na-wydarzenia/97301-rejestracja-flesh-and-blood-proquest-s3-classic-constructed-2201-o-g-1230.html",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "7A Polna, Śródmieście, Warszawa, Mazowieckie, Poland"
+    },
+    {
+        "name": "ProQuest Season 3 Chez Geeks",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/chez-geeks/#event99854",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "1663 Rue Saint-Denis, Ville-Marie, Communauté-Urbaine-de-Montréal, QC, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 Card Table Republic",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/card-table-republic/#event100493",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "8427 Davison Road, Genesee County, MI, United States"
+    },
+    {
+        "name": "ProQuest Season 3 House of Cards",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/house-of-cards/#event101193",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "4007 Country Club Road, Forsyth County, NC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 BrickHouse Collectibles",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/brickhouse-collectibles/#event101862",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "163 West End Avenue, Knox County, TN, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Blitzkrieg Games & Comics",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/blitzkrieg-games-comics/#event101945",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "681 Texas 46, Comal County, TX, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Goblin King Games",
+        "country": "United States of America",
+        "link": "https://fb.me/e/3OsFOvrtC",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "2750 East Silver Springs Boulevard, Marion County, FL, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Dan Solo Comics & Collectables",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/dan-solo-comics-collectables/#event101001",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "57 Hopkins Street, Glenorchy City Council, TAS, Australia"
+    },
+    {
+        "name": "ProQuest Season 3 Comic Kung Fu",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/comic-kung-fu/#event100987",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "672 North Loudoun Street, VA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Max Level Gaming",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/clevelandcardresale/#event101726",
+        "date": {
+            "day": 22,
+            "month": 1
+        },
+        "address": "2080 West 65th Street, Cuyahoga County, OH, United States"
+    },
+    {
         "name": "ProQuest Season 3 Outpost Brussels",
         "country": "Belgium",
-        "link": "https://fabtcg.com/locator/outpost-brussels/#event101027",
+        "link": "https://outpostbrussels.be/collections/flesh-blood/products/22-01-flesh-blood-proquest-registration",
         "date": {
             "day": 22,
             "month": 1
         },
         "address": "8 Rue de la Tribune, Pentagone, Bruxelles, Belgium"
+    },
+    {
+        "name": "ProQuest Season 3 貓腳印遊樂園",
+        "country": "Taiwan",
+        "link": "https://fabtcg.com/locator/%E8%B2%93%E8%85%B3%E5%8D%B0%E9%81%8A%E6%A8%82%E5%9C%92/#event99675",
+        "date": {
+            "day": 25,
+            "month": 1
+        },
+        "address": "10 Zhonghua Road, Taoyuan City, Taiwan"
     },
     {
         "name": "ProQuest Season 3 The Comic Book Store",
@@ -2607,17 +2687,7 @@
             "day": 28,
             "month": 1
         },
-        "address": "64 Clyde Street, City of Darebin, VIC, Australia"
-    },
-    {
-        "name": "ProQuest Season 3 Ludiworld",
-        "country": "France",
-        "link": "https://fabtcg.com/locator/ludiworld/#event99866",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "9 Boulevard Pierre Mendès France, Seine-et-Marne, IDF, France"
+        "address": "218 High Street, City of Darebin, VIC, Australia"
     },
     {
         "name": "ProQuest Season 3 Tabletop Renaissance Games & Hobbies",
@@ -2630,34 +2700,14 @@
         "address": "1570 Marentette Avenue, Essex County, ON, Canada"
     },
     {
-        "name": "ProQuest Season 3 Boutique Awesome",
-        "country": "Canada",
-        "link": "https://fabtcg.com/locator/boutique-awesome/#event100473",
+        "name": "ProQuest Season 3 Ludiworld",
+        "country": "France",
+        "link": "https://fabtcg.com/locator/ludiworld/#event99866",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "5666 Chemin de Chambly, Saint-Hubert, QC, Canada"
-    },
-    {
-        "name": "ProQuest Season 3 Need Now Toys & Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/need-now-toys-games/#event101517",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "945 Esther Lane, Rutherford County, TN, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Black Lotus",
-        "country": "Czechia",
-        "link": "https://fabtcg.com/locator/black-lotus/#event100564",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "208 Puchmajerova, Moravská Ostrava a Přívoz, Ostrava-město, Moravskoslezský kraj, Czechia"
+        "address": "9 Boulevard Pierre Mendès France, Seine-et-Marne, IDF, France"
     },
     {
         "name": "ProQuest Season 3 Dice Addiction",
@@ -2670,14 +2720,34 @@
         "address": "4622 East 11th Street, Tulsa County, OK, United States"
     },
     {
-        "name": "ProQuest Season 3 HeroFreaks",
-        "country": "Spain",
-        "link": "https://fabtcg.com/locator/herofreaks/#event100611",
+        "name": "ProQuest Season 3 Boarder Than Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/boarder-than-games/#event104871",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "Calle Vicario Vicent Salvador, Valencia, VC, Spain"
+        "address": "945 Esther Lane, Rutherford County, TN, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Mr. Bill's Collectible World",
+        "country": "United States of America",
+        "link": "https://fb.me/e/1Epkorzks",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "100 Washington Avenue, Kitsap County, WA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 City Class Games",
+        "country": "Brazil",
+        "link": "https://www.cityclassgames.com.br/?view=ecom/itens&cat=85424",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "941 Rua Custódio Serrão, Jaguará, São Paulo, SP, Brazil"
     },
     {
         "name": "ProQuest Season 3 The Lounge",
@@ -2700,49 +2770,39 @@
         "address": "7170 Warden Avenue, Regional Municipality of York, ON, Canada"
     },
     {
-        "name": "ProQuest Season 3 City Class Games",
-        "country": "Brazil",
-        "link": "https://www.ccgeventos.com.br",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "941 Rua Custódio Serrão, Jaguará, São Paulo, SP, Brazil"
-    },
-    {
-        "name": "ProQuest Season 3 Centrum Gier Inny Wymiar",
-        "country": "Poland",
-        "link": "https://fabtcg.com/locator/centrum-gier-inny-wymiar/#event99971",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "20 Bożogrobców, Katowice, Śląskie, Poland"
-    },
-    {
-        "name": "ProQuest Season 3 Mr. Bill's Collectible World",
+        "name": "ProQuest Season 3 Tubbys TCG",
         "country": "United States of America",
-        "link": "https://fb.me/e/1Epkorzks",
+        "link": "https://fabtcg.com/locator/tubbys-tcg/#event99841",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "100 Washington Avenue, Kitsap County, WA, United States"
+        "address": "9019 Park Plaza Drive, San Diego County, CA, United States"
     },
     {
-        "name": "ProQuest Season 3 Demo-Spel bv",
-        "country": "Belgium",
-        "link": "https://fabtcg.com/locator/demo-spel-bv/#event101557",
+        "name": "ProQuest Season 3 Boutique Awesome",
+        "country": "Canada",
+        "link": "https://www.boutiqueawesome.com/collections/special-events/products/boutique-awesome-flesh-and-blood-proquest-win-a-case-samedi-28-janvier-2022-10h",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "3 Sint-Hubertusstraat, Vlaams-Brabant, Vlaams Gewest, Belgium"
+        "address": "5666 Chemin de Chambly, Saint-Hubert, Champlain, QC, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 HeroFreaks",
+        "country": "Spain",
+        "link": "https://fabtcg.com/locator/herofreaks/#event100611",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "Calle Vicario Vicent Salvador, Valencia, VC, Spain"
     },
     {
         "name": "ProQuest Season 3 Bad Moon Cafe",
         "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/bad-moon-cafe/#event101069",
+        "link": "https://www.badmooncafe.co.uk/product/flesh-blood-proquest-season-3/",
         "date": {
             "day": 28,
             "month": 1
@@ -2750,34 +2810,14 @@
         "address": "159a Great Dover Street, Greater London, England, United Kingdom"
     },
     {
-        "name": "ProQuest Season 3 Ender's Games",
+        "name": "ProQuest Season 3 Forge and Fire Gaming LLC",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/enders-games/#event99793",
+        "link": "https://fabtcg.com/locator/forge-and-fire-gaming-llc/#event101832",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "195 West Shaw Avenue, Fresno County, CA, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Alara Games",
-        "country": "Sweden",
-        "link": "https://www.alaragames.se/pages/events",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "16 Föreningsgatan, Centrala Staden-Tingvalla, Västra Götalands län, Sweden"
-    },
-    {
-        "name": "ProQuest Season 3 Webway Games",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/webway-games/#event100056",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "496 Boston Post Road East, Middlesex County, MA, United States"
+        "address": "6921 South Lindbergh Boulevard, St. Louis County, MO, United States"
     },
     {
         "name": "ProQuest Season 3 Highlander Games",
@@ -2790,14 +2830,14 @@
         "address": "102 Annfield Road, Dundee City Council, Scotland, United Kingdom"
     },
     {
-        "name": "ProQuest Season 3 Forge and Fire Gaming LLC",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/forge-and-fire-gaming-llc/#event101832",
+        "name": "ProQuest Season 3 Dice Jar Games",
+        "country": "New Zealand",
+        "link": "https://fabtcg.com/locator/dice-jar-games-ltd/#event100742",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "6921 South Lindbergh Boulevard, St. Louis County, MO, United States"
+        "address": "324 George Street, Central Dunedin, Otago, New Zealand"
     },
     {
         "name": "ProQuest Season 3 Unison Games Cafe",
@@ -2820,14 +2860,44 @@
         "address": "25 Hilton Street, Greater Manchester, England, United Kingdom"
     },
     {
-        "name": "ProQuest Season 3 TGG Gaming LLC",
-        "country": "United States of America",
-        "link": "https://www.facebook.com/TGG-Gaming-103471007707969",
+        "name": "ProQuest Season 3 Centrum Gier Inny Wymiar",
+        "country": "Poland",
+        "link": "https://facebook.com/events/s/fab-proquest-s3/826411401930818/",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "9915 Lyndale Avenue South, Hennepin County, MN, United States"
+        "address": "20 Bożogrobców, Katowice, Śląskie, Poland"
+    },
+    {
+        "name": "ProQuest Season 3 Showcase Comics and Hobbies",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/showcase-comics-and-hobbies/#event101716",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "1271 3 Avenue South, Lethbridge County, AB, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 The Trading Card Shop",
+        "country": "Singapore",
+        "link": "https://fabtcg.com/locator/the-trading-card-shop/#event101006",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "59d Jalan Malu-malu, Singapore"
+    },
+    {
+        "name": "ProQuest Season 3 Ender's Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/enders-games/#event99793",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "195 West Shaw Avenue, Fresno County, CA, United States"
     },
     {
         "name": "ProQuest Season 3 The Side Deck Gaming Cafe",
@@ -2860,9 +2930,29 @@
         "address": "2345 Russellville Road, Warren County, KY, United States"
     },
     {
+        "name": "ProQuest Season 3 Webway Games",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/webway-games/#event100056",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "496 Boston Post Road East, Middlesex County, MA, United States"
+    },
+    {
+        "name": "ProQuest Season 3 TGG Gaming LLC",
+        "country": "United States of America",
+        "link": "https://www.facebook.com/TGG-Gaming-103471007707969",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "9915 Lyndale Avenue South, Hennepin County, MN, United States"
+    },
+    {
         "name": "ProQuest Season 3 GamersCorps",
         "country": "United States of America",
-        "link": "https://www.gamers-corps.store/collections/flesh-and-blood-events",
+        "link": "https://www.gamers-corps.com",
         "date": {
             "day": 28,
             "month": 1
@@ -2870,14 +2960,14 @@
         "address": "8167 Main Street, Howard County, MD, United States"
     },
     {
-        "name": "ProQuest Season 3 Dice Jar Games",
-        "country": "New Zealand",
-        "link": "https://fabtcg.com/locator/dice-jar-games-ltd/#event100742",
+        "name": "ProQuest Season 3 Alara Games",
+        "country": "Sweden",
+        "link": "https://www.alaragames.se/collections/events/products/alara-games-pro-quest-season-3-flesh-and-blood-ticket-sat-28-jan-2023?ticket=alara-games-pro-quest-season-3-flesh-and-blood-ticket-sat-28-jan-2023",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "324 George Street, Central Dunedin, Otago, New Zealand"
+        "address": "16 Föreningsgatan, Centrala Staden-Tingvalla, Västra Götalands län, Sweden"
     },
     {
         "name": "ProQuest Season 3 WNY Gaming LLC",
@@ -2910,19 +3000,9 @@
         "address": "36 West Main Street, Davidson County, NC, United States"
     },
     {
-        "name": "ProQuest Season 3 Gamers Guild",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/gamers-guild/#event101417",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "1044 Lillington Highway, Cumberland County, NC, United States"
-    },
-    {
         "name": "ProQuest Season 3 Nerd Rage Gaming",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/nerd-rage-gaming/#event101864",
+        "link": "https://fb.me/e/6dMy6Rb1H",
         "date": {
             "day": 28,
             "month": 1
@@ -2930,44 +3010,34 @@
         "address": "1361 West Dundee Road, Cook County, IL, United States"
     },
     {
-        "name": "ProQuest Season 3 Dreamescape Gaming Inc.",
+        "name": "ProQuest Season 3 Cat Footprints (Kaohsiung)",
+        "country": "Taiwan",
+        "link": "https://fabtcg.com/locator/cat-footprints-kaohsiung/#event99700",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "77 Liwen Road, Kaohsiung City, Taiwan"
+    },
+    {
+        "name": "ProQuest Season 3 Vintage Games N Junque",
         "country": "Canada",
-        "link": "https://fabtcg.com/locator/dreamescape-gaming-inc/#event100919",
+        "link": "https://fabtcg.com/locator/vintage-games-n-junque/#event99771",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "5205 50th Avenue, Leduc County, AB, Canada"
+        "address": "165 Queen Street East, Algoma District, ON, Canada"
     },
     {
-        "name": "ProQuest Season 3 The Trading Card Shop",
-        "country": "Singapore",
-        "link": "https://fabtcg.com/locator/the-trading-card-shop/#event101006",
+        "name": "ProQuest Season 3 The Venue Plymouth",
+        "country": "United Kingdom",
+        "link": "https://fabtcg.com/locator/the-venue-plymouth/#event99878",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "59d Jalan Malu-malu, Singapore"
-    },
-    {
-        "name": "ProQuest Season 3 Loot Investments LLC / DBA Loot Card Shop",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/loot-investments-llc-dba-loot-card-shop/#event100487",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "58 Barker Road, Washtenaw County, MI, United States"
-    },
-    {
-        "name": "ProQuest Season 3 FYENDAL HOBBY",
-        "country": "Singapore",
-        "link": "https://fabtcg.com/locator/agora-hobby/#event100523",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "809 French Road, Singapore"
+        "address": "Beaumont Road, Plymouth, England, United Kingdom"
     },
     {
         "name": "ProQuest Season 3 Tortuga, Art and Weird Cafe | Bangkok, Thailand",
@@ -2980,14 +3050,34 @@
         "address": "262 Soi Chulalongkorn 11, Khet Pathum Wan, Krung Thep Maha Nakhon, Thailand"
     },
     {
-        "name": "ProQuest Season 3 Vintage Games N Junque",
+        "name": "ProQuest Season 3 Dreamescape Gaming Inc.",
         "country": "Canada",
-        "link": "https://fabtcg.com/locator/vintage-games-n-junque/#event99771",
+        "link": "https://fabtcg.com/locator/dreamescape-gaming-inc/#event100919",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "165 Queen Street East, Algoma District, ON, Canada"
+        "address": "5205 50th Avenue, Leduc County, AB, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 Gamers Guild",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/gamers-guild/#event101417",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "1044 Lillington Highway, Cumberland County, NC, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Loot Investments LLC / DBA Loot Card Shop",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/loot-investments-llc-dba-loot-card-shop/#event100487",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "58 Barker Road, Washtenaw County, MI, United States"
     },
     {
         "name": "ProQuest Season 3 Zeeks Comics and Games",
@@ -3010,16 +3100,6 @@
         "address": "5985 Cara Road, Franklin County, OH, United States"
     },
     {
-        "name": "ProQuest Season 3 Lucky Dice Cafe",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/lucky-dice-cafe/#event100750",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "7914 Memorial Parkway Southwest, Madison County, AL, United States"
-    },
-    {
         "name": "ProQuest Season 3 Heart of Gold Games",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/heart-of-gold-games/#event101172",
@@ -3030,24 +3110,24 @@
         "address": "950 Elgin Avenue, Boulder County, CO, United States"
     },
     {
+        "name": "ProQuest Season 3 Lucky Dice Cafe",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/lucky-dice-cafe/#event100750",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "7914 Memorial Parkway Southwest, Madison County, AL, United States"
+    },
+    {
         "name": "ProQuest Season 3 Mox Saga",
         "country": "Hong Kong",
-        "link": "https://fabtcg.com/locator/mox-saga/#event99701",
+        "link": "https://fabtcg.com/locator/mox-saga/#event104983",
         "date": {
             "day": 28,
             "month": 1
         },
         "address": "44-52 Wai Ching Street, Kowloon, Hong Kong"
-    },
-    {
-        "name": "ProQuest Season 3 Nexus Entertainment",
-        "country": "Iceland",
-        "link": "https://fabtcg.com/locator/nexus-entertainment/#event101039",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "74 Álfheimar, Háaleiti, Iceland"
     },
     {
         "name": "ProQuest Season 3 Heroes Collectables",
@@ -3060,6 +3140,26 @@
         "address": "1801 South Dairy Ashford Road, Harris County, TX, United States"
     },
     {
+        "name": "ProQuest Season 3 Nexus Entertainment",
+        "country": "Iceland",
+        "link": "https://fabtcg.com/locator/nexus-entertainment/#event101039",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "74 Álfheimar, Háaleiti, Iceland"
+    },
+    {
+        "name": "ProQuest Season 3 Demo-Spel bv",
+        "country": "Belgium",
+        "link": "https://fabtcg.com/locator/demo-spel-bv/#event101557",
+        "date": {
+            "day": 28,
+            "month": 1
+        },
+        "address": "3 Sint-Hubertusstraat, Vlaams-Brabant, Vlaams Gewest, Belgium"
+    },
+    {
         "name": "ProQuest Season 3 The Geekery LLC",
         "country": "United States of America",
         "link": "https://fabtcg.com/locator/the-geekery-llc/#event100253",
@@ -3068,16 +3168,6 @@
             "month": 1
         },
         "address": "12616 West 62nd Terrace, Johnson County, KS, United States"
-    },
-    {
-        "name": "ProQuest Season 3 Nerdy Needs",
-        "country": "United States of America",
-        "link": "https://fabtcg.com/locator/nerdy-needs-llc/#event101697",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "733 West Lumsden Road, Hillsborough County, FL, United States"
     },
     {
         "name": "ProQuest Season 3 Game Den - Provo",
@@ -3090,24 +3180,14 @@
         "address": "604 North Freedom Boulevard, Utah County, UT, United States"
     },
     {
-        "name": "ProQuest Season 3 Cat Footprints (Kaohsiung)",
-        "country": "Taiwan",
-        "link": "https://fabtcg.com/locator/cat-footprints-kaohsiung/#event99700",
+        "name": "ProQuest Season 3 Nerdy Needs",
+        "country": "United States of America",
+        "link": "https://fabtcg.com/locator/nerdy-needs-llc/#event109198",
         "date": {
             "day": 28,
             "month": 1
         },
-        "address": "77 Liwen Road, Kaohsiung City, Taiwan"
-    },
-    {
-        "name": "ProQuest Season 3 Dragon's Lair Salisbury",
-        "country": "Australia",
-        "link": "https://fabtcg.com/locator/dragons-lair-salisbury/#event100763",
-        "date": {
-            "day": 28,
-            "month": 1
-        },
-        "address": "7-9 Gawler Street, City of Salisbury, SA, Australia"
+        "address": "733 West Lumsden Road, Hillsborough County, FL, United States"
     },
     {
         "name": "ProQuest Season 3 Taverne & Donjon",
@@ -3118,16 +3198,6 @@
             "month": 1
         },
         "address": "9 Place du 6 Juin 1944, Calvados, Normandie, France"
-    },
-    {
-        "name": "ProQuest Season 3 AK Games Centre",
-        "country": "Malaysia",
-        "link": "https://fabtcg.com/locator/ak-games-centre/#event100219",
-        "date": {
-            "day": 29,
-            "month": 1
-        },
-        "address": "Taman Wawasan, Selangor, Malaysia"
     },
     {
         "name": "ProQuest Season 3 Gamers Haven",
@@ -3142,12 +3212,22 @@
     {
         "name": "ProQuest Season 3 Grand J Games",
         "country": "Australia",
-        "link": "https://fabtcg.com/locator/grand-j-games/#event99984",
+        "link": "https://grandjgames.com/Event_FAB_20230129",
         "date": {
             "day": 29,
             "month": 1
         },
-        "address": "69 Rose Street, Moonee Valley City, VIC, Australia"
+        "address": "720 Mount Alexander Road, City of Moonee Valley, VIC, Australia"
+    },
+    {
+        "name": "ProQuest Season 3 Alpha Games",
+        "country": "United Kingdom",
+        "link": "https://www.facebook.com/events/493644796026797/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22unknown%22%2C%22surface%22%3A%22user_timeline%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+        "date": {
+            "day": 29,
+            "month": 1
+        },
+        "address": "Suffolk, England, United Kingdom"
     },
     {
         "name": "ProQuest Season 3 Pro Tech Games Ltd",
@@ -3168,16 +3248,6 @@
             "month": 1
         },
         "address": "60 Robert Street, Whangārei, Northland, New Zealand"
-    },
-    {
-        "name": "ProQuest Season 3 Alpha Games",
-        "country": "United Kingdom",
-        "link": "https://www.facebook.com/events/493644796026797/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22unknown%22%2C%22surface%22%3A%22user_timeline%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22create_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
-        "date": {
-            "day": 29,
-            "month": 1
-        },
-        "address": "Suffolk, England, United Kingdom"
     },
     {
         "name": "ProQuest Season 3 Minipolo - The Boardgame Cafe",
@@ -3210,24 +3280,14 @@
         "address": "52 Calle Padre Recaredo de Los Rios, Alicante, VC, Spain"
     },
     {
-        "name": "ProQuest Season 3 Jeux Kingdom",
-        "country": "Singapore",
-        "link": "https://fabtcg.com/locator/jeux-kingdom/#event99658",
+        "name": "ProQuest Season 3 AK Games Centre",
+        "country": "Malaysia",
+        "link": "https://fabtcg.com/locator/ak-games-centre/#event100219",
         "date": {
             "day": 29,
             "month": 1
         },
-        "address": "150 Orchard Road, Singapore"
-    },
-    {
-        "name": "ProQuest Season 3 Fantasy Shop",
-        "country": "Greece",
-        "link": "https://fabtcg.com/locator/fantasy-shop/#event99733",
-        "date": {
-            "day": 29,
-            "month": 1
-        },
-        "address": "65 3is Septemvriou, Greece"
+        "address": "Taman Wawasan, Selangor, Malaysia"
     },
     {
         "name": "ProQuest Season 3 Game Universe Brookfield",
@@ -3237,12 +3297,52 @@
             "day": 29,
             "month": 1
         },
-        "address": "19555 West Blue Mound Road, Waukesha County, WI, United States"
+        "address": "19555 West Bluemound Road, Waukesha County, WI, United States"
+    },
+    {
+        "name": "ProQuest Season 3 Rule Zero",
+        "country": "United Kingdom",
+        "link": "https://www.facebook.com/events/488289746761704/",
+        "date": {
+            "day": 29,
+            "month": 1
+        },
+        "address": "4A Roach Road, Greater London, England, United Kingdom"
+    },
+    {
+        "name": "ProQuest Season 3 FYENDAL HOBBY",
+        "country": "Singapore",
+        "link": "https://fabtcg.com/locator/agora-hobby/#event100523",
+        "date": {
+            "day": 29,
+            "month": 1
+        },
+        "address": "809 French Road, Singapore"
+    },
+    {
+        "name": "ProQuest Season 3 Jeux Kingdom",
+        "country": "Singapore",
+        "link": "https://www.facebook.com/JeuxKingdom/",
+        "date": {
+            "day": 29,
+            "month": 1
+        },
+        "address": "150 Orchard Road, Singapore"
+    },
+    {
+        "name": "ProQuest Season 3 Dragon's Lair Salisbury",
+        "country": "Australia",
+        "link": "https://fabtcg.com/locator/dragons-lair-salisbury/#event100763",
+        "date": {
+            "day": 29,
+            "month": 1
+        },
+        "address": "7-9 Gawler Street, City of Salisbury, SA, Australia"
     },
     {
         "name": "ProQuest Season 3 Haven Games",
         "country": "United States of America",
-        "link": "https://fabtcg.com/locator/haven-games-llc/#event99946",
+        "link": "https://haven-games.com/events-1/ola/services/proquest-3",
         "date": {
             "day": 29,
             "month": 1
@@ -3260,14 +3360,14 @@
         "address": "5715 Kearny Villa Road, San Diego County, CA, United States"
     },
     {
-        "name": "ProQuest Season 3 Rule Zero",
-        "country": "United Kingdom",
-        "link": "https://fabtcg.com/locator/rule-zero/#event99842",
+        "name": "ProQuest Season 3 Carta Magica MONTRÉAL",
+        "country": "Canada",
+        "link": "https://fabtcg.com/locator/carta-magica-montr%C3%A9al/#event100387",
         "date": {
             "day": 29,
             "month": 1
         },
-        "address": "4A Roach Road, Greater London, England, United Kingdom"
+        "address": "6360 Rue Saint-Hubert, Rosemont—La Petite-Patrie, Communauté-Urbaine-de-Montréal, QC, Canada"
     },
     {
         "name": "ProQuest Season 3 Source Comics and Games",
@@ -3290,16 +3390,6 @@
         "address": "1167 Providence Road, Worcester County, MA, United States"
     },
     {
-        "name": "ProQuest Season 3 OGRE Lair Puri Indah",
-        "country": "Indonesia",
-        "link": "https://fabtcg.com/locator/ogre/#event99681",
-        "date": {
-            "day": 29,
-            "month": 1
-        },
-        "address": "Jakarta, Indonesia"
-    },
-    {
         "name": "ProQuest Season 3 BattlegroundHK",
         "country": "Hong Kong",
         "link": "https://fabtcg.com/locator/battlegroundhk/#event99698",
@@ -3312,12 +3402,22 @@
     {
         "name": "ProQuest Season 3 Red Riot Games",
         "country": "Canada",
-        "link": "https://fabtcg.com/locator/dicey-business-inc-llbo-escape-rooms-and-board-game-cafe/#event100341",
+        "link": "https://redriotgames.ca/collections/events/products/pro-quest-ticket-sun-jan-29-2023",
         "date": {
             "day": 29,
             "month": 1
         },
-        "address": "640 Eglinton Avenue West, Regional Municipality of Peel, ON, Canada"
+        "address": "640 Eglinton Avenue West, Old Toronto, Toronto Division, ON, Canada"
+    },
+    {
+        "name": "ProQuest Season 3 OGRE Lair Puri Indah",
+        "country": "Indonesia",
+        "link": "https://fabtcg.com/locator/ogre/#event104683",
+        "date": {
+            "day": 29,
+            "month": 1
+        },
+        "address": "Jakarta, Indonesia"
     },
     {
         "name": "ProQuest Season 3 Prime Time Gaming",
