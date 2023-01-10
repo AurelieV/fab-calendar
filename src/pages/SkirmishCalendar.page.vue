@@ -21,9 +21,9 @@
 import { Pf_Footer } from 'purplefox-tools'
 
 import TournamentCalendar from '/src/components/TournamentCalendar.vue'
-import tournaments from '/src/assets/data/skirmich-5-2022.json'
+import tournaments from '/src/assets/data/skirmish-5-2022.json'
 
-const title = 'Flesh and Blood Skirmich Calendar'
+const title = 'Flesh and Blood Skirmish Calendar'
 
 export const documentProps = {
   title,

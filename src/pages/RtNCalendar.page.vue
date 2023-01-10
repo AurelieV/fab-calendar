@@ -9,7 +9,7 @@
     </main>
     <nav class="mt-6 mb-2">
       <ul>
-        <li class="text-center"><a class="pf-link" href="/skirmich">Skirmich Calendar</a></li>
+        <li class="text-center"><a class="pf-link" href="/skirmish">Skirmish Calendar</a></li>
         <li class="text-center"><a class="pf-link" href="/proquest">ProQuest Calendar</a></li>
       </ul>
     </nav>
