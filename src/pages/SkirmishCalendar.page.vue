@@ -4,7 +4,7 @@
       <TournamentCalendar
         :tournaments="tournaments"
         :title="title"
-        :year="2022"
+        :year="2023"
       ></TournamentCalendar>
     </main>
     <nav class="mt-6 mb-2">
