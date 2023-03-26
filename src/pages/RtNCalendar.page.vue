@@ -4,7 +4,7 @@
       <TournamentCalendar
         :tournaments="tournaments"
         :title="title"
-        :year="2022"
+        :year="2023"
       ></TournamentCalendar>
     </main>
     <nav class="mt-6 mb-2">
@@ -21,10 +21,9 @@
 import { Pf_Footer } from 'purplefox-tools'
 
 import TournamentCalendar from '/src/components/TournamentCalendar.vue'
-import tournaments_cc from '/src/assets/data/rtn-cc-2022.json'
-import tournaments_draft from '/src/assets/data/rtn-draft-2022.json'
+import tournaments from '/src/assets/data/rtn-2023.json'
 
-const tournaments = [...tournaments_cc, ...tournaments_draft]
+const tournaments = [...tournaments]
 
 const title = 'Flesh and Blood Road to National Calendar'
 
