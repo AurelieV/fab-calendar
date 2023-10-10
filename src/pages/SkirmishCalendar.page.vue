@@ -21,7 +21,7 @@
 import { Pf_Footer } from 'purplefox-tools'
 
 import TournamentCalendar from '/src/components/TournamentCalendar.vue'
-import tournaments from '/src/assets/data/skirmish-6_2023.json'
+import tournaments from '/src/assets/data/skirmish-8_2023.json'
 
 const title = 'Flesh and Blood Skirmish Calendar'
 

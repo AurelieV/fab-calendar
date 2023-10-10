@@ -10,7 +10,6 @@
     <nav class="mt-6 mb-2">
       <ul>
         <li class="text-center"><a class="pf-link" href="/skirmish">Skirmish Calendar</a></li>
-        <li class="text-center"><a class="pf-link" href="/rtn">Road to National Calendar</a></li>
       </ul>
     </nav>
     <Pf_Footer></Pf_Footer>
@@ -21,9 +20,9 @@
 import { Pf_Footer } from 'purplefox-tools'
 
 import TournamentCalendar from '/src/components/TournamentCalendar.vue'
-import tournaments from '/src/assets/data/pq-2023-q1.json'
+import tournaments from '/src/assets/data/pq-2023-q4.json'
 
-const title = 'Flesh and Blood ProQuest Calendar Season 3'
+const title = 'Flesh and Blood ProQuest Calendar Season 4'
 
 export const documentProps = {
   title,

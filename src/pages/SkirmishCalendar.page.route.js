@@ -1,4 +1,4 @@
 export default (pageContext) => {
   const { url } = pageContext
-  return ['/', '/skirmish'].includes(url)
+  return ['/skirmish'].includes(url)
 }
