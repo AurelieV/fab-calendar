@@ -21,7 +21,7 @@
 import { Pf_Footer } from 'purplefox-tools'
 
 import TournamentCalendar from '/src/components/TournamentCalendar.vue'
-import tournaments from '/src/assets/data/rtn-2023.json'
+import tournaments from '/src/assets/data/rtn-2024.json'
 
 const title = 'Flesh and Blood Road to National Calendar'
 

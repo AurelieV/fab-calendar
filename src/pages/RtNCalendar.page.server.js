@@ -1,5 +1,5 @@
 export { prerender }
 
 function prerender() {
-  return ['/rtn']
+  return ['/', '/rtn']
 }
