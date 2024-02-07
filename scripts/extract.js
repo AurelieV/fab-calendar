@@ -4,8 +4,8 @@ const parseDate = require('date-fns/parse')
 const formatDate = require('date-fns/format')
 const fs = require('fs')
 
-const nbPage = 29
-const TYPE = 105
+const nbPage = 20
+const TYPE = 107
 
 function getOptions(page, type = '') {
   return {
@@ -22,8 +22,12 @@ async function scrapPage(page, type) {
   try {
     const $ = await rp(getOptions(page, type))
     $('.event').each(function () {
-      const name = $(this).find('h2').text().replace('Skirmish Season 8 ', '').trim()
-      const country = $(this).find('i.flag').attr('title')
+      const name = $(this)
+        .find('h2')
+        .text()
+        .replace('Road to Nationals 2024 - Classic Constructed ', '')
+        .trim()
+      const country = $(this).find('i.flag').attr('title') || 'Unknown'
       const link = $(this).find('a').attr('href')
 
       const paragraphs = $(this).find('p')
@@ -57,7 +61,7 @@ async function scrap(type) {
     result = result.concat(events)
   }
   console.log(`Finish ${result.length} tournaments extracted`)
-  fs.writeFileSync('skirmish-8_2023.json', JSON.stringify(result, null, 4))
+  fs.writeFileSync('rtn-cc_2024.json', JSON.stringify(result, null, 4))
 }
 
 scrap(TYPE)
